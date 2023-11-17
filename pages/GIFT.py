@@ -187,6 +187,8 @@ with st.form('my_form', clear_on_submit=False):
               '''
     
     st.markdown(message)
+
+    submit = st.form_submit_button('Submit')
     
     col1, col2, col3 = st.columns([2,2,2], gap='small')
 
@@ -222,7 +224,7 @@ with st.form('my_form', clear_on_submit=False):
                              min_value=10, max_value=100)
     
 
-    submit = st.form_submit_button('Submit')
+
 
 binDict = createBins(number)
 dfBins = pd.DataFrame.from_dict(binDict)
