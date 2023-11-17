@@ -1,0 +1,1247 @@
+seqid,source,type,start,end,score,strand,phase,attributes
+1A,IWGSC,gene,13346605.0,13352572.0,.,+,.,ID=gene:TraesCS1A02G028500;biotype=protein_coding;gene_id=TraesCS1A02G028500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,53436194.0,53438543.0,.,+,.,ID=gene:TraesCS1A02G070500;biotype=protein_coding;gene_id=TraesCS1A02G070500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,257987100.0,257987438.0,.,+,.,ID=gene:TraesCS1A02G150300;biotype=protein_coding;gene_id=TraesCS1A02G150300;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,259994475.0,259997900.0,.,-,.,ID=gene:TraesCS1A02G151400;biotype=protein_coding;description=Cyclin-dependent kinase inhibitor [Source:UniProtKB/TrEMBL%3BAcc:W4ZSJ3];gene_id=TraesCS1A02G151400;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,286915745.0,286916579.0,.,+,.,ID=gene:TraesCS1A02G159700;biotype=protein_coding;gene_id=TraesCS1A02G159700;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,338593153.0,338597314.0,.,-,.,ID=gene:TraesCS1A02G187600;biotype=protein_coding;gene_id=TraesCS1A02G187600;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,363690449.0,363695876.0,.,+,.,ID=gene:TraesCS1A02G202700;biotype=protein_coding;gene_id=TraesCS1A02G202700;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,399825242.0,399826597.0,.,-,.,ID=gene:TraesCS1A02G228500;biotype=protein_coding;gene_id=TraesCS1A02G228500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,420379852.0,420382755.0,.,+,.,ID=gene:TraesCS1A02G237000;biotype=protein_coding;gene_id=TraesCS1A02G237000;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,429485586.0,429498612.0,.,-,.,ID=gene:TraesCS1A02G241600;biotype=protein_coding;gene_id=TraesCS1A02G241600;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,486954012.0,486956900.0,.,-,.,ID=gene:TraesCS1A02G290300;biotype=protein_coding;gene_id=TraesCS1A02G290300;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,488619059.0,488620361.0,.,+,.,ID=gene:TraesCS1A02G293400;biotype=protein_coding;gene_id=TraesCS1A02G293400;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,508627551.0,508633273.0,.,+,.,ID=gene:TraesCS1A02G317100;biotype=protein_coding;description=Histone deacetylase [Source:UniProtKB/TrEMBL%3BAcc:A0A341NRT9];gene_id=TraesCS1A02G317100;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,515147816.0,515150042.0,.,-,.,ID=gene:TraesCS1A02G324600;biotype=protein_coding;gene_id=TraesCS1A02G324600;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,517186972.0,517187646.0,.,-,.,ID=gene:TraesCS1A02G327900;biotype=protein_coding;gene_id=TraesCS1A02G327900;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,536660906.0,536664606.0,.,-,.,ID=gene:TraesCS1A02G352700;biotype=protein_coding;gene_id=TraesCS1A02G352700;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,541460217.0,541460850.0,.,-,.,ID=gene:TraesCS1A02G360100;biotype=protein_coding;description=Histone H4 [Source:UniProtKB/TrEMBL%3BAcc:A0A077RYQ1];gene_id=TraesCS1A02G360100;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,545416981.0,545418748.0,.,-,.,ID=gene:TraesCS1A02G366500;biotype=protein_coding;gene_id=TraesCS1A02G366500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,550109457.0,550111705.0,.,+,.,ID=gene:TraesCS1A02G375200;biotype=protein_coding;gene_id=TraesCS1A02G375200;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,554061310.0,554063347.0,.,+,.,ID=gene:TraesCS1A02G383500;biotype=protein_coding;gene_id=TraesCS1A02G383500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,554102512.0,554106196.0,.,+,.,ID=gene:TraesCS1A02G383900;biotype=protein_coding;gene_id=TraesCS1A02G383900;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,555512819.0,555513577.0,.,+,.,ID=gene:TraesCS1A02G385900;biotype=protein_coding;gene_id=TraesCS1A02G385900;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,564758787.0,564761591.0,.,+,.,ID=gene:TraesCS1A02G401400;biotype=protein_coding;gene_id=TraesCS1A02G401400;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,570153572.0,570155654.0,.,-,.,ID=gene:TraesCS1A02G407800;biotype=protein_coding;description=Patatin [Source:UniProtKB/TrEMBL%3BAcc:W4ZQZ0];gene_id=TraesCS1A02G407800;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,570425616.0,570427442.0,.,-,.,ID=gene:TraesCS1A02G408700;biotype=protein_coding;gene_id=TraesCS1A02G408700;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,570806323.0,570809588.0,.,+,.,ID=gene:TraesCS1A02G409000;biotype=protein_coding;gene_id=TraesCS1A02G409000;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,573925775.0,573927514.0,.,-,.,ID=gene:TraesCS1A02G414500;biotype=protein_coding;gene_id=TraesCS1A02G414500;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,579171915.0,579173746.0,.,+,.,ID=gene:TraesCS1A02G424100;biotype=protein_coding;gene_id=TraesCS1A02G424100;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,580739950.0,580743663.0,.,-,.,ID=gene:TraesCS1A02G426000;biotype=protein_coding;gene_id=TraesCS1A02G426000;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,584083815.0,584086467.0,.,+,.,ID=gene:TraesCS1A02G432200;biotype=protein_coding;gene_id=TraesCS1A02G432200;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,584970458.0,584972374.0,.,+,.,ID=gene:TraesCS1A02G434400;biotype=protein_coding;gene_id=TraesCS1A02G434400;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,586512310.0,586512804.0,.,+,.,ID=gene:TraesCS1A02G436100;biotype=protein_coding;gene_id=TraesCS1A02G436100;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,586516495.0,586519878.0,.,-,.,ID=gene:TraesCS1A02G436200;biotype=protein_coding;gene_id=TraesCS1A02G436200;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,586912538.0,586916052.0,.,+,.,ID=gene:TraesCS1A02G436900;biotype=protein_coding;gene_id=TraesCS1A02G436900;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,590342119.0,590348478.0,.,-,.,ID=gene:TraesCS1A02G441600;biotype=protein_coding;gene_id=TraesCS1A02G441600;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,590546517.0,590553218.0,.,+,.,ID=gene:TraesCS1A02G441800;biotype=protein_coding;gene_id=TraesCS1A02G441800;logic_name=iwgsc_high_conf
+1A,IWGSC,gene,593279894.0,593287280.0,.,+,.,ID=gene:TraesCS1A02G445500;biotype=protein_coding;gene_id=TraesCS1A02G445500;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,4097642.0,4099049.0,.,+,.,ID=gene:TraesCS1B02G007100;biotype=protein_coding;gene_id=TraesCS1B02G007100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,4143562.0,4146861.0,.,+,.,ID=gene:TraesCS1B02G007300;biotype=protein_coding;gene_id=TraesCS1B02G007300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,4222340.0,4225375.0,.,-,.,ID=gene:TraesCS1B02G007700;biotype=protein_coding;gene_id=TraesCS1B02G007700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,4516817.0,4520149.0,.,-,.,ID=gene:TraesCS1B02G008600;biotype=protein_coding;gene_id=TraesCS1B02G008600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,4539577.0,4543678.0,.,-,.,ID=gene:TraesCS1B02G008900;biotype=protein_coding;gene_id=TraesCS1B02G008900;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,5509787.0,5510370.0,.,+,.,ID=gene:TraesCS1B02G011500;biotype=protein_coding;gene_id=TraesCS1B02G011500;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,6485068.0,6487122.0,.,-,.,ID=gene:TraesCS1B02G014100;biotype=protein_coding;gene_id=TraesCS1B02G014100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,10014740.0,10016665.0,.,+,.,ID=gene:TraesCS1B02G022100;biotype=protein_coding;gene_id=TraesCS1B02G022100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,10203991.0,10206698.0,.,-,.,ID=gene:TraesCS1B02G022900;biotype=protein_coding;gene_id=TraesCS1B02G022900;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,10359349.0,10368286.0,.,-,.,ID=gene:TraesCS1B02G023000;biotype=protein_coding;gene_id=TraesCS1B02G023000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,11177447.0,11182638.0,.,-,.,ID=gene:TraesCS1B02G023800;biotype=protein_coding;gene_id=TraesCS1B02G023800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,11860454.0,11863102.0,.,-,.,ID=gene:TraesCS1B02G024600;biotype=protein_coding;gene_id=TraesCS1B02G024600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,16426498.0,16428373.0,.,-,.,ID=gene:TraesCS1B02G033700;biotype=protein_coding;gene_id=TraesCS1B02G033700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,16518247.0,16523333.0,.,+,.,ID=gene:TraesCS1B02G034500;biotype=protein_coding;gene_id=TraesCS1B02G034500;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,16925435.0,16931837.0,.,+,.,ID=gene:TraesCS1B02G035600;biotype=protein_coding;gene_id=TraesCS1B02G035600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,17884038.0,17886088.0,.,-,.,ID=gene:TraesCS1B02G038000;biotype=protein_coding;gene_id=TraesCS1B02G038000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,17889740.0,17892524.0,.,+,.,ID=gene:TraesCS1B02G038100;biotype=protein_coding;gene_id=TraesCS1B02G038100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,17963320.0,17966241.0,.,-,.,ID=gene:TraesCS1B02G038300;biotype=protein_coding;gene_id=TraesCS1B02G038300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,18385559.0,18387800.0,.,-,.,ID=gene:TraesCS1B02G038700;biotype=protein_coding;description=Protein NRT1/ PTR FAMILY 6.2 [Source:Projected from Arabidopsis thaliana (AT2G26690) UniProtKB/Swiss-Prot%3BAcc:Q9SZY4];gene_id=TraesCS1B02G038700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,18419377.0,18423130.0,.,-,.,ID=gene:TraesCS1B02G038800;biotype=protein_coding;gene_id=TraesCS1B02G038800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,31125652.0,31127538.0,.,+,.,ID=gene:TraesCS1B02G051300;biotype=protein_coding;gene_id=TraesCS1B02G051300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,39377535.0,39385214.0,.,+,.,ID=gene:TraesCS1B02G056400;biotype=protein_coding;gene_id=TraesCS1B02G056400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,39393328.0,39397972.0,.,-,.,ID=gene:TraesCS1B02G056500;biotype=protein_coding;gene_id=TraesCS1B02G056500;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,113816236.0,113817684.0,.,-,.,ID=gene:TraesCS1B02G104000;biotype=protein_coding;gene_id=TraesCS1B02G104000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,121403988.0,121406447.0,.,+,.,ID=gene:TraesCS1B02G109400;biotype=protein_coding;gene_id=TraesCS1B02G109400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,121761027.0,121763665.0,.,-,.,ID=gene:TraesCS1B02G109700;biotype=protein_coding;gene_id=TraesCS1B02G109700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,121763672.0,121770455.0,.,-,.,ID=gene:TraesCS1B02G109800;biotype=protein_coding;gene_id=TraesCS1B02G109800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,130018645.0,130021143.0,.,-,.,ID=gene:TraesCS1B02G112000;biotype=protein_coding;gene_id=TraesCS1B02G112000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,139069415.0,139073132.0,.,-,.,ID=gene:TraesCS1B02G118400;biotype=protein_coding;description=Pyridoxal phosphate homeostasis protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5SM55];gene_id=TraesCS1B02G118400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,142291195.0,142292902.0,.,+,.,ID=gene:TraesCS1B02G120200;biotype=protein_coding;gene_id=TraesCS1B02G120200;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,145359519.0,145360822.0,.,+,.,ID=gene:TraesCS1B02G121800;biotype=protein_coding;gene_id=TraesCS1B02G121800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,162279218.0,162285525.0,.,+,.,ID=gene:TraesCS1B02G130600;biotype=protein_coding;gene_id=TraesCS1B02G130600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,180683827.0,180687356.0,.,-,.,ID=gene:TraesCS1B02G138900;biotype=protein_coding;gene_id=TraesCS1B02G138900;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,240485424.0,240504891.0,.,-,.,ID=gene:TraesCS1B02G152000;biotype=protein_coding;gene_id=TraesCS1B02G152000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,284053135.0,284054390.0,.,-,.,ID=gene:TraesCS1B02G163300;biotype=protein_coding;gene_id=TraesCS1B02G163300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,327831406.0,327840756.0,.,+,.,ID=gene:TraesCS1B02G181100;biotype=protein_coding;description=Katanin p80 WD40 repeat-containing subunit B1 homolog [Source:UniProtKB/TrEMBL%3BAcc:A0A341P2R9];gene_id=TraesCS1B02G181100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,329941622.0,329945291.0,.,+,.,ID=gene:TraesCS1B02G183000;biotype=protein_coding;gene_id=TraesCS1B02G183000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,331127979.0,331141170.0,.,+,.,ID=gene:TraesCS1B02G184400;biotype=protein_coding;gene_id=TraesCS1B02G184400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,334674777.0,334685163.0,.,+,.,ID=gene:TraesCS1B02G187300;biotype=protein_coding;gene_id=TraesCS1B02G187300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,385157768.0,385162726.0,.,+,.,ID=gene:TraesCS1B02G211600;biotype=protein_coding;gene_id=TraesCS1B02G211600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,399195576.0,399198971.0,.,+,.,ID=gene:TraesCS1B02G221800;biotype=protein_coding;gene_id=TraesCS1B02G221800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,402103909.0,402113745.0,.,-,.,ID=gene:TraesCS1B02G224100;biotype=protein_coding;gene_id=TraesCS1B02G224100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,438176124.0,438183399.0,.,+,.,ID=gene:TraesCS1B02G247700;biotype=protein_coding;gene_id=TraesCS1B02G247700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,450027843.0,450031104.0,.,+,.,ID=gene:TraesCS1B02G255600;biotype=protein_coding;gene_id=TraesCS1B02G255600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,456184940.0,456188362.0,.,-,.,ID=gene:TraesCS1B02G258700;biotype=protein_coding;gene_id=TraesCS1B02G258700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,461233345.0,461237264.0,.,-,.,ID=gene:TraesCS1B02G262300;biotype=protein_coding;gene_id=TraesCS1B02G262300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,465585111.0,465589319.0,.,-,.,ID=gene:TraesCS1B02G264800;biotype=protein_coding;gene_id=TraesCS1B02G264800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,478721054.0,478725344.0,.,-,.,ID=gene:TraesCS1B02G272900;biotype=protein_coding;gene_id=TraesCS1B02G272900;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,487489192.0,487496862.0,.,-,.,ID=gene:TraesCS1B02G279200;biotype=protein_coding;gene_id=TraesCS1B02G279200;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,510979760.0,510985634.0,.,-,.,ID=gene:TraesCS1B02G293300;biotype=protein_coding;gene_id=TraesCS1B02G293300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,515050824.0,515051485.0,.,+,.,ID=gene:TraesCS1B02G296400;biotype=protein_coding;gene_id=TraesCS1B02G296400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,543843642.0,543844013.0,.,+,.,ID=gene:TraesCS1B02G319800;biotype=protein_coding;gene_id=TraesCS1B02G319800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,546681088.0,546686600.0,.,-,.,ID=gene:TraesCS1B02G322200;biotype=protein_coding;gene_id=TraesCS1B02G322200;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,551032279.0,551033481.0,.,-,.,ID=gene:TraesCS1B02G325300;biotype=protein_coding;gene_id=TraesCS1B02G325300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,551759481.0,551761446.0,.,+,.,ID=gene:TraesCS1B02G326200;biotype=protein_coding;gene_id=TraesCS1B02G326200;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,564631830.0,564636733.0,.,-,.,ID=gene:TraesCS1B02G337300;biotype=protein_coding;gene_id=TraesCS1B02G337300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,569972545.0,569977599.0,.,+,.,ID=gene:TraesCS1B02G341700;biotype=protein_coding;description=Poly [ADP-ribose] polymerase [Source:UniProtKB/TrEMBL%3BAcc:W5A3C9];gene_id=TraesCS1B02G341700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,571164481.0,571171727.0,.,+,.,ID=gene:TraesCS1B02G342700;biotype=protein_coding;gene_id=TraesCS1B02G342700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,583983134.0,583986870.0,.,+,.,ID=gene:TraesCS1B02G354000;biotype=protein_coding;description=BAHD acyltransferase DCR [Source:Projected from Arabidopsis thaliana (AT5G23940) UniProtKB/Swiss-Prot%3BAcc:Q9FF86];gene_id=TraesCS1B02G354000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,594491883.0,594493557.0,.,-,.,ID=gene:TraesCS1B02G364600;biotype=protein_coding;gene_id=TraesCS1B02G364600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,603748990.0,603754958.0,.,+,.,ID=gene:TraesCS1B02G373400;biotype=protein_coding;gene_id=TraesCS1B02G373400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,608335179.0,608335695.0,.,-,.,ID=gene:TraesCS1B02G376600;biotype=protein_coding;description=Histone H4 variant TH011 [Source:UniProtKB/Swiss-Prot%3BAcc:P62785];gene_id=TraesCS1B02G376600;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,621584400.0,621586414.0,.,-,.,ID=gene:TraesCS1B02G387300;biotype=protein_coding;gene_id=TraesCS1B02G387300;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,627841325.0,627841753.0,.,+,.,ID=gene:TraesCS1B02G395800;biotype=protein_coding;gene_id=TraesCS1B02G395800;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,632751553.0,632752549.0,.,+,.,ID=gene:TraesCS1B02G403100;biotype=protein_coding;gene_id=TraesCS1B02G403100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,633111118.0,633119535.0,.,-,.,ID=gene:TraesCS1B02G403400;biotype=protein_coding;gene_id=TraesCS1B02G403400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,639561389.0,639567410.0,.,+,.,ID=gene:TraesCS1B02G414700;biotype=protein_coding;gene_id=TraesCS1B02G414700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,658711931.0,658715531.0,.,-,.,ID=gene:TraesCS1B02G434100;biotype=protein_coding;gene_id=TraesCS1B02G434100;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,660100325.0,660102116.0,.,-,.,ID=gene:TraesCS1B02G437400;biotype=protein_coding;gene_id=TraesCS1B02G437400;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,663607263.0,663612119.0,.,-,.,ID=gene:TraesCS1B02G442700;biotype=protein_coding;gene_id=TraesCS1B02G442700;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,665273729.0,665278609.0,.,+,.,ID=gene:TraesCS1B02G445000;biotype=protein_coding;gene_id=TraesCS1B02G445000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,674079473.0,674081140.0,.,-,.,ID=gene:TraesCS1B02G461000;biotype=protein_coding;gene_id=TraesCS1B02G461000;logic_name=iwgsc_high_conf
+1B,IWGSC,gene,674641423.0,674641629.0,.,-,.,ID=gene:TraesCS1B02G462100;biotype=protein_coding;gene_id=TraesCS1B02G462100;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,548169.0,554637.0,.,-,.,ID=gene:TraesCS1D02G002300;biotype=protein_coding;gene_id=TraesCS1D02G002300;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,2124693.0,2127355.0,.,-,.,ID=gene:TraesCS1D02G004600;biotype=protein_coding;gene_id=TraesCS1D02G004600;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,7896854.0,7899155.0,.,-,.,ID=gene:TraesCS1D02G017900;biotype=protein_coding;gene_id=TraesCS1D02G017900;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,9774410.0,9779817.0,.,+,.,ID=gene:TraesCS1D02G023000;biotype=protein_coding;gene_id=TraesCS1D02G023000;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,10736974.0,10738674.0,.,+,.,ID=gene:TraesCS1D02G026400;biotype=protein_coding;gene_id=TraesCS1D02G026400;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,11408761.0,11415088.0,.,+,.,ID=gene:TraesCS1D02G029000;biotype=protein_coding;description=Pi-ta protein belonging to the nucleotide-binding site leucine-rich repeat (NBS-LRR) class%2C Rice blast resistance (Nipponbare: susceptible [Source: Projected from Oryza sativa (Os12g0281300)];gene_id=TraesCS1D02G029000;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,11451423.0,11459353.0,.,+,.,ID=gene:TraesCS1D02G029100;biotype=protein_coding;description=RGA1e-like protein [Source:UniProtKB/TrEMBL%3BAcc:S5DMA6];gene_id=TraesCS1D02G029100;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,11493627.0,11499140.0,.,+,.,ID=gene:TraesCS1D02G029200;biotype=protein_coding;gene_id=TraesCS1D02G029200;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,18159132.0,18163387.0,.,+,.,ID=gene:TraesCS1D02G038000;biotype=protein_coding;gene_id=TraesCS1D02G038000;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,20968400.0,20973809.0,.,+,.,ID=gene:TraesCS1D02G042500;biotype=protein_coding;gene_id=TraesCS1D02G042500;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,24011795.0,24012854.0,.,+,.,ID=gene:TraesCS1D02G044400;biotype=protein_coding;gene_id=TraesCS1D02G044400;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,34944703.0,34946404.0,.,-,.,ID=gene:TraesCS1D02G053800;biotype=protein_coding;description=Bacterial-type ATP binding cassette (ABC) transporter%2C Al toleranc [Source: Projected from Oryza sativa (Os05g0119000)];gene_id=TraesCS1D02G053800;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,44648152.0,44651988.0,.,-,.,ID=gene:TraesCS1D02G064200;biotype=protein_coding;gene_id=TraesCS1D02G064200;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,46631910.0,46635411.0,.,-,.,ID=gene:TraesCS1D02G065300;biotype=protein_coding;gene_id=TraesCS1D02G065300;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,49423235.0,49426557.0,.,-,.,ID=gene:TraesCS1D02G067600;biotype=protein_coding;gene_id=TraesCS1D02G067600;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,114161191.0,114161686.0,.,+,.,ID=gene:TraesCS1D02G118400;biotype=protein_coding;gene_id=TraesCS1D02G118400;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,136950506.0,136952855.0,.,-,.,ID=gene:TraesCS1D02G125900;biotype=protein_coding;description=Bidirectional sugar transporter SWEET [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5T1A3];gene_id=TraesCS1D02G125900;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,143256701.0,143260129.0,.,-,.,ID=gene:TraesCS1D02G129600;biotype=protein_coding;gene_id=TraesCS1D02G129600;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,166822476.0,166847564.0,.,-,.,ID=gene:TraesCS1D02G134200;biotype=protein_coding;description=Histone acetyltransferase GCN5 [Source:Projected from Arabidopsis thaliana (AT3G54610) UniProtKB/Swiss-Prot%3BAcc:Q9AR19];gene_id=TraesCS1D02G134200;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,188456235.0,188460700.0,.,-,.,ID=gene:TraesCS1D02G137900;biotype=protein_coding;gene_id=TraesCS1D02G137900;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,248927211.0,248931303.0,.,-,.,ID=gene:TraesCS1D02G174600;biotype=protein_coding;gene_id=TraesCS1D02G174600;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,271837356.0,271837817.0,.,-,.,ID=gene:TraesCS1D02G194600;biotype=protein_coding;gene_id=TraesCS1D02G194600;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,286387215.0,286389551.0,.,+,.,ID=gene:TraesCS1D02G202900;biotype=protein_coding;gene_id=TraesCS1D02G202900;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,342161110.0,342162756.0,.,+,.,ID=gene:TraesCS1D02G249400;biotype=protein_coding;gene_id=TraesCS1D02G249400;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,378071222.0,378071992.0,.,-,.,ID=gene:TraesCS1D02G280100;biotype=protein_coding;gene_id=TraesCS1D02G280100;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,384846538.0,384847143.0,.,-,.,ID=gene:TraesCS1D02G286700;biotype=protein_coding;description=Histone H4 [Source:UniProtKB/TrEMBL%3BAcc:A0A077RYQ1];gene_id=TraesCS1D02G286700;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,460851253.0,460857684.0,.,-,.,ID=gene:TraesCS1D02G388800;biotype=protein_coding;gene_id=TraesCS1D02G388800;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,460864251.0,460865984.0,.,-,.,ID=gene:TraesCS1D02G388900;biotype=protein_coding;gene_id=TraesCS1D02G388900;logic_name=iwgsc_high_conf
+1D,IWGSC,gene,468467409.0,468479531.0,.,-,.,ID=gene:TraesCS1D02G403700;biotype=protein_coding;gene_id=TraesCS1D02G403700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,1776596.0,1778573.0,.,+,.,ID=gene:TraesCS2A02G002800;biotype=protein_coding;gene_id=TraesCS2A02G002800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,2880736.0,2885432.0,.,+,.,ID=gene:TraesCS2A02G006500;biotype=protein_coding;gene_id=TraesCS2A02G006500;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,5646829.0,5647377.0,.,-,.,ID=gene:TraesCS2A02G013800;biotype=protein_coding;gene_id=TraesCS2A02G013800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,8141118.0,8143112.0,.,-,.,ID=gene:TraesCS2A02G017300;biotype=protein_coding;gene_id=TraesCS2A02G017300;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,11372823.0,11380596.0,.,-,.,ID=gene:TraesCS2A02G023400;biotype=protein_coding;gene_id=TraesCS2A02G023400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,11543904.0,11550148.0,.,+,.,ID=gene:TraesCS2A02G023500;biotype=protein_coding;gene_id=TraesCS2A02G023500;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,13115653.0,13116909.0,.,+,.,ID=gene:TraesCS2A02G029400;biotype=protein_coding;description=Exocyst subunit Exo70 family protein [Source:UniProtKB/TrEMBL%3BAcc:A0A341PVJ5];gene_id=TraesCS2A02G029400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,13128490.0,13132838.0,.,+,.,ID=gene:TraesCS2A02G029500;biotype=protein_coding;gene_id=TraesCS2A02G029500;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,13134946.0,13136883.0,.,-,.,ID=gene:TraesCS2A02G029600;biotype=protein_coding;gene_id=TraesCS2A02G029600;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,14575803.0,14577565.0,.,+,.,ID=gene:TraesCS2A02G031600;biotype=protein_coding;description=Exocyst subunit Exo70 family protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5TPS0];gene_id=TraesCS2A02G031600;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,16398757.0,16406158.0,.,+,.,ID=gene:TraesCS2A02G039200;biotype=protein_coding;gene_id=TraesCS2A02G039200;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,16522564.0,16529804.0,.,-,.,ID=gene:TraesCS2A02G040000;biotype=protein_coding;gene_id=TraesCS2A02G040000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,16871956.0,16876564.0,.,-,.,ID=gene:TraesCS2A02G042000;biotype=protein_coding;gene_id=TraesCS2A02G042000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,17857166.0,17858293.0,.,+,.,ID=gene:TraesCS2A02G045400;biotype=protein_coding;gene_id=TraesCS2A02G045400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,19100268.0,19106306.0,.,-,.,ID=gene:TraesCS2A02G049700;biotype=protein_coding;gene_id=TraesCS2A02G049700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,28664916.0,28666734.0,.,+,.,ID=gene:TraesCS2A02G063900;biotype=protein_coding;gene_id=TraesCS2A02G063900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,51040751.0,51042375.0,.,+,.,ID=gene:TraesCS2A02G097400;biotype=protein_coding;description=Hexosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:W5B2C3];gene_id=TraesCS2A02G097400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,54953678.0,54955663.0,.,-,.,ID=gene:TraesCS2A02G102000;biotype=protein_coding;description=NAC transcription factor 29 [Source:UniProtKB/TrEMBL%3BAcc:A0A140F1N9];gene_id=TraesCS2A02G102000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,62355831.0,62364956.0,.,-,.,ID=gene:TraesCS2A02G110900;biotype=protein_coding;gene_id=TraesCS2A02G110900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,75642371.0,75644431.0,.,-,.,ID=gene:TraesCS2A02G128000;biotype=protein_coding;gene_id=TraesCS2A02G128000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,78741318.0,78745564.0,.,-,.,ID=gene:TraesCS2A02G131000;biotype=protein_coding;gene_id=TraesCS2A02G131000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,97854089.0,97860407.0,.,+,.,ID=gene:TraesCS2A02G150200;biotype=protein_coding;gene_id=TraesCS2A02G150200;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,214237253.0,214238222.0,.,+,.,ID=gene:TraesCS2A02G222500;biotype=protein_coding;gene_id=TraesCS2A02G222500;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,234287591.0,234291417.0,.,-,.,ID=gene:TraesCS2A02G226400;biotype=protein_coding;gene_id=TraesCS2A02G226400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,356678716.0,356723446.0,.,+,.,ID=gene:TraesCS2A02G245800;biotype=protein_coding;gene_id=TraesCS2A02G245800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,450993736.0,450997337.0,.,-,.,ID=gene:TraesCS2A02G274700;biotype=protein_coding;gene_id=TraesCS2A02G274700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,455481094.0,455481712.0,.,+,.,ID=gene:TraesCS2A02G275900;biotype=protein_coding;description=Cysteine proteinase inhibitor [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5TI43];gene_id=TraesCS2A02G275900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,485779299.0,485780187.0,.,+,.,ID=gene:TraesCS2A02G286100;biotype=protein_coding;gene_id=TraesCS2A02G286100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,547776218.0,547776715.0,.,+,.,ID=gene:TraesCS2A02G319900;biotype=protein_coding;gene_id=TraesCS2A02G319900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,568272957.0,568283852.0,.,+,.,ID=gene:TraesCS2A02G334100;biotype=protein_coding;description=RNA-dependent RNA polymerase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5TB37];gene_id=TraesCS2A02G334100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,605400017.0,605402122.0,.,+,.,ID=gene:TraesCS2A02G361700;biotype=protein_coding;gene_id=TraesCS2A02G361700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,608784120.0,608788150.0,.,+,.,ID=gene:TraesCS2A02G364900;biotype=protein_coding;gene_id=TraesCS2A02G364900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,611934295.0,611940619.0,.,+,.,ID=gene:TraesCS2A02G368200;biotype=protein_coding;gene_id=TraesCS2A02G368200;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,631536603.0,631541376.0,.,+,.,ID=gene:TraesCS2A02G385200;biotype=protein_coding;gene_id=TraesCS2A02G385200;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,646620988.0,646627983.0,.,-,.,ID=gene:TraesCS2A02G395000;biotype=protein_coding;gene_id=TraesCS2A02G395000;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,676238237.0,676242398.0,.,-,.,ID=gene:TraesCS2A02G420200;biotype=protein_coding;gene_id=TraesCS2A02G420200;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,676243346.0,676244202.0,.,-,.,ID=gene:TraesCS2A02G420400;biotype=protein_coding;gene_id=TraesCS2A02G420400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,691841028.0,691842093.0,.,+,.,ID=gene:TraesCS2A02G441800;biotype=protein_coding;gene_id=TraesCS2A02G441800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,695816711.0,695817397.0,.,+,.,ID=gene:TraesCS2A02G446800;biotype=protein_coding;gene_id=TraesCS2A02G446800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,700236463.0,700237462.0,.,-,.,ID=gene:TraesCS2A02G450800;biotype=protein_coding;gene_id=TraesCS2A02G450800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,707064169.0,707064772.0,.,+,.,ID=gene:TraesCS2A02G460800;biotype=protein_coding;gene_id=TraesCS2A02G460800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,709849487.0,709853344.0,.,+,.,ID=gene:TraesCS2A02G464400;biotype=protein_coding;gene_id=TraesCS2A02G464400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,710035813.0,710043295.0,.,+,.,ID=gene:TraesCS2A02G464700;biotype=protein_coding;gene_id=TraesCS2A02G464700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,710647983.0,710655280.0,.,+,.,ID=gene:TraesCS2A02G466100;biotype=protein_coding;gene_id=TraesCS2A02G466100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,711968042.0,711971766.0,.,+,.,ID=gene:TraesCS2A02G467700;biotype=protein_coding;gene_id=TraesCS2A02G467700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,718119209.0,718120918.0,.,+,.,ID=gene:TraesCS2A02G480100;biotype=protein_coding;gene_id=TraesCS2A02G480100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,720059493.0,720062716.0,.,-,.,ID=gene:TraesCS2A02G485100;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6RHL6];gene_id=TraesCS2A02G485100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,727172686.0,727180984.0,.,-,.,ID=gene:TraesCS2A02G495600;biotype=protein_coding;gene_id=TraesCS2A02G495600;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,733215922.0,733217547.0,.,-,.,ID=gene:TraesCS2A02G504300;biotype=protein_coding;gene_id=TraesCS2A02G504300;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,733540216.0,733543361.0,.,+,.,ID=gene:TraesCS2A02G504900;biotype=protein_coding;gene_id=TraesCS2A02G504900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,738213691.0,738213996.0,.,+,.,ID=gene:TraesCS2A02G513600;biotype=protein_coding;gene_id=TraesCS2A02G513600;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,738342018.0,738343398.0,.,+,.,ID=gene:TraesCS2A02G513900;biotype=protein_coding;gene_id=TraesCS2A02G513900;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,757880994.0,757887113.0,.,-,.,ID=gene:TraesCS2A02G550400;biotype=protein_coding;gene_id=TraesCS2A02G550400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,762017471.0,762019722.0,.,+,.,ID=gene:TraesCS2A02G558700;biotype=protein_coding;gene_id=TraesCS2A02G558700;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,762088073.0,762091198.0,.,+,.,ID=gene:TraesCS2A02G558800;biotype=protein_coding;gene_id=TraesCS2A02G558800;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,762231177.0,762234699.0,.,+,.,ID=gene:TraesCS2A02G559100;biotype=protein_coding;gene_id=TraesCS2A02G559100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,762984122.0,762985959.0,.,+,.,ID=gene:TraesCS2A02G561100;biotype=protein_coding;gene_id=TraesCS2A02G561100;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,764089317.0,764095873.0,.,-,.,ID=gene:TraesCS2A02G563400;biotype=protein_coding;gene_id=TraesCS2A02G563400;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,764148634.0,764151194.0,.,-,.,ID=gene:TraesCS2A02G563600;biotype=protein_coding;gene_id=TraesCS2A02G563600;logic_name=iwgsc_high_conf
+2A,IWGSC,gene,776496315.0,776499210.0,.,+,.,ID=gene:TraesCS2A02G586000;biotype=protein_coding;gene_id=TraesCS2A02G586000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,2089831.0,2091638.0,.,+,.,ID=gene:TraesCS2B02G003800;biotype=protein_coding;gene_id=TraesCS2B02G003800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,6336691.0,6341938.0,.,+,.,ID=gene:TraesCS2B02G013000;biotype=protein_coding;gene_id=TraesCS2B02G013000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,8561501.0,8569381.0,.,+,.,ID=gene:TraesCS2B02G018500;biotype=protein_coding;gene_id=TraesCS2B02G018500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,8592551.0,8596822.0,.,+,.,ID=gene:TraesCS2B02G018600;biotype=protein_coding;gene_id=TraesCS2B02G018600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,9617719.0,9622480.0,.,+,.,ID=gene:TraesCS2B02G020200;biotype=protein_coding;gene_id=TraesCS2B02G020200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10355958.0,10359967.0,.,+,.,ID=gene:TraesCS2B02G021500;biotype=protein_coding;gene_id=TraesCS2B02G021500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10382823.0,10389006.0,.,+,.,ID=gene:TraesCS2B02G021700;biotype=protein_coding;gene_id=TraesCS2B02G021700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10575914.0,10593462.0,.,-,.,ID=gene:TraesCS2B02G021800;biotype=protein_coding;gene_id=TraesCS2B02G021800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10595588.0,10599145.0,.,+,.,ID=gene:TraesCS2B02G021900;biotype=protein_coding;gene_id=TraesCS2B02G021900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10774920.0,10777666.0,.,-,.,ID=gene:TraesCS2B02G022600;biotype=protein_coding;gene_id=TraesCS2B02G022600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,10784940.0,10786902.0,.,-,.,ID=gene:TraesCS2B02G022800;biotype=protein_coding;gene_id=TraesCS2B02G022800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,11075050.0,11079340.0,.,+,.,ID=gene:TraesCS2B02G023800;biotype=protein_coding;description=Ethylene receptor [Source:UniProtKB/TrEMBL%3BAcc:A0A341QG43];gene_id=TraesCS2B02G023800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,12024654.0,12027137.0,.,-,.,ID=gene:TraesCS2B02G026100;biotype=protein_coding;gene_id=TraesCS2B02G026100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,12075223.0,12077814.0,.,-,.,ID=gene:TraesCS2B02G026200;biotype=protein_coding;gene_id=TraesCS2B02G026200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,14055477.0,14059744.0,.,-,.,ID=gene:TraesCS2B02G030800;biotype=protein_coding;gene_id=TraesCS2B02G030800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,16868677.0,16871746.0,.,+,.,ID=gene:TraesCS2B02G034700;biotype=protein_coding;gene_id=TraesCS2B02G034700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,18196545.0,18197934.0,.,-,.,ID=gene:TraesCS2B02G040100;biotype=protein_coding;gene_id=TraesCS2B02G040100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,19171858.0,19174837.0,.,-,.,ID=gene:TraesCS2B02G042300;biotype=protein_coding;description=Exocyst subunit Exo70 family protein [Source:UniProtKB/TrEMBL%3BAcc:W5BNU2];gene_id=TraesCS2B02G042300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,19440639.0,19445593.0,.,+,.,ID=gene:TraesCS2B02G042700;biotype=protein_coding;gene_id=TraesCS2B02G042700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,23046973.0,23053252.0,.,+,.,ID=gene:TraesCS2B02G046100;biotype=protein_coding;gene_id=TraesCS2B02G046100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,23118714.0,23124318.0,.,+,.,ID=gene:TraesCS2B02G046600;biotype=protein_coding;gene_id=TraesCS2B02G046600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,23533844.0,23535816.0,.,+,.,ID=gene:TraesCS2B02G046800;biotype=protein_coding;gene_id=TraesCS2B02G046800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,23580386.0,23583637.0,.,-,.,ID=gene:TraesCS2B02G047400;biotype=protein_coding;description=Heat shock protein 90 [Source:UniProtKB/TrEMBL%3BAcc:F4Y590];gene_id=TraesCS2B02G047400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,24264323.0,24279991.0,.,-,.,ID=gene:TraesCS2B02G049300;biotype=protein_coding;description=Terpene cyclase/mutase family member [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5U7S5];gene_id=TraesCS2B02G049300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,24506466.0,24514030.0,.,-,.,ID=gene:TraesCS2B02G049400;biotype=protein_coding;gene_id=TraesCS2B02G049400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,25233729.0,25243382.0,.,+,.,ID=gene:TraesCS2B02G051500;biotype=protein_coding;gene_id=TraesCS2B02G051500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,25278322.0,25285794.0,.,-,.,ID=gene:TraesCS2B02G051800;biotype=protein_coding;gene_id=TraesCS2B02G051800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,27636110.0,27637107.0,.,+,.,ID=gene:TraesCS2B02G056700;biotype=protein_coding;gene_id=TraesCS2B02G056700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,28471663.0,28482006.0,.,-,.,ID=gene:TraesCS2B02G058800;biotype=protein_coding;gene_id=TraesCS2B02G058800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,34098769.0,34101565.0,.,-,.,ID=gene:TraesCS2B02G067500;biotype=protein_coding;description=Dirigent protein [Source:UniProtKB/TrEMBL%3BAcc:A0A341QGV2];gene_id=TraesCS2B02G067500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,34647441.0,34650753.0,.,+,.,ID=gene:TraesCS2B02G068200;biotype=protein_coding;gene_id=TraesCS2B02G068200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,41196489.0,41197075.0,.,-,.,ID=gene:TraesCS2B02G076300;biotype=protein_coding;gene_id=TraesCS2B02G076300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,45677737.0,45681758.0,.,+,.,ID=gene:TraesCS2B02G082100;biotype=protein_coding;gene_id=TraesCS2B02G082100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,47446538.0,47459306.0,.,-,.,ID=gene:TraesCS2B02G085000;biotype=protein_coding;gene_id=TraesCS2B02G085000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,66779845.0,66781882.0,.,-,.,ID=gene:TraesCS2B02G106000;biotype=protein_coding;gene_id=TraesCS2B02G106000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,66805366.0,66805932.0,.,-,.,ID=gene:TraesCS2B02G106100;biotype=protein_coding;gene_id=TraesCS2B02G106100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,69034520.0,69036397.0,.,-,.,ID=gene:TraesCS2B02G108100;biotype=protein_coding;gene_id=TraesCS2B02G108100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,71242929.0,71244417.0,.,-,.,ID=gene:TraesCS2B02G109700;biotype=protein_coding;description=Hexosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:W5BPL7];gene_id=TraesCS2B02G109700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,75990471.0,75991985.0,.,+,.,ID=gene:TraesCS2B02G112800;biotype=protein_coding;description=Hexosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6RMU2];gene_id=TraesCS2B02G112800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,76486292.0,76489168.0,.,-,.,ID=gene:TraesCS2B02G113100;biotype=protein_coding;gene_id=TraesCS2B02G113100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,76921538.0,76930843.0,.,-,.,ID=gene:TraesCS2B02G113600;biotype=protein_coding;gene_id=TraesCS2B02G113600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,77173187.0,77177473.0,.,-,.,ID=gene:TraesCS2B02G114000;biotype=protein_coding;description=Non-specific serine/threonine protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A341QGG1];gene_id=TraesCS2B02G114000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,88853037.0,88856526.0,.,+,.,ID=gene:TraesCS2B02G121300;biotype=protein_coding;gene_id=TraesCS2B02G121300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,89303227.0,89316062.0,.,+,.,ID=gene:TraesCS2B02G121700;biotype=protein_coding;gene_id=TraesCS2B02G121700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,94032963.0,94034428.0,.,-,.,ID=gene:TraesCS2B02G125800;biotype=protein_coding;description=Peroxidase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5UAL2];gene_id=TraesCS2B02G125800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,95239563.0,95241074.0,.,-,.,ID=gene:TraesCS2B02G127100;biotype=protein_coding;gene_id=TraesCS2B02G127100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,95858742.0,95860915.0,.,-,.,ID=gene:TraesCS2B02G128000;biotype=protein_coding;gene_id=TraesCS2B02G128000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,113912189.0,113915288.0,.,+,.,ID=gene:TraesCS2B02G147600;biotype=protein_coding;gene_id=TraesCS2B02G147600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,121667038.0,121673116.0,.,-,.,ID=gene:TraesCS2B02G153700;biotype=protein_coding;gene_id=TraesCS2B02G153700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,122382807.0,122385411.0,.,-,.,ID=gene:TraesCS2B02G154300;biotype=protein_coding;gene_id=TraesCS2B02G154300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,132277795.0,132280471.0,.,+,.,ID=gene:TraesCS2B02G158300;biotype=protein_coding;gene_id=TraesCS2B02G158300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,133689733.0,133697900.0,.,-,.,ID=gene:TraesCS2B02G160100;biotype=protein_coding;gene_id=TraesCS2B02G160100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,135004471.0,135007574.0,.,+,.,ID=gene:TraesCS2B02G162100;biotype=protein_coding;gene_id=TraesCS2B02G162100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,136636973.0,136638966.0,.,-,.,ID=gene:TraesCS2B02G164500;biotype=protein_coding;gene_id=TraesCS2B02G164500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,137620511.0,137622729.0,.,-,.,ID=gene:TraesCS2B02G165500;biotype=protein_coding;gene_id=TraesCS2B02G165500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,138117217.0,138119489.0,.,-,.,ID=gene:TraesCS2B02G165800;biotype=protein_coding;gene_id=TraesCS2B02G165800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,140744710.0,140749251.0,.,+,.,ID=gene:TraesCS2B02G167400;biotype=protein_coding;gene_id=TraesCS2B02G167400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,140763360.0,140773450.0,.,+,.,ID=gene:TraesCS2B02G167600;biotype=protein_coding;gene_id=TraesCS2B02G167600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,140847484.0,140850904.0,.,+,.,ID=gene:TraesCS2B02G168000;biotype=protein_coding;gene_id=TraesCS2B02G168000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,141147152.0,141148686.0,.,+,.,ID=gene:TraesCS2B02G168300;biotype=protein_coding;gene_id=TraesCS2B02G168300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,146732956.0,146737241.0,.,-,.,ID=gene:TraesCS2B02G172400;biotype=protein_coding;gene_id=TraesCS2B02G172400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,156914480.0,156922970.0,.,-,.,ID=gene:TraesCS2B02G181900;biotype=protein_coding;gene_id=TraesCS2B02G181900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,158146060.0,158147761.0,.,+,.,ID=gene:TraesCS2B02G183100;biotype=protein_coding;gene_id=TraesCS2B02G183100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,165503041.0,165512693.0,.,+,.,ID=gene:TraesCS2B02G190100;biotype=protein_coding;gene_id=TraesCS2B02G190100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,174792310.0,174799265.0,.,-,.,ID=gene:TraesCS2B02G196800;biotype=protein_coding;gene_id=TraesCS2B02G196800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,184133486.0,184135102.0,.,-,.,ID=gene:TraesCS2B02G204300;biotype=protein_coding;gene_id=TraesCS2B02G204300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,184899828.0,184900529.0,.,+,.,ID=gene:TraesCS2B02G206000;biotype=protein_coding;gene_id=TraesCS2B02G206000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,246362001.0,246368310.0,.,-,.,ID=gene:TraesCS2B02G242600;biotype=protein_coding;gene_id=TraesCS2B02G242600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,267901444.0,267901908.0,.,+,.,ID=gene:TraesCS2B02G252100;biotype=protein_coding;gene_id=TraesCS2B02G252100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,296002398.0,296005751.0,.,+,.,ID=gene:TraesCS2B02G255800;biotype=protein_coding;description=WAT1-related protein [Source:UniProtKB/TrEMBL%3BAcc:W5BP08];gene_id=TraesCS2B02G255800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,338732105.0,338773313.0,.,+,.,ID=gene:TraesCS2B02G261900;biotype=protein_coding;gene_id=TraesCS2B02G261900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,406098744.0,406119878.0,.,+,.,ID=gene:TraesCS2B02G292100;biotype=protein_coding;gene_id=TraesCS2B02G292100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,449514513.0,449516132.0,.,-,.,ID=gene:TraesCS2B02G314500;biotype=protein_coding;description=RING-type E3 ubiquitin transferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5TYC1];gene_id=TraesCS2B02G314500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,451454030.0,451457012.0,.,+,.,ID=gene:TraesCS2B02G316100;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A096UMA2];gene_id=TraesCS2B02G316100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,458071294.0,458082182.0,.,+,.,ID=gene:TraesCS2B02G321200;biotype=protein_coding;gene_id=TraesCS2B02G321200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,493242615.0,493243166.0,.,+,.,ID=gene:TraesCS2B02G346400;biotype=protein_coding;gene_id=TraesCS2B02G346400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,510058435.0,510062330.0,.,-,.,ID=gene:TraesCS2B02G357100;biotype=protein_coding;gene_id=TraesCS2B02G357100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,515048445.0,515051585.0,.,-,.,ID=gene:TraesCS2B02G362200;biotype=protein_coding;gene_id=TraesCS2B02G362200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,522833598.0,522836002.0,.,+,.,ID=gene:TraesCS2B02G366600;biotype=protein_coding;gene_id=TraesCS2B02G366600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,541943085.0,541945807.0,.,-,.,ID=gene:TraesCS2B02G378900;biotype=protein_coding;gene_id=TraesCS2B02G378900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,572163367.0,572164938.0,.,+,.,ID=gene:TraesCS2B02G403900;biotype=protein_coding;gene_id=TraesCS2B02G403900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,573206990.0,573212416.0,.,-,.,ID=gene:TraesCS2B02G405300;biotype=protein_coding;gene_id=TraesCS2B02G405300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,573593025.0,573594291.0,.,+,.,ID=gene:TraesCS2B02G405400;biotype=protein_coding;gene_id=TraesCS2B02G405400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,612064708.0,612066970.0,.,+,.,ID=gene:TraesCS2B02G425800;biotype=protein_coding;gene_id=TraesCS2B02G425800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,612081188.0,612084374.0,.,-,.,ID=gene:TraesCS2B02G426000;biotype=protein_coding;gene_id=TraesCS2B02G426000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,617140621.0,617143156.0,.,+,.,ID=gene:TraesCS2B02G429800;biotype=protein_coding;gene_id=TraesCS2B02G429800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,621312559.0,621314027.0,.,-,.,ID=gene:TraesCS2B02G432300;biotype=protein_coding;gene_id=TraesCS2B02G432300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,644144549.0,644150653.0,.,+,.,ID=gene:TraesCS2B02G450800;biotype=protein_coding;description=26S proteasome non-ATPase regulatory subunit 1 homolog [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6RL88];gene_id=TraesCS2B02G450800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,649475798.0,649478584.0,.,+,.,ID=gene:TraesCS2B02G454500;biotype=protein_coding;description=Xyloglucan endotransglucosylase/hydrolase [Source:UniProtKB/TrEMBL%3BAcc:W5B7R2];gene_id=TraesCS2B02G454500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,656350070.0,656362552.0,.,-,.,ID=gene:TraesCS2B02G462700;biotype=protein_coding;gene_id=TraesCS2B02G462700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,670748686.0,670753507.0,.,+,.,ID=gene:TraesCS2B02G473600;biotype=protein_coding;gene_id=TraesCS2B02G473600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,670841848.0,670844115.0,.,-,.,ID=gene:TraesCS2B02G473800;biotype=protein_coding;gene_id=TraesCS2B02G473800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,672081196.0,672082083.0,.,+,.,ID=gene:TraesCS2B02G475100;biotype=protein_coding;gene_id=TraesCS2B02G475100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,683034442.0,683040255.0,.,+,.,ID=gene:TraesCS2B02G486000;biotype=protein_coding;gene_id=TraesCS2B02G486000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,683173679.0,683176334.0,.,-,.,ID=gene:TraesCS2B02G486900;biotype=protein_coding;gene_id=TraesCS2B02G486900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,685741193.0,685746862.0,.,+,.,ID=gene:TraesCS2B02G488400;biotype=protein_coding;gene_id=TraesCS2B02G488400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,686817703.0,686820112.0,.,-,.,ID=gene:TraesCS2B02G489500;biotype=protein_coding;gene_id=TraesCS2B02G489500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,688239703.0,688243735.0,.,-,.,ID=gene:TraesCS2B02G490500;biotype=protein_coding;gene_id=TraesCS2B02G490500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,688430630.0,688434145.0,.,+,.,ID=gene:TraesCS2B02G490700;biotype=protein_coding;gene_id=TraesCS2B02G490700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,688456640.0,688459507.0,.,+,.,ID=gene:TraesCS2B02G490800;biotype=protein_coding;description=Signal recognition particle 14 kDa protein [Source:Projected from Arabidopsis thaliana (AT2G43640) UniProtKB/Swiss-Prot%3BAcc:O04421];gene_id=TraesCS2B02G490800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,689764554.0,689766778.0,.,+,.,ID=gene:TraesCS2B02G491400;Name=Ppo-B2;biotype=protein_coding;gene_id=TraesCS2B02G491400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,693321417.0,693326149.0,.,+,.,ID=gene:TraesCS2B02G496700;biotype=protein_coding;gene_id=TraesCS2B02G496700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,693723708.0,693728415.0,.,+,.,ID=gene:TraesCS2B02G497200;biotype=protein_coding;gene_id=TraesCS2B02G497200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,698212664.0,698217597.0,.,-,.,ID=gene:TraesCS2B02G504000;biotype=protein_coding;gene_id=TraesCS2B02G504000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,705326525.0,705328237.0,.,-,.,ID=gene:TraesCS2B02G509100;biotype=protein_coding;gene_id=TraesCS2B02G509100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,710743837.0,710746997.0,.,+,.,ID=gene:TraesCS2B02G515800;biotype=protein_coding;gene_id=TraesCS2B02G515800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,712828911.0,712830350.0,.,-,.,ID=gene:TraesCS2B02G518100;biotype=protein_coding;gene_id=TraesCS2B02G518100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,715021151.0,715024033.0,.,-,.,ID=gene:TraesCS2B02G520400;biotype=protein_coding;gene_id=TraesCS2B02G520400;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,727652802.0,727655234.0,.,-,.,ID=gene:TraesCS2B02G532000;biotype=protein_coding;gene_id=TraesCS2B02G532000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,727682860.0,727689186.0,.,+,.,ID=gene:TraesCS2B02G532200;biotype=protein_coding;gene_id=TraesCS2B02G532200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,728397380.0,728398594.0,.,-,.,ID=gene:TraesCS2B02G532600;biotype=protein_coding;gene_id=TraesCS2B02G532600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,729132686.0,729137065.0,.,-,.,ID=gene:TraesCS2B02G532900;biotype=protein_coding;gene_id=TraesCS2B02G532900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,731460182.0,731462978.0,.,-,.,ID=gene:TraesCS2B02G535500;biotype=protein_coding;gene_id=TraesCS2B02G535500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,734854651.0,734857116.0,.,+,.,ID=gene:TraesCS2B02G539700;biotype=protein_coding;gene_id=TraesCS2B02G539700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,747854621.0,747855307.0,.,-,.,ID=gene:TraesCS2B02G551800;biotype=protein_coding;gene_id=TraesCS2B02G551800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,754920037.0,754927066.0,.,+,.,ID=gene:TraesCS2B02G562700;biotype=protein_coding;gene_id=TraesCS2B02G562700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,761846173.0,761847997.0,.,+,.,ID=gene:TraesCS2B02G571300;biotype=protein_coding;description=Exocyst subunit Exo70 family protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5TX12];gene_id=TraesCS2B02G571300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,765047756.0,765052101.0,.,+,.,ID=gene:TraesCS2B02G575800;biotype=protein_coding;gene_id=TraesCS2B02G575800;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,769032513.0,769041366.0,.,-,.,ID=gene:TraesCS2B02G581300;biotype=protein_coding;gene_id=TraesCS2B02G581300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,771184907.0,771188118.0,.,+,.,ID=gene:TraesCS2B02G584000;biotype=protein_coding;gene_id=TraesCS2B02G584000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,777113595.0,777119391.0,.,-,.,ID=gene:TraesCS2B02G591700;biotype=protein_coding;gene_id=TraesCS2B02G591700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,777962969.0,777964575.0,.,-,.,ID=gene:TraesCS2B02G593200;biotype=protein_coding;gene_id=TraesCS2B02G593200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,778845348.0,778849394.0,.,+,.,ID=gene:TraesCS2B02G594100;biotype=protein_coding;gene_id=TraesCS2B02G594100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,787745806.0,787758101.0,.,+,.,ID=gene:TraesCS2B02G606700;biotype=protein_coding;gene_id=TraesCS2B02G606700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,793577867.0,793581591.0,.,-,.,ID=gene:TraesCS2B02G616200;biotype=protein_coding;gene_id=TraesCS2B02G616200;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,793582054.0,793585867.0,.,-,.,ID=gene:TraesCS2B02G616300;biotype=protein_coding;description=Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5U1A0];gene_id=TraesCS2B02G616300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,793801688.0,793804381.0,.,+,.,ID=gene:TraesCS2B02G617000;biotype=protein_coding;description=Rab18s [Source:UniProtKB/TrEMBL%3BAcc:A0A0C4BJ10];gene_id=TraesCS2B02G617000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794049061.0,794052377.0,.,-,.,ID=gene:TraesCS2B02G617600;biotype=protein_coding;description=Probable magnesium transporter [Source:UniProtKB/TrEMBL%3BAcc:A0A341R0G9];gene_id=TraesCS2B02G617600;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794424747.0,794429463.0,.,-,.,ID=gene:TraesCS2B02G618100;biotype=protein_coding;gene_id=TraesCS2B02G618100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794483250.0,794488425.0,.,+,.,ID=gene:TraesCS2B02G618300;biotype=protein_coding;gene_id=TraesCS2B02G618300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794500736.0,794504405.0,.,-,.,ID=gene:TraesCS2B02G618500;biotype=protein_coding;gene_id=TraesCS2B02G618500;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794560663.0,794565529.0,.,-,.,ID=gene:TraesCS2B02G618700;biotype=protein_coding;gene_id=TraesCS2B02G618700;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,794886058.0,794888478.0,.,+,.,ID=gene:TraesCS2B02G619900;biotype=protein_coding;gene_id=TraesCS2B02G619900;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,795065294.0,795072037.0,.,-,.,ID=gene:TraesCS2B02G621000;biotype=protein_coding;gene_id=TraesCS2B02G621000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,795240639.0,795267859.0,.,-,.,ID=gene:TraesCS2B02G621100;biotype=protein_coding;gene_id=TraesCS2B02G621100;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,795424532.0,795426883.0,.,-,.,ID=gene:TraesCS2B02G621300;biotype=protein_coding;gene_id=TraesCS2B02G621300;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,798578291.0,798583449.0,.,+,.,ID=gene:TraesCS2B02G626000;biotype=protein_coding;gene_id=TraesCS2B02G626000;logic_name=iwgsc_high_conf
+2B,IWGSC,gene,798742785.0,798746188.0,.,-,.,ID=gene:TraesCS2B02G626700;biotype=protein_coding;gene_id=TraesCS2B02G626700;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,2547521.0,2551068.0,.,+,.,ID=gene:TraesCS2D02G004600;biotype=protein_coding;gene_id=TraesCS2D02G004600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,2676802.0,2680722.0,.,-,.,ID=gene:TraesCS2D02G004900;biotype=protein_coding;gene_id=TraesCS2D02G004900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,3033744.0,3035806.0,.,-,.,ID=gene:TraesCS2D02G006500;biotype=protein_coding;gene_id=TraesCS2D02G006500;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,8888644.0,8891402.0,.,+,.,ID=gene:TraesCS2D02G018800;biotype=protein_coding;gene_id=TraesCS2D02G018800;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,9573780.0,9576786.0,.,+,.,ID=gene:TraesCS2D02G019800;biotype=protein_coding;gene_id=TraesCS2D02G019800;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,10070628.0,10072312.0,.,+,.,ID=gene:TraesCS2D02G021900;biotype=protein_coding;gene_id=TraesCS2D02G021900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,12882405.0,12885584.0,.,-,.,ID=gene:TraesCS2D02G033200;biotype=protein_coding;gene_id=TraesCS2D02G033200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,13539902.0,13546782.0,.,-,.,ID=gene:TraesCS2D02G035500;biotype=protein_coding;gene_id=TraesCS2D02G035500;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,13675733.0,13677512.0,.,+,.,ID=gene:TraesCS2D02G036100;biotype=protein_coding;gene_id=TraesCS2D02G036100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,14929327.0,14934730.0,.,+,.,ID=gene:TraesCS2D02G041600;biotype=protein_coding;gene_id=TraesCS2D02G041600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,15027234.0,15031924.0,.,-,.,ID=gene:TraesCS2D02G042100;biotype=protein_coding;gene_id=TraesCS2D02G042100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,15112904.0,15116874.0,.,+,.,ID=gene:TraesCS2D02G042200;biotype=protein_coding;gene_id=TraesCS2D02G042200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,17024826.0,17025262.0,.,-,.,ID=gene:TraesCS2D02G046600;biotype=protein_coding;gene_id=TraesCS2D02G046600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,22428544.0,22433963.0,.,-,.,ID=gene:TraesCS2D02G056000;biotype=protein_coding;gene_id=TraesCS2D02G056000;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,22463890.0,22469262.0,.,+,.,ID=gene:TraesCS2D02G056200;biotype=protein_coding;gene_id=TraesCS2D02G056200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,44468558.0,44470302.0,.,-,.,ID=gene:TraesCS2D02G093100;biotype=protein_coding;description=Hexosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5V0S1];gene_id=TraesCS2D02G093100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,60133692.0,60136690.0,.,-,.,ID=gene:TraesCS2D02G108400;biotype=protein_coding;gene_id=TraesCS2D02G108400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,79692600.0,79701662.0,.,-,.,ID=gene:TraesCS2D02G135600;biotype=protein_coding;gene_id=TraesCS2D02G135600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,80657217.0,80659284.0,.,+,.,ID=gene:TraesCS2D02G136900;biotype=protein_coding;gene_id=TraesCS2D02G136900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,81384995.0,81388897.0,.,-,.,ID=gene:TraesCS2D02G138400;biotype=protein_coding;gene_id=TraesCS2D02G138400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,164284742.0,164287014.0,.,+,.,ID=gene:TraesCS2D02G208900;biotype=protein_coding;gene_id=TraesCS2D02G208900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,190111234.0,190116730.0,.,-,.,ID=gene:TraesCS2D02G223100;biotype=protein_coding;gene_id=TraesCS2D02G223100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,190351033.0,190352636.0,.,-,.,ID=gene:TraesCS2D02G223300;biotype=protein_coding;gene_id=TraesCS2D02G223300;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,433666403.0,433668362.0,.,-,.,ID=gene:TraesCS2D02G339600;biotype=protein_coding;gene_id=TraesCS2D02G339600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,524320443.0,524334300.0,.,+,.,ID=gene:TraesCS2D02G409600;biotype=protein_coding;gene_id=TraesCS2D02G409600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,533834038.0,533837015.0,.,+,.,ID=gene:TraesCS2D02G419700;biotype=protein_coding;gene_id=TraesCS2D02G419700;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,556224050.0,556225006.0,.,-,.,ID=gene:TraesCS2D02G445800;biotype=protein_coding;gene_id=TraesCS2D02G445800;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,580970677.0,580973556.0,.,+,.,ID=gene:TraesCS2D02G480100;biotype=protein_coding;gene_id=TraesCS2D02G480100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,581523421.0,581526532.0,.,+,.,ID=gene:TraesCS2D02G480200;biotype=protein_coding;gene_id=TraesCS2D02G480200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,586151503.0,586154707.0,.,+,.,ID=gene:TraesCS2D02G485400;biotype=protein_coding;gene_id=TraesCS2D02G485400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,592618725.0,592622863.0,.,-,.,ID=gene:TraesCS2D02G495900;biotype=protein_coding;gene_id=TraesCS2D02G495900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,601244733.0,601247388.0,.,-,.,ID=gene:TraesCS2D02G507900;biotype=protein_coding;gene_id=TraesCS2D02G507900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,601262364.0,601263995.0,.,-,.,ID=gene:TraesCS2D02G508200;biotype=protein_coding;description=3-ketoacyl-CoA synthase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5UK51];gene_id=TraesCS2D02G508200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,608481749.0,608484334.0,.,+,.,ID=gene:TraesCS2D02G517700;biotype=protein_coding;gene_id=TraesCS2D02G517700;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,611244388.0,611245963.0,.,+,.,ID=gene:TraesCS2D02G522800;biotype=protein_coding;gene_id=TraesCS2D02G522800;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,611527172.0,611530514.0,.,-,.,ID=gene:TraesCS2D02G522900;biotype=protein_coding;gene_id=TraesCS2D02G522900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,617633476.0,617636538.0,.,+,.,ID=gene:TraesCS2D02G532300;biotype=protein_coding;gene_id=TraesCS2D02G532300;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,617731227.0,617733186.0,.,+,.,ID=gene:TraesCS2D02G532400;biotype=protein_coding;gene_id=TraesCS2D02G532400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,618083760.0,618085136.0,.,+,.,ID=gene:TraesCS2D02G534000;biotype=protein_coding;gene_id=TraesCS2D02G534000;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,618138520.0,618143248.0,.,-,.,ID=gene:TraesCS2D02G534400;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5UH93];gene_id=TraesCS2D02G534400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,618901762.0,618905736.0,.,+,.,ID=gene:TraesCS2D02G536600;biotype=protein_coding;gene_id=TraesCS2D02G536600;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,619732134.0,619734771.0,.,+,.,ID=gene:TraesCS2D02G539400;biotype=protein_coding;gene_id=TraesCS2D02G539400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,620193519.0,620194659.0,.,+,.,ID=gene:TraesCS2D02G540300;biotype=protein_coding;gene_id=TraesCS2D02G540300;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,620198940.0,620199481.0,.,+,.,ID=gene:TraesCS2D02G540400;biotype=protein_coding;gene_id=TraesCS2D02G540400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,622841627.0,622846693.0,.,-,.,ID=gene:TraesCS2D02G546200;biotype=protein_coding;gene_id=TraesCS2D02G546200;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,627361011.0,627361882.0,.,-,.,ID=gene:TraesCS2D02G552100;biotype=protein_coding;description=Putative vacuolar defense protein [Source:UniProtKB/TrEMBL%3BAcc:Q3BER7];gene_id=TraesCS2D02G552100;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,629444034.0,629447766.0,.,-,.,ID=gene:TraesCS2D02G555400;biotype=protein_coding;gene_id=TraesCS2D02G555400;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,629717132.0,629723011.0,.,+,.,ID=gene:TraesCS2D02G555900;biotype=protein_coding;gene_id=TraesCS2D02G555900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,634854788.0,634856525.0,.,-,.,ID=gene:TraesCS2D02G563900;biotype=protein_coding;gene_id=TraesCS2D02G563900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,637631395.0,637634237.0,.,-,.,ID=gene:TraesCS2D02G570900;biotype=protein_coding;gene_id=TraesCS2D02G570900;logic_name=iwgsc_high_conf
+2D,IWGSC,gene,649141071.0,649148234.0,.,+,.,ID=gene:TraesCS2D02G596000;biotype=protein_coding;description=Exocyst subunit Exo70 family protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5UPG4];gene_id=TraesCS2D02G596000;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,95678.0,97870.0,.,-,.,ID=gene:TraesCS3A02G000400;biotype=protein_coding;gene_id=TraesCS3A02G000400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,204727.0,208013.0,.,-,.,ID=gene:TraesCS3A02G000700;biotype=protein_coding;gene_id=TraesCS3A02G000700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,9730086.0,9746758.0,.,-,.,ID=gene:TraesCS3A02G013200;biotype=protein_coding;gene_id=TraesCS3A02G013200;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,11023281.0,11028199.0,.,-,.,ID=gene:TraesCS3A02G017400;biotype=protein_coding;gene_id=TraesCS3A02G017400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,12996897.0,12999736.0,.,+,.,ID=gene:TraesCS3A02G023400;biotype=protein_coding;gene_id=TraesCS3A02G023400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,13079781.0,13083318.0,.,-,.,ID=gene:TraesCS3A02G024100;biotype=protein_coding;gene_id=TraesCS3A02G024100;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,14764482.0,14766910.0,.,+,.,ID=gene:TraesCS3A02G027500;biotype=protein_coding;description=E3 ubiquitin-protein ligase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5VGN4];gene_id=TraesCS3A02G027500;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,26040507.0,26042113.0,.,-,.,ID=gene:TraesCS3A02G049300;biotype=protein_coding;gene_id=TraesCS3A02G049300;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,32425722.0,32428453.0,.,+,.,ID=gene:TraesCS3A02G056400;biotype=protein_coding;gene_id=TraesCS3A02G056400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,32639616.0,32642710.0,.,+,.,ID=gene:TraesCS3A02G056500;biotype=protein_coding;gene_id=TraesCS3A02G056500;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,32700757.0,32706314.0,.,+,.,ID=gene:TraesCS3A02G056700;biotype=protein_coding;gene_id=TraesCS3A02G056700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,36381153.0,36385668.0,.,-,.,ID=gene:TraesCS3A02G060500;biotype=protein_coding;gene_id=TraesCS3A02G060500;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,36920265.0,36922495.0,.,+,.,ID=gene:TraesCS3A02G061600;biotype=protein_coding;gene_id=TraesCS3A02G061600;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,41616680.0,41619866.0,.,+,.,ID=gene:TraesCS3A02G069300;biotype=protein_coding;gene_id=TraesCS3A02G069300;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,44550052.0,44552658.0,.,+,.,ID=gene:TraesCS3A02G072000;biotype=protein_coding;gene_id=TraesCS3A02G072000;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,61308087.0,61309033.0,.,+,.,ID=gene:TraesCS3A02G095900;biotype=protein_coding;gene_id=TraesCS3A02G095900;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,140003720.0,140014025.0,.,+,.,ID=gene:TraesCS3A02G151100;biotype=protein_coding;description=Peptidyl-prolyl cis-trans isomerase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5VHR0];gene_id=TraesCS3A02G151100;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,143533072.0,143535014.0,.,+,.,ID=gene:TraesCS3A02G153000;biotype=protein_coding;gene_id=TraesCS3A02G153000;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,213256188.0,213259550.0,.,+,.,ID=gene:TraesCS3A02G183800;biotype=protein_coding;gene_id=TraesCS3A02G183800;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,337497675.0,337499510.0,.,+,.,ID=gene:TraesCS3A02G201700;biotype=protein_coding;gene_id=TraesCS3A02G201700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,418754981.0,418759858.0,.,-,.,ID=gene:TraesCS3A02G223600;biotype=protein_coding;description=Polypyrimidine tract-binding protein homolog 2 [Source:Projected from Arabidopsis thaliana (AT5G53180) UniProtKB/Swiss-Prot%3BAcc:Q9FGL9];gene_id=TraesCS3A02G223600;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,481878928.0,481882649.0,.,-,.,ID=gene:TraesCS3A02G259500;biotype=protein_coding;gene_id=TraesCS3A02G259500;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,486221895.0,486223480.0,.,-,.,ID=gene:TraesCS3A02G263200;biotype=protein_coding;gene_id=TraesCS3A02G263200;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,487444146.0,487447816.0,.,+,.,ID=gene:TraesCS3A02G263700;biotype=protein_coding;gene_id=TraesCS3A02G263700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,509548196.0,509550801.0,.,-,.,ID=gene:TraesCS3A02G280600;biotype=protein_coding;gene_id=TraesCS3A02G280600;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,509997770.0,510005118.0,.,-,.,ID=gene:TraesCS3A02G281200;biotype=protein_coding;gene_id=TraesCS3A02G281200;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,513604960.0,513610935.0,.,-,.,ID=gene:TraesCS3A02G284700;biotype=protein_coding;gene_id=TraesCS3A02G284700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,569890845.0,569892111.0,.,+,.,ID=gene:TraesCS3A02G325200;biotype=protein_coding;gene_id=TraesCS3A02G325200;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,596485377.0,596486048.0,.,+,.,ID=gene:TraesCS3A02G347200;biotype=protein_coding;description=Histone H4 [Source:UniProtKB/TrEMBL%3BAcc:A0A077RYQ1];gene_id=TraesCS3A02G347200;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,623605025.0,623606374.0,.,+,.,ID=gene:TraesCS3A02G373600;biotype=protein_coding;gene_id=TraesCS3A02G373600;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,657230871.0,657235025.0,.,+,.,ID=gene:TraesCS3A02G413600;biotype=protein_coding;gene_id=TraesCS3A02G413600;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,657922324.0,657928551.0,.,+,.,ID=gene:TraesCS3A02G414100;biotype=protein_coding;gene_id=TraesCS3A02G414100;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,675853107.0,675858020.0,.,+,.,ID=gene:TraesCS3A02G433800;biotype=protein_coding;gene_id=TraesCS3A02G433800;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,675859552.0,675870856.0,.,+,.,ID=gene:TraesCS3A02G433900;biotype=protein_coding;gene_id=TraesCS3A02G433900;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,675873924.0,675878906.0,.,+,.,ID=gene:TraesCS3A02G434000;biotype=protein_coding;gene_id=TraesCS3A02G434000;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,701885233.0,701893466.0,.,-,.,ID=gene:TraesCS3A02G469400;biotype=protein_coding;gene_id=TraesCS3A02G469400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,719931689.0,719937693.0,.,+,.,ID=gene:TraesCS3A02G493500;biotype=protein_coding;gene_id=TraesCS3A02G493500;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,732042210.0,732045097.0,.,-,.,ID=gene:TraesCS3A02G512400;biotype=protein_coding;gene_id=TraesCS3A02G512400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,734838436.0,734843412.0,.,+,.,ID=gene:TraesCS3A02G517800;biotype=protein_coding;description=Diphosphomevalonate decarboxylase [Source:UniProtKB/TrEMBL%3BAcc:A0A341SA89];gene_id=TraesCS3A02G517800;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,742437032.0,742439296.0,.,-,.,ID=gene:TraesCS3A02G528400;biotype=protein_coding;description=Pentatricopeptide repeat-containing protein At4g39530 [Source:Projected from Arabidopsis thaliana (AT4G39530) UniProtKB/Swiss-Prot%3BAcc:Q9SVA5];gene_id=TraesCS3A02G528400;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,746177694.0,746179200.0,.,-,.,ID=gene:TraesCS3A02G533700;biotype=protein_coding;gene_id=TraesCS3A02G533700;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,746633408.0,746634658.0,.,-,.,ID=gene:TraesCS3A02G535100;biotype=protein_coding;description=MYB13 transcription factor [Source:UniProtKB/TrEMBL%3BAcc:S4V9N0];gene_id=TraesCS3A02G535100;logic_name=iwgsc_high_conf
+3A,IWGSC,gene,748849147.0,748851940.0,.,+,.,ID=gene:TraesCS3A02G536900;biotype=protein_coding;gene_id=TraesCS3A02G536900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,2484567.0,2488204.0,.,+,.,ID=gene:TraesCS3B02G004200;biotype=protein_coding;gene_id=TraesCS3B02G004200;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,2511286.0,2514918.0,.,+,.,ID=gene:TraesCS3B02G004600;biotype=protein_coding;gene_id=TraesCS3B02G004600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,3268840.0,3271894.0,.,+,.,ID=gene:TraesCS3B02G006100;biotype=protein_coding;description=3-isopropylmalate dehydrogenase [Source:UniProtKB/TrEMBL%3BAcc:A0A077RNY6];gene_id=TraesCS3B02G006100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,3601450.0,3607208.0,.,+,.,ID=gene:TraesCS3B02G006700;biotype=protein_coding;gene_id=TraesCS3B02G006700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,3665420.0,3667378.0,.,-,.,ID=gene:TraesCS3B02G007200;biotype=protein_coding;gene_id=TraesCS3B02G007200;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,3893594.0,3896553.0,.,+,.,ID=gene:TraesCS3B02G007600;biotype=protein_coding;gene_id=TraesCS3B02G007600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,3910602.0,3912257.0,.,-,.,ID=gene:TraesCS3B02G007900;biotype=protein_coding;gene_id=TraesCS3B02G007900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,5321732.0,5323640.0,.,-,.,ID=gene:TraesCS3B02G011900;biotype=protein_coding;gene_id=TraesCS3B02G011900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,5889980.0,5893990.0,.,-,.,ID=gene:TraesCS3B02G013000;biotype=protein_coding;gene_id=TraesCS3B02G013000;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,9879823.0,9881393.0,.,+,.,ID=gene:TraesCS3B02G022600;biotype=protein_coding;gene_id=TraesCS3B02G022600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,10045662.0,10048767.0,.,+,.,ID=gene:TraesCS3B02G023400;biotype=protein_coding;gene_id=TraesCS3B02G023400;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,10231065.0,10234756.0,.,+,.,ID=gene:TraesCS3B02G023900;biotype=protein_coding;gene_id=TraesCS3B02G023900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,13744964.0,13749320.0,.,+,.,ID=gene:TraesCS3B02G029900;biotype=protein_coding;gene_id=TraesCS3B02G029900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,13961374.0,13964727.0,.,-,.,ID=gene:TraesCS3B02G030500;biotype=protein_coding;gene_id=TraesCS3B02G030500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,16692513.0,16694199.0,.,+,.,ID=gene:TraesCS3B02G034700;biotype=protein_coding;gene_id=TraesCS3B02G034700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,29614087.0,29629692.0,.,+,.,ID=gene:TraesCS3B02G056100;biotype=protein_coding;gene_id=TraesCS3B02G056100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,40183582.0,40185532.0,.,-,.,ID=gene:TraesCS3B02G067600;biotype=protein_coding;gene_id=TraesCS3B02G067600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,41667931.0,41669877.0,.,-,.,ID=gene:TraesCS3B02G069800;biotype=protein_coding;gene_id=TraesCS3B02G069800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,43525406.0,43527816.0,.,-,.,ID=gene:TraesCS3B02G072100;biotype=protein_coding;gene_id=TraesCS3B02G072100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,43735144.0,43735356.0,.,-,.,ID=gene:TraesCS3B02G072400;biotype=protein_coding;gene_id=TraesCS3B02G072400;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,43819109.0,43820563.0,.,+,.,ID=gene:TraesCS3B02G072600;biotype=protein_coding;gene_id=TraesCS3B02G072600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,59323811.0,59324218.0,.,+,.,ID=gene:TraesCS3B02G089900;biotype=protein_coding;description=Histone H2B [Source:UniProtKB/TrEMBL%3BAcc:A0A077RU09];gene_id=TraesCS3B02G089900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,66712696.0,66714756.0,.,-,.,ID=gene:TraesCS3B02G100000;biotype=protein_coding;gene_id=TraesCS3B02G100000;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,68463718.0,68468382.0,.,-,.,ID=gene:TraesCS3B02G101700;biotype=protein_coding;gene_id=TraesCS3B02G101700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,76432458.0,76437836.0,.,-,.,ID=gene:TraesCS3B02G110500;biotype=protein_coding;gene_id=TraesCS3B02G110500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,132393016.0,132395769.0,.,-,.,ID=gene:TraesCS3B02G143600;biotype=protein_coding;gene_id=TraesCS3B02G143600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,161304894.0,161307041.0,.,-,.,ID=gene:TraesCS3B02G163500;biotype=protein_coding;gene_id=TraesCS3B02G163500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,259369880.0,259374598.0,.,+,.,ID=gene:TraesCS3B02G217200;biotype=protein_coding;gene_id=TraesCS3B02G217200;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,312148349.0,312189729.0,.,+,.,ID=gene:TraesCS3B02G225800;biotype=protein_coding;description=Non-specific serine/threonine protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A341SET0];gene_id=TraesCS3B02G225800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,410773519.0,410777278.0,.,-,.,ID=gene:TraesCS3B02G254700;biotype=protein_coding;gene_id=TraesCS3B02G254700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,415049901.0,415056497.0,.,+,.,ID=gene:TraesCS3B02G257500;biotype=protein_coding;gene_id=TraesCS3B02G257500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,465928342.0,465935315.0,.,-,.,ID=gene:TraesCS3B02G290300;biotype=protein_coding;gene_id=TraesCS3B02G290300;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,466296792.0,466299934.0,.,+,.,ID=gene:TraesCS3B02G290800;biotype=protein_coding;gene_id=TraesCS3B02G290800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,470861829.0,470865223.0,.,-,.,ID=gene:TraesCS3B02G292600;biotype=protein_coding;gene_id=TraesCS3B02G292600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,505286844.0,505289352.0,.,-,.,ID=gene:TraesCS3B02G314300;biotype=protein_coding;gene_id=TraesCS3B02G314300;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,523152474.0,523157308.0,.,-,.,ID=gene:TraesCS3B02G323500;biotype=protein_coding;description=Probable sulfate transporter 3.5 [Source:Projected from Arabidopsis thaliana (AT5G19600) UniProtKB/Swiss-Prot%3BAcc:Q94LW6];gene_id=TraesCS3B02G323500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,566605465.0,566605785.0,.,-,.,ID=gene:TraesCS3B02G356300;biotype=protein_coding;gene_id=TraesCS3B02G356300;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,571297713.0,571301814.0,.,-,.,ID=gene:TraesCS3B02G358700;biotype=protein_coding;gene_id=TraesCS3B02G358700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,576049081.0,576051387.0,.,+,.,ID=gene:TraesCS3B02G364500;biotype=protein_coding;gene_id=TraesCS3B02G364500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,596965452.0,596966122.0,.,+,.,ID=gene:TraesCS3B02G378900;biotype=protein_coding;description=Histone H4 [Source:UniProtKB/TrEMBL%3BAcc:A0A077RYQ1];gene_id=TraesCS3B02G378900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,626301159.0,626305105.0,.,-,.,ID=gene:TraesCS3B02G396800;biotype=protein_coding;gene_id=TraesCS3B02G396800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,684748140.0,684763361.0,.,+,.,ID=gene:TraesCS3B02G444900;biotype=protein_coding;gene_id=TraesCS3B02G444900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,688083786.0,688087598.0,.,-,.,ID=gene:TraesCS3B02G448100;biotype=protein_coding;gene_id=TraesCS3B02G448100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,691266739.0,691276655.0,.,-,.,ID=gene:TraesCS3B02G450600;biotype=protein_coding;gene_id=TraesCS3B02G450600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,692116297.0,692126911.0,.,+,.,ID=gene:TraesCS3B02G451700;biotype=protein_coding;gene_id=TraesCS3B02G451700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,693644762.0,693649712.0,.,-,.,ID=gene:TraesCS3B02G452500;biotype=protein_coding;gene_id=TraesCS3B02G452500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,697164387.0,697167362.0,.,-,.,ID=gene:TraesCS3B02G455700;biotype=protein_coding;gene_id=TraesCS3B02G455700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,708796676.0,708799162.0,.,+,.,ID=gene:TraesCS3B02G466200;biotype=protein_coding;gene_id=TraesCS3B02G466200;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,717278885.0,717310147.0,.,-,.,ID=gene:TraesCS3B02G470000;biotype=protein_coding;gene_id=TraesCS3B02G470000;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,718777867.0,718782135.0,.,-,.,ID=gene:TraesCS3B02G470600;biotype=protein_coding;gene_id=TraesCS3B02G470600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,730308539.0,730312205.0,.,+,.,ID=gene:TraesCS3B02G483700;biotype=protein_coding;gene_id=TraesCS3B02G483700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,736913330.0,736922843.0,.,-,.,ID=gene:TraesCS3B02G490800;biotype=protein_coding;gene_id=TraesCS3B02G490800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,745732957.0,745737003.0,.,-,.,ID=gene:TraesCS3B02G502100;biotype=protein_coding;gene_id=TraesCS3B02G502100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,747093651.0,747096282.0,.,+,.,ID=gene:TraesCS3B02G502900;biotype=protein_coding;gene_id=TraesCS3B02G502900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,747745195.0,747748758.0,.,-,.,ID=gene:TraesCS3B02G503700;biotype=protein_coding;gene_id=TraesCS3B02G503700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,755170626.0,755173858.0,.,-,.,ID=gene:TraesCS3B02G511400;biotype=protein_coding;gene_id=TraesCS3B02G511400;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,756118760.0,756121421.0,.,+,.,ID=gene:TraesCS3B02G512500;biotype=protein_coding;gene_id=TraesCS3B02G512500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,763225881.0,763231044.0,.,+,.,ID=gene:TraesCS3B02G519800;biotype=protein_coding;gene_id=TraesCS3B02G519800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,766099763.0,766099987.0,.,+,.,ID=gene:TraesCS3B02G523600;biotype=protein_coding;gene_id=TraesCS3B02G523600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,772465570.0,772467486.0,.,-,.,ID=gene:TraesCS3B02G531700;biotype=protein_coding;gene_id=TraesCS3B02G531700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,774165160.0,774171070.0,.,+,.,ID=gene:TraesCS3B02G534900;biotype=protein_coding;gene_id=TraesCS3B02G534900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,783278392.0,783283601.0,.,-,.,ID=gene:TraesCS3B02G547500;biotype=protein_coding;gene_id=TraesCS3B02G547500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,789497688.0,789501812.0,.,-,.,ID=gene:TraesCS3B02G556100;biotype=protein_coding;gene_id=TraesCS3B02G556100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,804130162.0,804133210.0,.,+,.,ID=gene:TraesCS3B02G573300;biotype=protein_coding;gene_id=TraesCS3B02G573300;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,804214365.0,804228477.0,.,+,.,ID=gene:TraesCS3B02G573500;biotype=protein_coding;gene_id=TraesCS3B02G573500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,804228867.0,804230317.0,.,+,.,ID=gene:TraesCS3B02G573600;biotype=protein_coding;gene_id=TraesCS3B02G573600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,804236610.0,804241463.0,.,+,.,ID=gene:TraesCS3B02G573700;biotype=protein_coding;gene_id=TraesCS3B02G573700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,805640443.0,805645336.0,.,-,.,ID=gene:TraesCS3B02G575600;biotype=protein_coding;gene_id=TraesCS3B02G575600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,806082924.0,806089176.0,.,-,.,ID=gene:TraesCS3B02G576100;biotype=protein_coding;gene_id=TraesCS3B02G576100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,806724262.0,806729331.0,.,-,.,ID=gene:TraesCS3B02G576600;biotype=protein_coding;gene_id=TraesCS3B02G576600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,809058690.0,809059142.0,.,-,.,ID=gene:TraesCS3B02G579600;biotype=protein_coding;gene_id=TraesCS3B02G579600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,809479669.0,809483886.0,.,-,.,ID=gene:TraesCS3B02G580400;biotype=protein_coding;gene_id=TraesCS3B02G580400;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,809539302.0,809541866.0,.,-,.,ID=gene:TraesCS3B02G580500;biotype=protein_coding;gene_id=TraesCS3B02G580500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,810274098.0,810284924.0,.,-,.,ID=gene:TraesCS3B02G581800;biotype=protein_coding;description=DNA-directed RNA polymerase subunit [Source:UniProtKB/TrEMBL%3BAcc:A0A341T1K9];gene_id=TraesCS3B02G581800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,810325615.0,810329387.0,.,+,.,ID=gene:TraesCS3B02G581900;biotype=protein_coding;gene_id=TraesCS3B02G581900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,810969702.0,810972060.0,.,+,.,ID=gene:TraesCS3B02G583100;biotype=protein_coding;gene_id=TraesCS3B02G583100;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,812569181.0,812573220.0,.,+,.,ID=gene:TraesCS3B02G585600;biotype=protein_coding;gene_id=TraesCS3B02G585600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,812573424.0,812577372.0,.,-,.,ID=gene:TraesCS3B02G585700;biotype=protein_coding;gene_id=TraesCS3B02G585700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,813306816.0,813307268.0,.,-,.,ID=gene:TraesCS3B02G586700;biotype=protein_coding;gene_id=TraesCS3B02G586700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,813945963.0,813954858.0,.,+,.,ID=gene:TraesCS3B02G587400;biotype=protein_coding;gene_id=TraesCS3B02G587400;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,813977737.0,813984200.0,.,+,.,ID=gene:TraesCS3B02G587700;biotype=protein_coding;description=BTB/POZ domain-containing protein FBL11 [Source:Projected from Arabidopsis thaliana (AT2G36370) UniProtKB/Swiss-Prot%3BAcc:Q8S8F2];gene_id=TraesCS3B02G587700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,814564711.0,814573148.0,.,-,.,ID=gene:TraesCS3B02G588500;biotype=protein_coding;gene_id=TraesCS3B02G588500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,814574304.0,814575188.0,.,-,.,ID=gene:TraesCS3B02G588600;biotype=protein_coding;gene_id=TraesCS3B02G588600;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,814599942.0,814609195.0,.,-,.,ID=gene:TraesCS3B02G588700;biotype=protein_coding;gene_id=TraesCS3B02G588700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,814611632.0,814614193.0,.,-,.,ID=gene:TraesCS3B02G588800;biotype=protein_coding;gene_id=TraesCS3B02G588800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,814649843.0,814659155.0,.,-,.,ID=gene:TraesCS3B02G588900;biotype=protein_coding;gene_id=TraesCS3B02G588900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,815032553.0,815044433.0,.,-,.,ID=gene:TraesCS3B02G589700;biotype=protein_coding;gene_id=TraesCS3B02G589700;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,816220116.0,816222954.0,.,-,.,ID=gene:TraesCS3B02G591800;biotype=protein_coding;gene_id=TraesCS3B02G591800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,817174846.0,817186826.0,.,+,.,ID=gene:TraesCS3B02G593500;biotype=protein_coding;gene_id=TraesCS3B02G593500;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,817408885.0,817413936.0,.,+,.,ID=gene:TraesCS3B02G593900;biotype=protein_coding;gene_id=TraesCS3B02G593900;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,817577365.0,817578228.0,.,+,.,ID=gene:TraesCS3B02G594300;biotype=protein_coding;description=LUX-B [Source:UniProtKB/TrEMBL%3BAcc:W0M178];gene_id=TraesCS3B02G594300;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,820893357.0,820896059.0,.,-,.,ID=gene:TraesCS3B02G600200;biotype=protein_coding;gene_id=TraesCS3B02G600200;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,821554291.0,821568778.0,.,-,.,ID=gene:TraesCS3B02G600800;biotype=protein_coding;gene_id=TraesCS3B02G600800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,825771353.0,825779457.0,.,-,.,ID=gene:TraesCS3B02G606800;biotype=protein_coding;description=rRNA N-glycosidase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5VPR0];gene_id=TraesCS3B02G606800;logic_name=iwgsc_high_conf
+3B,IWGSC,gene,826724806.0,826726361.0,.,+,.,ID=gene:TraesCS3B02G608500;biotype=protein_coding;description=Aquaporin TIP1-3 [Source:Projected from Arabidopsis thaliana (AT4G01470) UniProtKB/Swiss-Prot%3BAcc:O82598];gene_id=TraesCS3B02G608500;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,4290648.0,4291925.0,.,+,.,ID=gene:TraesCS3D02G012200;biotype=protein_coding;description=Fatty acyl-CoA reductase [Source:UniProtKB/TrEMBL%3BAcc:A0A341SS73];gene_id=TraesCS3D02G012200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,10516320.0,10520334.0,.,-,.,ID=gene:TraesCS3D02G029100;biotype=protein_coding;gene_id=TraesCS3D02G029100;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,14391268.0,14407191.0,.,-,.,ID=gene:TraesCS3D02G038700;biotype=protein_coding;gene_id=TraesCS3D02G038700;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,18779200.0,18779796.0,.,+,.,ID=gene:TraesCS3D02G048900;biotype=protein_coding;gene_id=TraesCS3D02G048900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,19954316.0,19955901.0,.,+,.,ID=gene:TraesCS3D02G050800;biotype=protein_coding;description=Reticulon-like protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5WQ94];gene_id=TraesCS3D02G050800;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,22677705.0,22680424.0,.,+,.,ID=gene:TraesCS3D02G054900;biotype=protein_coding;gene_id=TraesCS3D02G054900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,28215195.0,28218346.0,.,-,.,ID=gene:TraesCS3D02G063900;biotype=protein_coding;gene_id=TraesCS3D02G063900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,28233046.0,28236786.0,.,+,.,ID=gene:TraesCS3D02G064000;biotype=protein_coding;gene_id=TraesCS3D02G064000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,48364950.0,48370083.0,.,-,.,ID=gene:TraesCS3D02G095200;biotype=protein_coding;gene_id=TraesCS3D02G095200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,48820008.0,48820992.0,.,+,.,ID=gene:TraesCS3D02G096300;biotype=protein_coding;gene_id=TraesCS3D02G096300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,52882883.0,52884826.0,.,-,.,ID=gene:TraesCS3D02G100500;biotype=protein_coding;gene_id=TraesCS3D02G100500;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,70704882.0,70708636.0,.,-,.,ID=gene:TraesCS3D02G117000;biotype=protein_coding;gene_id=TraesCS3D02G117000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,91829865.0,91833796.0,.,-,.,ID=gene:TraesCS3D02G132200;biotype=protein_coding;gene_id=TraesCS3D02G132200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,114022433.0,114022912.0,.,+,.,ID=gene:TraesCS3D02G148900;biotype=protein_coding;gene_id=TraesCS3D02G148900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,123777614.0,123778863.0,.,-,.,ID=gene:TraesCS3D02G156400;biotype=protein_coding;gene_id=TraesCS3D02G156400;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,136414720.0,136419826.0,.,-,.,ID=gene:TraesCS3D02G164900;biotype=protein_coding;gene_id=TraesCS3D02G164900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,174453708.0,174458531.0,.,+,.,ID=gene:TraesCS3D02G188000;biotype=protein_coding;gene_id=TraesCS3D02G188000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,227713088.0,227714310.0,.,-,.,ID=gene:TraesCS3D02G199800;biotype=protein_coding;gene_id=TraesCS3D02G199800;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,246577202.0,246606799.0,.,-,.,ID=gene:TraesCS3D02G202300;biotype=protein_coding;gene_id=TraesCS3D02G202300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,250333083.0,250336356.0,.,-,.,ID=gene:TraesCS3D02G202900;biotype=protein_coding;gene_id=TraesCS3D02G202900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,275125737.0,275128919.0,.,-,.,ID=gene:TraesCS3D02G208300;biotype=protein_coding;gene_id=TraesCS3D02G208300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,326705120.0,326705967.0,.,+,.,ID=gene:TraesCS3D02G236300;biotype=protein_coding;gene_id=TraesCS3D02G236300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,384441854.0,384446939.0,.,+,.,ID=gene:TraesCS3D02G277000;biotype=protein_coding;gene_id=TraesCS3D02G277000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,388449545.0,388452107.0,.,-,.,ID=gene:TraesCS3D02G280400;biotype=protein_coding;gene_id=TraesCS3D02G280400;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,397209338.0,397213861.0,.,-,.,ID=gene:TraesCS3D02G288600;biotype=protein_coding;description=Probable sulfate transporter 3.5 [Source:Projected from Arabidopsis thaliana (AT5G19600) UniProtKB/Swiss-Prot%3BAcc:Q94LW6];gene_id=TraesCS3D02G288600;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,428244520.0,428250135.0,.,+,.,ID=gene:TraesCS3D02G314300;biotype=protein_coding;gene_id=TraesCS3D02G314300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,429099389.0,429106017.0,.,-,.,ID=gene:TraesCS3D02G315700;biotype=protein_coding;description=Diacylglycerol kinase [Source:UniProtKB/TrEMBL%3BAcc:W5DDG6];gene_id=TraesCS3D02G315700;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,432513100.0,432514516.0,.,+,.,ID=gene:TraesCS3D02G318600;biotype=protein_coding;gene_id=TraesCS3D02G318600;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,443356066.0,443364469.0,.,-,.,ID=gene:TraesCS3D02G330700;biotype=protein_coding;gene_id=TraesCS3D02G330700;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,459878504.0,459879156.0,.,+,.,ID=gene:TraesCS3D02G348200;biotype=protein_coding;description=Histone H4 [Source:UniProtKB/TrEMBL%3BAcc:A0A077RYQ1];gene_id=TraesCS3D02G348200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,473436449.0,473442948.0,.,-,.,ID=gene:TraesCS3D02G359300;biotype=protein_coding;description=Alpha-1%2C4 glucan phosphorylase [Source:UniProtKB/TrEMBL%3BAcc:A0A341T741];gene_id=TraesCS3D02G359300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,522187430.0,522191488.0,.,+,.,ID=gene:TraesCS3D02G408000;biotype=protein_coding;gene_id=TraesCS3D02G408000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,522195195.0,522199066.0,.,-,.,ID=gene:TraesCS3D02G408100;biotype=protein_coding;gene_id=TraesCS3D02G408100;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,536336831.0,536338642.0,.,-,.,ID=gene:TraesCS3D02G424300;biotype=protein_coding;gene_id=TraesCS3D02G424300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,541598384.0,541632751.0,.,-,.,ID=gene:TraesCS3D02G428000;biotype=protein_coding;description=Type I MADS-box protein [Source:UniProtKB/TrEMBL%3BAcc:G1FP79];gene_id=TraesCS3D02G428000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,544821921.0,544826861.0,.,+,.,ID=gene:TraesCS3D02G430600;biotype=protein_coding;gene_id=TraesCS3D02G430600;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,560783555.0,560785953.0,.,-,.,ID=gene:TraesCS3D02G453800;biotype=protein_coding;gene_id=TraesCS3D02G453800;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,561447058.0,561452011.0,.,-,.,ID=gene:TraesCS3D02G455000;biotype=protein_coding;gene_id=TraesCS3D02G455000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,562545107.0,562546906.0,.,+,.,ID=gene:TraesCS3D02G457100;biotype=protein_coding;gene_id=TraesCS3D02G457100;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,568493674.0,568497001.0,.,+,.,ID=gene:TraesCS3D02G464600;biotype=protein_coding;gene_id=TraesCS3D02G464600;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,574821751.0,574827185.0,.,-,.,ID=gene:TraesCS3D02G473000;biotype=protein_coding;description=S-formylglutathione hydrolase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5WJH1];gene_id=TraesCS3D02G473000;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,579420297.0,579424088.0,.,-,.,ID=gene:TraesCS3D02G481200;biotype=protein_coding;gene_id=TraesCS3D02G481200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,593439857.0,593448849.0,.,-,.,ID=gene:TraesCS3D02G506700;biotype=protein_coding;description=Protein DETOXIFICATION [Source:UniProtKB/TrEMBL%3BAcc:A0A341T9Z2];gene_id=TraesCS3D02G506700;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,597916186.0,597924103.0,.,-,.,ID=gene:TraesCS3D02G513900;biotype=protein_coding;gene_id=TraesCS3D02G513900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,598037194.0,598042868.0,.,+,.,ID=gene:TraesCS3D02G514200;biotype=protein_coding;gene_id=TraesCS3D02G514200;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,598927500.0,598938561.0,.,+,.,ID=gene:TraesCS3D02G515500;biotype=protein_coding;gene_id=TraesCS3D02G515500;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,600153683.0,600158550.0,.,+,.,ID=gene:TraesCS3D02G516300;biotype=protein_coding;gene_id=TraesCS3D02G516300;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,600640262.0,600641202.0,.,+,.,ID=gene:TraesCS3D02G517900;biotype=protein_coding;gene_id=TraesCS3D02G517900;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,602274002.0,602277166.0,.,-,.,ID=gene:TraesCS3D02G519600;biotype=protein_coding;gene_id=TraesCS3D02G519600;logic_name=iwgsc_high_conf
+3D,IWGSC,gene,611693426.0,611694019.0,.,-,.,ID=gene:TraesCS3D02G540300;biotype=protein_coding;gene_id=TraesCS3D02G540300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,189541.0,192767.0,.,+,.,ID=gene:TraesCS4A02G000200;biotype=protein_coding;gene_id=TraesCS4A02G000200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,2402444.0,2412218.0,.,+,.,ID=gene:TraesCS4A02G002600;biotype=protein_coding;gene_id=TraesCS4A02G002600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,7154305.0,7155945.0,.,+,.,ID=gene:TraesCS4A02G012300;biotype=protein_coding;gene_id=TraesCS4A02G012300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,83398555.0,83403442.0,.,-,.,ID=gene:TraesCS4A02G080800;biotype=protein_coding;gene_id=TraesCS4A02G080800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,102387584.0,102388031.0,.,-,.,ID=gene:TraesCS4A02G094200;biotype=protein_coding;gene_id=TraesCS4A02G094200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,112586789.0,112588188.0,.,-,.,ID=gene:TraesCS4A02G099700;biotype=protein_coding;gene_id=TraesCS4A02G099700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,121153040.0,121156903.0,.,+,.,ID=gene:TraesCS4A02G106500;biotype=protein_coding;description=Arogenate dehydratase [Source:UniProtKB/TrEMBL%3BAcc:W5DX68];gene_id=TraesCS4A02G106500;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,127282109.0,127289564.0,.,-,.,ID=gene:TraesCS4A02G108700;biotype=protein_coding;gene_id=TraesCS4A02G108700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,240361935.0,240375510.0,.,+,.,ID=gene:TraesCS4A02G144000;biotype=protein_coding;gene_id=TraesCS4A02G144000;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,295133491.0,295134117.0,.,+,.,ID=gene:TraesCS4A02G150200;biotype=protein_coding;gene_id=TraesCS4A02G150200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,357260632.0,357262996.0,.,-,.,ID=gene:TraesCS4A02G162400;biotype=protein_coding;gene_id=TraesCS4A02G162400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,407610496.0,407611328.0,.,-,.,ID=gene:TraesCS4A02G166800;biotype=protein_coding;gene_id=TraesCS4A02G166800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,433727394.0,433728548.0,.,+,.,ID=gene:TraesCS4A02G171200;biotype=protein_coding;gene_id=TraesCS4A02G171200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,437489658.0,437491090.0,.,+,.,ID=gene:TraesCS4A02G172300;biotype=protein_coding;gene_id=TraesCS4A02G172300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,465542343.0,465545396.0,.,+,.,ID=gene:TraesCS4A02G186700;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:W5DN36];gene_id=TraesCS4A02G186700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,524272281.0,524273502.0,.,-,.,ID=gene:TraesCS4A02G220600;biotype=protein_coding;gene_id=TraesCS4A02G220600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,530172937.0,530179589.0,.,-,.,ID=gene:TraesCS4A02G222800;biotype=protein_coding;gene_id=TraesCS4A02G222800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,544201538.0,544204344.0,.,-,.,ID=gene:TraesCS4A02G235700;biotype=protein_coding;gene_id=TraesCS4A02G235700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,584663114.0,584669753.0,.,-,.,ID=gene:TraesCS4A02G275600;biotype=protein_coding;gene_id=TraesCS4A02G275600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,585377193.0,585380035.0,.,-,.,ID=gene:TraesCS4A02G277300;biotype=protein_coding;description=Similar to Nuclear transcription factor Y subunit A-1 [Source: Projected from Oryza sativa (Os03g0696300)];gene_id=TraesCS4A02G277300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,599321764.0,599326140.0,.,+,.,ID=gene:TraesCS4A02G303400;biotype=protein_coding;gene_id=TraesCS4A02G303400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,599842114.0,599846575.0,.,+,.,ID=gene:TraesCS4A02G304400;biotype=protein_coding;description=Fatty acyl-CoA reductase [Source:UniProtKB/TrEMBL%3BAcc:A0A341TPS2];gene_id=TraesCS4A02G304400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,602870810.0,602873131.0,.,+,.,ID=gene:TraesCS4A02G309500;biotype=protein_coding;gene_id=TraesCS4A02G309500;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,602873144.0,602875409.0,.,+,.,ID=gene:TraesCS4A02G309600;biotype=protein_coding;gene_id=TraesCS4A02G309600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,604208153.0,604212003.0,.,-,.,ID=gene:TraesCS4A02G313900;biotype=protein_coding;gene_id=TraesCS4A02G313900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,606116294.0,606116866.0,.,+,.,ID=gene:TraesCS4A02G316000;biotype=protein_coding;gene_id=TraesCS4A02G316000;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,612372451.0,612392100.0,.,+,.,ID=gene:TraesCS4A02G324900;biotype=protein_coding;gene_id=TraesCS4A02G324900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,624925381.0,624926570.0,.,+,.,ID=gene:TraesCS4A02G345400;biotype=protein_coding;description=Patatin [Source:UniProtKB/TrEMBL%3BAcc:W5DML4];gene_id=TraesCS4A02G345400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,626284731.0,626285914.0,.,-,.,ID=gene:TraesCS4A02G349700;biotype=protein_coding;gene_id=TraesCS4A02G349700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,631952629.0,631954105.0,.,-,.,ID=gene:TraesCS4A02G358900;biotype=protein_coding;gene_id=TraesCS4A02G358900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,632150159.0,632155407.0,.,-,.,ID=gene:TraesCS4A02G359200;biotype=protein_coding;gene_id=TraesCS4A02G359200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,632615644.0,632618101.0,.,+,.,ID=gene:TraesCS4A02G359300;biotype=protein_coding;gene_id=TraesCS4A02G359300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,640052226.0,640058611.0,.,+,.,ID=gene:TraesCS4A02G366900;biotype=protein_coding;gene_id=TraesCS4A02G366900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,666148948.0,666151681.0,.,+,.,ID=gene:TraesCS4A02G388600;biotype=protein_coding;description=Fatty acyl-CoA reductase [Source:UniProtKB/TrEMBL%3BAcc:W5DS05];gene_id=TraesCS4A02G388600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,667344888.0,667346497.0,.,+,.,ID=gene:TraesCS4A02G390200;biotype=protein_coding;gene_id=TraesCS4A02G390200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,667352002.0,667355329.0,.,-,.,ID=gene:TraesCS4A02G390400;biotype=protein_coding;gene_id=TraesCS4A02G390400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,667858921.0,667861337.0,.,-,.,ID=gene:TraesCS4A02G391000;biotype=protein_coding;gene_id=TraesCS4A02G391000;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,673066957.0,673071513.0,.,+,.,ID=gene:TraesCS4A02G397800;biotype=protein_coding;gene_id=TraesCS4A02G397800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,681790047.0,681791660.0,.,+,.,ID=gene:TraesCS4A02G409200;biotype=protein_coding;gene_id=TraesCS4A02G409200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,706496690.0,706499735.0,.,-,.,ID=gene:TraesCS4A02G436600;biotype=protein_coding;gene_id=TraesCS4A02G436600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,710282649.0,710285041.0,.,-,.,ID=gene:TraesCS4A02G442300;biotype=protein_coding;gene_id=TraesCS4A02G442300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,710412151.0,710414500.0,.,-,.,ID=gene:TraesCS4A02G442500;biotype=protein_coding;gene_id=TraesCS4A02G442500;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,713014959.0,713016104.0,.,+,.,ID=gene:TraesCS4A02G444700;biotype=protein_coding;gene_id=TraesCS4A02G444700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,719178222.0,719179736.0,.,+,.,ID=gene:TraesCS4A02G455900;biotype=protein_coding;description=6-phosphogluconate dehydrogenase%2C decarboxylating [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5X0G6];gene_id=TraesCS4A02G455900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,722837844.0,722839786.0,.,+,.,ID=gene:TraesCS4A02G457400;biotype=protein_coding;gene_id=TraesCS4A02G457400;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,722882391.0,722887381.0,.,+,.,ID=gene:TraesCS4A02G457600;biotype=protein_coding;gene_id=TraesCS4A02G457600;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,727114259.0,727119033.0,.,-,.,ID=gene:TraesCS4A02G463300;biotype=protein_coding;gene_id=TraesCS4A02G463300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,727841328.0,727842252.0,.,-,.,ID=gene:TraesCS4A02G463900;biotype=protein_coding;gene_id=TraesCS4A02G463900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,728455965.0,728458756.0,.,-,.,ID=gene:TraesCS4A02G464700;biotype=protein_coding;gene_id=TraesCS4A02G464700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,728553013.0,728554313.0,.,-,.,ID=gene:TraesCS4A02G465100;biotype=protein_coding;gene_id=TraesCS4A02G465100;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,729741787.0,729748169.0,.,+,.,ID=gene:TraesCS4A02G467800;biotype=protein_coding;gene_id=TraesCS4A02G467800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,729819013.0,729820754.0,.,+,.,ID=gene:TraesCS4A02G467900;biotype=protein_coding;gene_id=TraesCS4A02G467900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,731489179.0,731490730.0,.,-,.,ID=gene:TraesCS4A02G470700;biotype=protein_coding;gene_id=TraesCS4A02G470700;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,731749894.0,731761183.0,.,-,.,ID=gene:TraesCS4A02G471200;biotype=protein_coding;gene_id=TraesCS4A02G471200;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,731770357.0,731774695.0,.,-,.,ID=gene:TraesCS4A02G471300;biotype=protein_coding;gene_id=TraesCS4A02G471300;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,733999524.0,734002546.0,.,-,.,ID=gene:TraesCS4A02G474900;biotype=protein_coding;gene_id=TraesCS4A02G474900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,734016505.0,734019100.0,.,-,.,ID=gene:TraesCS4A02G475000;biotype=protein_coding;gene_id=TraesCS4A02G475000;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,735775417.0,735781156.0,.,+,.,ID=gene:TraesCS4A02G478900;biotype=protein_coding;gene_id=TraesCS4A02G478900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,735818716.0,735822988.0,.,+,.,ID=gene:TraesCS4A02G479100;biotype=protein_coding;gene_id=TraesCS4A02G479100;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,737442782.0,737443930.0,.,+,.,ID=gene:TraesCS4A02G481900;biotype=protein_coding;gene_id=TraesCS4A02G481900;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,739914547.0,739918860.0,.,-,.,ID=gene:TraesCS4A02G488100;biotype=protein_coding;gene_id=TraesCS4A02G488100;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,742575091.0,742581168.0,.,-,.,ID=gene:TraesCS4A02G495800;biotype=protein_coding;gene_id=TraesCS4A02G495800;logic_name=iwgsc_high_conf
+4A,IWGSC,gene,743977121.0,743979683.0,.,+,.,ID=gene:TraesCS4A02G498700;biotype=protein_coding;description=RING-type E3 ubiquitin transferase [Source:UniProtKB/TrEMBL%3BAcc:A0A341U091];gene_id=TraesCS4A02G498700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,1981182.0,1985634.0,.,-,.,ID=gene:TraesCS4B02G003400;biotype=protein_coding;gene_id=TraesCS4B02G003400;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,3710616.0,3713985.0,.,-,.,ID=gene:TraesCS4B02G005000;biotype=protein_coding;gene_id=TraesCS4B02G005000;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,3732151.0,3736538.0,.,+,.,ID=gene:TraesCS4B02G005100;biotype=protein_coding;gene_id=TraesCS4B02G005100;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,3776932.0,3784177.0,.,+,.,ID=gene:TraesCS4B02G005200;biotype=nontranslating_CDS;gene_id=TraesCS4B02G005200;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,13052500.0,13054709.0,.,-,.,ID=gene:TraesCS4B02G017500;biotype=protein_coding;gene_id=TraesCS4B02G017500;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,24538674.0,24543288.0,.,+,.,ID=gene:TraesCS4B02G032700;biotype=protein_coding;gene_id=TraesCS4B02G032700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,25444416.0,25445610.0,.,+,.,ID=gene:TraesCS4B02G034700;biotype=protein_coding;gene_id=TraesCS4B02G034700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,34722272.0,34725256.0,.,-,.,ID=gene:TraesCS4B02G047400;biotype=protein_coding;description=Glutamine synthetase [Source:UniProtKB/TrEMBL%3BAcc:Q6RUI9];gene_id=TraesCS4B02G047400;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,66157928.0,66160498.0,.,-,.,ID=gene:TraesCS4B02G071600;biotype=protein_coding;gene_id=TraesCS4B02G071600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,75201480.0,75206923.0,.,+,.,ID=gene:TraesCS4B02G078200;biotype=protein_coding;gene_id=TraesCS4B02G078200;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,81358947.0,81362077.0,.,+,.,ID=gene:TraesCS4B02G082500;biotype=protein_coding;gene_id=TraesCS4B02G082500;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,94788584.0,94790837.0,.,-,.,ID=gene:TraesCS4B02G091600;biotype=protein_coding;gene_id=TraesCS4B02G091600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,95214750.0,95219050.0,.,-,.,ID=gene:TraesCS4B02G092400;biotype=protein_coding;gene_id=TraesCS4B02G092400;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,95365209.0,95369681.0,.,+,.,ID=gene:TraesCS4B02G092700;biotype=protein_coding;gene_id=TraesCS4B02G092700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,96934501.0,96942937.0,.,-,.,ID=gene:TraesCS4B02G094600;biotype=protein_coding;gene_id=TraesCS4B02G094600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,102386025.0,102388363.0,.,+,.,ID=gene:TraesCS4B02G097500;biotype=protein_coding;gene_id=TraesCS4B02G097500;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,102391768.0,102407636.0,.,+,.,ID=gene:TraesCS4B02G097600;biotype=protein_coding;gene_id=TraesCS4B02G097600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,104312860.0,104336482.0,.,-,.,ID=gene:TraesCS4B02G098900;biotype=protein_coding;gene_id=TraesCS4B02G098900;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,107232673.0,107238822.0,.,+,.,ID=gene:TraesCS4B02G101500;biotype=protein_coding;gene_id=TraesCS4B02G101500;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,138299948.0,138306480.0,.,-,.,ID=gene:TraesCS4B02G118300;biotype=protein_coding;gene_id=TraesCS4B02G118300;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,143893800.0,143896983.0,.,+,.,ID=gene:TraesCS4B02G121600;biotype=protein_coding;gene_id=TraesCS4B02G121600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,221190386.0,221193738.0,.,+,.,ID=gene:TraesCS4B02G149200;biotype=protein_coding;gene_id=TraesCS4B02G149200;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,228435317.0,228439336.0,.,-,.,ID=gene:TraesCS4B02G150000;biotype=protein_coding;gene_id=TraesCS4B02G150000;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,262707612.0,262727077.0,.,-,.,ID=gene:TraesCS4B02G153400;biotype=protein_coding;gene_id=TraesCS4B02G153400;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,266078944.0,266086376.0,.,+,.,ID=gene:TraesCS4B02G153700;biotype=protein_coding;gene_id=TraesCS4B02G153700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,401294388.0,401295827.0,.,+,.,ID=gene:TraesCS4B02G182800;biotype=protein_coding;gene_id=TraesCS4B02G182800;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,413496938.0,413497995.0,.,-,.,ID=gene:TraesCS4B02G191100;biotype=protein_coding;gene_id=TraesCS4B02G191100;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,518682729.0,518683169.0,.,+,.,ID=gene:TraesCS4B02G252800;biotype=protein_coding;gene_id=TraesCS4B02G252800;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,518877166.0,518880072.0,.,-,.,ID=gene:TraesCS4B02G253100;biotype=protein_coding;gene_id=TraesCS4B02G253100;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,535238823.0,535243751.0,.,+,.,ID=gene:TraesCS4B02G264600;biotype=protein_coding;gene_id=TraesCS4B02G264600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,553863768.0,553864348.0,.,+,.,ID=gene:TraesCS4B02G275400;biotype=protein_coding;description=Histone H2B [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5XKA5];gene_id=TraesCS4B02G275400;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,560021068.0,560024394.0,.,-,.,ID=gene:TraesCS4B02G278200;biotype=protein_coding;gene_id=TraesCS4B02G278200;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,562051965.0,562056475.0,.,+,.,ID=gene:TraesCS4B02G278800;biotype=protein_coding;description=3-ketoacyl-CoA synthase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6D6Y3];gene_id=TraesCS4B02G278800;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,567003720.0,567006871.0,.,+,.,ID=gene:TraesCS4B02G283600;biotype=protein_coding;gene_id=TraesCS4B02G283600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,575906639.0,575907984.0,.,+,.,ID=gene:TraesCS4B02G291100;biotype=protein_coding;gene_id=TraesCS4B02G291100;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,577014703.0,577016238.0,.,-,.,ID=gene:TraesCS4B02G291900;biotype=protein_coding;gene_id=TraesCS4B02G291900;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,578042172.0,578045522.0,.,-,.,ID=gene:TraesCS4B02G292600;biotype=protein_coding;gene_id=TraesCS4B02G292600;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,578672561.0,578676983.0,.,-,.,ID=gene:TraesCS4B02G293300;biotype=protein_coding;gene_id=TraesCS4B02G293300;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,622770939.0,622784063.0,.,+,.,ID=gene:TraesCS4B02G332300;biotype=protein_coding;gene_id=TraesCS4B02G332300;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,629225922.0,629227213.0,.,+,.,ID=gene:TraesCS4B02G336700;biotype=protein_coding;gene_id=TraesCS4B02G336700;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,643648509.0,643651612.0,.,+,.,ID=gene:TraesCS4B02G351500;biotype=protein_coding;gene_id=TraesCS4B02G351500;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,666410613.0,666412113.0,.,+,.,ID=gene:TraesCS4B02G390200;biotype=protein_coding;gene_id=TraesCS4B02G390200;logic_name=iwgsc_high_conf
+4B,IWGSC,gene,668972562.0,668974727.0,.,+,.,ID=gene:TraesCS4B02G394800;biotype=protein_coding;gene_id=TraesCS4B02G394800;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,1704075.0,1708862.0,.,-,.,ID=gene:TraesCS4D02G004000;biotype=protein_coding;gene_id=TraesCS4D02G004000;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,1871232.0,1878072.0,.,+,.,ID=gene:TraesCS4D02G004200;biotype=protein_coding;gene_id=TraesCS4D02G004200;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,12458543.0,12464968.0,.,+,.,ID=gene:TraesCS4D02G027900;biotype=protein_coding;description=Plasma membrane ATPase [Source:UniProtKB/TrEMBL%3BAcc:W5EPK5];gene_id=TraesCS4D02G027900;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,13928452.0,13933386.0,.,+,.,ID=gene:TraesCS4D02G030500;biotype=protein_coding;gene_id=TraesCS4D02G030500;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,35653592.0,35655861.0,.,-,.,ID=gene:TraesCS4D02G059800;biotype=protein_coding;gene_id=TraesCS4D02G059800;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,348035439.0,348037376.0,.,+,.,ID=gene:TraesCS4D02G200700;biotype=protein_coding;description=Putative In2.1 protein [Source:UniProtKB/TrEMBL%3BAcc:O82071];gene_id=TraesCS4D02G200700;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,426518283.0,426524102.0,.,-,.,ID=gene:TraesCS4D02G256700;biotype=protein_coding;gene_id=TraesCS4D02G256700;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,442751398.0,442754585.0,.,-,.,ID=gene:TraesCS4D02G272800;biotype=protein_coding;gene_id=TraesCS4D02G272800;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,467820457.0,467821313.0,.,-,.,ID=gene:TraesCS4D02G298500;biotype=protein_coding;gene_id=TraesCS4D02G298500;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,484494175.0,484495092.0,.,-,.,ID=gene:TraesCS4D02G322500;biotype=protein_coding;gene_id=TraesCS4D02G322500;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,491503661.0,491508391.0,.,-,.,ID=gene:TraesCS4D02G334100;biotype=protein_coding;gene_id=TraesCS4D02G334100;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,500311363.0,500313978.0,.,+,.,ID=gene:TraesCS4D02G346300;biotype=protein_coding;gene_id=TraesCS4D02G346300;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,508256672.0,508263207.0,.,+,.,ID=gene:TraesCS4D02G361400;biotype=protein_coding;gene_id=TraesCS4D02G361400;logic_name=iwgsc_high_conf
+4D,IWGSC,gene,508264326.0,508271976.0,.,-,.,ID=gene:TraesCS4D02G361500;biotype=protein_coding;gene_id=TraesCS4D02G361500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,20226.0,23967.0,.,+,.,ID=gene:TraesCS5A02G000200;biotype=protein_coding;gene_id=TraesCS5A02G000200;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,4017458.0,4020457.0,.,-,.,ID=gene:TraesCS5A02G006800;biotype=protein_coding;gene_id=TraesCS5A02G006800;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,5700716.0,5719719.0,.,+,.,ID=gene:TraesCS5A02G008100;biotype=protein_coding;gene_id=TraesCS5A02G008100;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,6146679.0,6165534.0,.,+,.,ID=gene:TraesCS5A02G008500;biotype=protein_coding;gene_id=TraesCS5A02G008500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,8062229.0,8070059.0,.,+,.,ID=gene:TraesCS5A02G012300;biotype=protein_coding;gene_id=TraesCS5A02G012300;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,9384961.0,9385566.0,.,-,.,ID=gene:TraesCS5A02G013600;biotype=protein_coding;gene_id=TraesCS5A02G013600;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,42345969.0,42348195.0,.,+,.,ID=gene:TraesCS5A02G047200;biotype=protein_coding;gene_id=TraesCS5A02G047200;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,51671398.0,51675034.0,.,+,.,ID=gene:TraesCS5A02G054900;biotype=protein_coding;gene_id=TraesCS5A02G054900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,68545022.0,68550262.0,.,+,.,ID=gene:TraesCS5A02G062900;biotype=protein_coding;gene_id=TraesCS5A02G062900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,138428819.0,138430585.0,.,-,.,ID=gene:TraesCS5A02G097600;biotype=protein_coding;gene_id=TraesCS5A02G097600;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,224689173.0,224697090.0,.,-,.,ID=gene:TraesCS5A02G113200;biotype=protein_coding;description=Aldehyde dehydrogenase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5YT81];gene_id=TraesCS5A02G113200;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,384624131.0,384635845.0,.,+,.,ID=gene:TraesCS5A02G184900;biotype=protein_coding;gene_id=TraesCS5A02G184900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,427321161.0,427322748.0,.,+,.,ID=gene:TraesCS5A02G212100;biotype=protein_coding;gene_id=TraesCS5A02G212100;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,470037820.0,470041587.0,.,+,.,ID=gene:TraesCS5A02G254100;biotype=protein_coding;gene_id=TraesCS5A02G254100;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,472702847.0,472703877.0,.,-,.,ID=gene:TraesCS5A02G257700;biotype=protein_coding;gene_id=TraesCS5A02G257700;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,474060073.0,474064615.0,.,-,.,ID=gene:TraesCS5A02G259700;biotype=protein_coding;gene_id=TraesCS5A02G259700;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,475312927.0,475321451.0,.,+,.,ID=gene:TraesCS5A02G261500;biotype=protein_coding;gene_id=TraesCS5A02G261500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,475373082.0,475377089.0,.,+,.,ID=gene:TraesCS5A02G261700;biotype=protein_coding;gene_id=TraesCS5A02G261700;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,481929585.0,481933573.0,.,-,.,ID=gene:TraesCS5A02G272100;biotype=protein_coding;gene_id=TraesCS5A02G272100;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,482368913.0,482369872.0,.,+,.,ID=gene:TraesCS5A02G273000;biotype=protein_coding;gene_id=TraesCS5A02G273000;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,482907781.0,482921585.0,.,+,.,ID=gene:TraesCS5A02G274200;biotype=protein_coding;gene_id=TraesCS5A02G274200;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,491093831.0,491094037.0,.,+,.,ID=gene:TraesCS5A02G281700;biotype=protein_coding;gene_id=TraesCS5A02G281700;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,537114372.0,537118559.0,.,-,.,ID=gene:TraesCS5A02G327600;biotype=protein_coding;gene_id=TraesCS5A02G327600;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,546306021.0,546309203.0,.,-,.,ID=gene:TraesCS5A02G338500;biotype=protein_coding;gene_id=TraesCS5A02G338500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,546344836.0,546346161.0,.,+,.,ID=gene:TraesCS5A02G338600;biotype=protein_coding;gene_id=TraesCS5A02G338600;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,546790015.0,546794218.0,.,+,.,ID=gene:TraesCS5A02G339800;biotype=protein_coding;gene_id=TraesCS5A02G339800;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,547612856.0,547614515.0,.,+,.,ID=gene:TraesCS5A02G341800;biotype=protein_coding;gene_id=TraesCS5A02G341800;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,549159798.0,549160259.0,.,-,.,ID=gene:TraesCS5A02G344900;biotype=protein_coding;gene_id=TraesCS5A02G344900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,552522546.0,552527632.0,.,+,.,ID=gene:TraesCS5A02G349500;biotype=protein_coding;gene_id=TraesCS5A02G349500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,571427789.0,571431134.0,.,+,.,ID=gene:TraesCS5A02G373400;biotype=protein_coding;gene_id=TraesCS5A02G373400;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,596032463.0,596033539.0,.,+,.,ID=gene:TraesCS5A02G403900;biotype=protein_coding;gene_id=TraesCS5A02G403900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,618944468.0,618945789.0,.,-,.,ID=gene:TraesCS5A02G435500;biotype=protein_coding;gene_id=TraesCS5A02G435500;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,662347839.0,662351846.0,.,+,.,ID=gene:TraesCS5A02G493200;biotype=protein_coding;gene_id=TraesCS5A02G493200;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,662358286.0,662362451.0,.,+,.,ID=gene:TraesCS5A02G493300;biotype=protein_coding;gene_id=TraesCS5A02G493300;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,680744776.0,680745393.0,.,+,.,ID=gene:TraesCS5A02G518800;biotype=protein_coding;gene_id=TraesCS5A02G518800;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,698341429.0,698344092.0,.,-,.,ID=gene:TraesCS5A02G541900;biotype=protein_coding;gene_id=TraesCS5A02G541900;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,702191264.0,702192016.0,.,+,.,ID=gene:TraesCS5A02G548100;biotype=protein_coding;description=Dirigent protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D5YC36];gene_id=TraesCS5A02G548100;logic_name=iwgsc_high_conf
+5A,IWGSC,gene,707058716.0,707067208.0,.,-,.,ID=gene:TraesCS5A02G555900;biotype=protein_coding;gene_id=TraesCS5A02G555900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,6650056.0,6654556.0,.,+,.,ID=gene:TraesCS5B02G005100;biotype=protein_coding;gene_id=TraesCS5B02G005100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,6659370.0,6677496.0,.,+,.,ID=gene:TraesCS5B02G005200;biotype=protein_coding;gene_id=TraesCS5B02G005200;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,6918180.0,6927740.0,.,-,.,ID=gene:TraesCS5B02G005400;biotype=protein_coding;gene_id=TraesCS5B02G005400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,9284415.0,9286096.0,.,+,.,ID=gene:TraesCS5B02G009000;biotype=protein_coding;gene_id=TraesCS5B02G009000;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,15254944.0,15260143.0,.,+,.,ID=gene:TraesCS5B02G016400;biotype=protein_coding;gene_id=TraesCS5B02G016400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,22509009.0,22514229.0,.,-,.,ID=gene:TraesCS5B02G024300;biotype=protein_coding;gene_id=TraesCS5B02G024300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,24665573.0,24677245.0,.,-,.,ID=gene:TraesCS5B02G026000;biotype=protein_coding;gene_id=TraesCS5B02G026000;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,25993146.0,25995851.0,.,+,.,ID=gene:TraesCS5B02G026800;biotype=protein_coding;gene_id=TraesCS5B02G026800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,41272205.0,41275326.0,.,+,.,ID=gene:TraesCS5B02G037100;biotype=protein_coding;gene_id=TraesCS5B02G037100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,41816477.0,41819031.0,.,-,.,ID=gene:TraesCS5B02G037400;biotype=protein_coding;gene_id=TraesCS5B02G037400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,54702253.0,54703409.0,.,+,.,ID=gene:TraesCS5B02G048500;biotype=protein_coding;gene_id=TraesCS5B02G048500;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,68926295.0,68930490.0,.,-,.,ID=gene:TraesCS5B02G061600;biotype=protein_coding;gene_id=TraesCS5B02G061600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,87289756.0,87295425.0,.,+,.,ID=gene:TraesCS5B02G073500;biotype=protein_coding;gene_id=TraesCS5B02G073500;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,87974686.0,87977701.0,.,+,.,ID=gene:TraesCS5B02G073900;biotype=protein_coding;gene_id=TraesCS5B02G073900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,136622530.0,136628059.0,.,+,.,ID=gene:TraesCS5B02G102800;biotype=protein_coding;gene_id=TraesCS5B02G102800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,249711888.0,249714643.0,.,-,.,ID=gene:TraesCS5B02G133600;biotype=protein_coding;gene_id=TraesCS5B02G133600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,264912405.0,264913728.0,.,-,.,ID=gene:TraesCS5B02G140300;biotype=protein_coding;gene_id=TraesCS5B02G140300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,293191166.0,293192419.0,.,-,.,ID=gene:TraesCS5B02G158900;biotype=protein_coding;gene_id=TraesCS5B02G158900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,362946545.0,362957163.0,.,+,.,ID=gene:TraesCS5B02G200800;biotype=protein_coding;gene_id=TraesCS5B02G200800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,397949659.0,397954665.0,.,+,.,ID=gene:TraesCS5B02G223100;biotype=protein_coding;gene_id=TraesCS5B02G223100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,398067521.0,398080415.0,.,+,.,ID=gene:TraesCS5B02G223600;biotype=protein_coding;gene_id=TraesCS5B02G223600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,400447843.0,400451239.0,.,+,.,ID=gene:TraesCS5B02G224800;biotype=protein_coding;gene_id=TraesCS5B02G224800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,404143197.0,404145379.0,.,-,.,ID=gene:TraesCS5B02G227600;biotype=protein_coding;gene_id=TraesCS5B02G227600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,405722282.0,405725834.0,.,+,.,ID=gene:TraesCS5B02G228900;biotype=protein_coding;gene_id=TraesCS5B02G228900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,408224705.0,408225808.0,.,+,.,ID=gene:TraesCS5B02G231400;biotype=protein_coding;gene_id=TraesCS5B02G231400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,429726353.0,429731429.0,.,+,.,ID=gene:TraesCS5B02G247700;biotype=protein_coding;gene_id=TraesCS5B02G247700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,429882179.0,429888576.0,.,+,.,ID=gene:TraesCS5B02G248000;biotype=protein_coding;gene_id=TraesCS5B02G248000;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,446267272.0,446268080.0,.,-,.,ID=gene:TraesCS5B02G261700;biotype=protein_coding;description=Thionin-like protein [Source:UniProtKB/TrEMBL%3BAcc:A9UIE7];gene_id=TraesCS5B02G261700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,447278045.0,447278684.0,.,+,.,ID=gene:TraesCS5B02G262600;biotype=protein_coding;gene_id=TraesCS5B02G262600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,458390300.0,458391696.0,.,-,.,ID=gene:TraesCS5B02G272900;biotype=protein_coding;gene_id=TraesCS5B02G272900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,462309329.0,462311535.0,.,+,.,ID=gene:TraesCS5B02G276700;biotype=protein_coding;gene_id=TraesCS5B02G276700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,468896869.0,468899507.0,.,+,.,ID=gene:TraesCS5B02G283300;biotype=protein_coding;gene_id=TraesCS5B02G283300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,475985944.0,475998655.0,.,+,.,ID=gene:TraesCS5B02G289800;biotype=protein_coding;gene_id=TraesCS5B02G289800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,478741195.0,478746339.0,.,-,.,ID=gene:TraesCS5B02G294400;biotype=protein_coding;gene_id=TraesCS5B02G294400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527255115.0,527255456.0,.,+,.,ID=gene:TraesCS5B02G343900;biotype=protein_coding;gene_id=TraesCS5B02G343900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527255589.0,527259121.0,.,-,.,ID=gene:TraesCS5B02G344000;biotype=protein_coding;gene_id=TraesCS5B02G344000;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527289839.0,527295473.0,.,+,.,ID=gene:TraesCS5B02G344100;biotype=protein_coding;gene_id=TraesCS5B02G344100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527335229.0,527341760.0,.,-,.,ID=gene:TraesCS5B02G344200;biotype=protein_coding;gene_id=TraesCS5B02G344200;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527487862.0,527492393.0,.,+,.,ID=gene:TraesCS5B02G344300;biotype=protein_coding;gene_id=TraesCS5B02G344300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527494004.0,527494625.0,.,+,.,ID=gene:TraesCS5B02G344500;biotype=protein_coding;gene_id=TraesCS5B02G344500;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527496384.0,527497994.0,.,-,.,ID=gene:TraesCS5B02G344600;biotype=protein_coding;gene_id=TraesCS5B02G344600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,527600718.0,527601373.0,.,-,.,ID=gene:TraesCS5B02G344700;biotype=protein_coding;gene_id=TraesCS5B02G344700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,528575323.0,528575751.0,.,+,.,ID=gene:TraesCS5B02G346900;biotype=protein_coding;gene_id=TraesCS5B02G346900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,528579091.0,528579525.0,.,-,.,ID=gene:TraesCS5B02G347200;biotype=protein_coding;gene_id=TraesCS5B02G347200;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,528589949.0,528591433.0,.,-,.,ID=gene:TraesCS5B02G347600;biotype=protein_coding;gene_id=TraesCS5B02G347600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,530966123.0,530968804.0,.,+,.,ID=gene:TraesCS5B02G349800;biotype=protein_coding;description=Flavin-containing monooxygenase [Source:UniProtKB/TrEMBL%3BAcc:A0A341VKR6];gene_id=TraesCS5B02G349800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,531598054.0,531599714.0,.,+,.,ID=gene:TraesCS5B02G351200;biotype=protein_coding;gene_id=TraesCS5B02G351200;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,546703873.0,546705896.0,.,-,.,ID=gene:TraesCS5B02G368300;biotype=protein_coding;gene_id=TraesCS5B02G368300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,546826331.0,546832103.0,.,-,.,ID=gene:TraesCS5B02G368500;biotype=protein_coding;description=Potassium transporter [Source:UniProtKB/TrEMBL%3BAcc:W5FK61];gene_id=TraesCS5B02G368500;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,548107622.0,548108983.0,.,+,.,ID=gene:TraesCS5B02G369100;biotype=protein_coding;gene_id=TraesCS5B02G369100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,549547594.0,549550983.0,.,+,.,ID=gene:TraesCS5B02G370400;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:W5FIJ2];gene_id=TraesCS5B02G370400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,595676670.0,595685625.0,.,+,.,ID=gene:TraesCS5B02G420400;biotype=protein_coding;description=DNA-directed RNA polymerase subunit [Source:UniProtKB/TrEMBL%3BAcc:A0A341VMU7];gene_id=TraesCS5B02G420400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,597289222.0,597305167.0,.,-,.,ID=gene:TraesCS5B02G422400;biotype=protein_coding;gene_id=TraesCS5B02G422400;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,597812318.0,597817136.0,.,-,.,ID=gene:TraesCS5B02G422500;biotype=protein_coding;gene_id=TraesCS5B02G422500;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,604856401.0,604857462.0,.,-,.,ID=gene:TraesCS5B02G429200;biotype=protein_coding;gene_id=TraesCS5B02G429200;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,605161757.0,605169602.0,.,-,.,ID=gene:TraesCS5B02G429700;biotype=protein_coding;gene_id=TraesCS5B02G429700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,605477274.0,605486410.0,.,-,.,ID=gene:TraesCS5B02G430100;biotype=protein_coding;gene_id=TraesCS5B02G430100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,620582667.0,620583592.0,.,-,.,ID=gene:TraesCS5B02G448300;biotype=protein_coding;gene_id=TraesCS5B02G448300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,623108552.0,623118146.0,.,-,.,ID=gene:TraesCS5B02G451600;biotype=protein_coding;gene_id=TraesCS5B02G451600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,689995197.0,689997720.0,.,-,.,ID=gene:TraesCS5B02G532700;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:W5FJ79];gene_id=TraesCS5B02G532700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,693697792.0,693709464.0,.,-,.,ID=gene:TraesCS5B02G538100;biotype=protein_coding;gene_id=TraesCS5B02G538100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,697343571.0,697347330.0,.,-,.,ID=gene:TraesCS5B02G544800;biotype=protein_coding;gene_id=TraesCS5B02G544800;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,699946003.0,699949487.0,.,-,.,ID=gene:TraesCS5B02G546700;biotype=protein_coding;gene_id=TraesCS5B02G546700;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,700235845.0,700237592.0,.,-,.,ID=gene:TraesCS5B02G547300;biotype=protein_coding;gene_id=TraesCS5B02G547300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,706353905.0,706356043.0,.,-,.,ID=gene:TraesCS5B02G559600;biotype=protein_coding;gene_id=TraesCS5B02G559600;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,706452404.0,706458905.0,.,+,.,ID=gene:TraesCS5B02G559900;biotype=protein_coding;gene_id=TraesCS5B02G559900;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,706489143.0,706490694.0,.,-,.,ID=gene:TraesCS5B02G560000;biotype=protein_coding;gene_id=TraesCS5B02G560000;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,711736654.0,711740410.0,.,+,.,ID=gene:TraesCS5B02G569100;biotype=protein_coding;gene_id=TraesCS5B02G569100;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,711821937.0,711830615.0,.,+,.,ID=gene:TraesCS5B02G569300;biotype=protein_coding;gene_id=TraesCS5B02G569300;logic_name=iwgsc_high_conf
+5B,IWGSC,gene,711830749.0,711832617.0,.,+,.,ID=gene:TraesCS5B02G569400;biotype=protein_coding;gene_id=TraesCS5B02G569400;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,14390136.0,14396588.0,.,-,.,ID=gene:TraesCS5D02G021700;biotype=protein_coding;gene_id=TraesCS5D02G021700;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,30618434.0,30620412.0,.,+,.,ID=gene:TraesCS5D02G033000;biotype=protein_coding;gene_id=TraesCS5D02G033000;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,33686741.0,33697174.0,.,-,.,ID=gene:TraesCS5D02G034600;biotype=protein_coding;gene_id=TraesCS5D02G034600;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,51686038.0,51687161.0,.,+,.,ID=gene:TraesCS5D02G054300;biotype=protein_coding;gene_id=TraesCS5D02G054300;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,61642696.0,61647245.0,.,+,.,ID=gene:TraesCS5D02G066100;biotype=protein_coding;gene_id=TraesCS5D02G066100;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,110347732.0,110351071.0,.,+,.,ID=gene:TraesCS5D02G098700;biotype=protein_coding;gene_id=TraesCS5D02G098700;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,126258039.0,126260206.0,.,+,.,ID=gene:TraesCS5D02G111200;biotype=protein_coding;gene_id=TraesCS5D02G111200;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,165240355.0,165252273.0,.,+,.,ID=gene:TraesCS5D02G119600;biotype=protein_coding;gene_id=TraesCS5D02G119600;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,173750295.0,173764068.0,.,-,.,ID=gene:TraesCS5D02G121200;biotype=protein_coding;description=Nitrilase-like protein 2 [Source:Projected from Arabidopsis thaliana (AT4G08790) UniProtKB/Swiss-Prot%3BAcc:Q94JV5];gene_id=TraesCS5D02G121200;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,174003154.0,174007319.0,.,+,.,ID=gene:TraesCS5D02G121300;biotype=protein_coding;description=Proteasome endopeptidase complex [Source:UniProtKB/TrEMBL%3BAcc:A0A341W4U6];gene_id=TraesCS5D02G121300;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,174009797.0,174014360.0,.,-,.,ID=gene:TraesCS5D02G121400;biotype=protein_coding;gene_id=TraesCS5D02G121400;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,311308185.0,311312420.0,.,-,.,ID=gene:TraesCS5D02G205200;biotype=protein_coding;gene_id=TraesCS5D02G205200;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,410873087.0,410874393.0,.,-,.,ID=gene:TraesCS5D02G318000;biotype=protein_coding;description=Putative CBF2-like protein [Source:UniProtKB/TrEMBL%3BAcc:F5CPR4];gene_id=TraesCS5D02G318000;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,469241793.0,469243839.0,.,+,.,ID=gene:TraesCS5D02G403600;biotype=protein_coding;gene_id=TraesCS5D02G403600;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,486250057.0,486254710.0,.,-,.,ID=gene:TraesCS5D02G428900;biotype=protein_coding;gene_id=TraesCS5D02G428900;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,498483507.0,498486549.0,.,-,.,ID=gene:TraesCS5D02G449500;biotype=protein_coding;gene_id=TraesCS5D02G449500;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,505347504.0,505361106.0,.,+,.,ID=gene:TraesCS5D02G461000;biotype=protein_coding;gene_id=TraesCS5D02G461000;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,529826163.0,529827625.0,.,+,.,ID=gene:TraesCS5D02G502300;biotype=protein_coding;gene_id=TraesCS5D02G502300;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,529845043.0,529846275.0,.,+,.,ID=gene:TraesCS5D02G502600;biotype=protein_coding;description=Cysteine proteinase inhibitor [Source:UniProtKB/TrEMBL%3BAcc:Q9FS05];gene_id=TraesCS5D02G502600;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,543098434.0,543102272.0,.,+,.,ID=gene:TraesCS5D02G522700;biotype=protein_coding;gene_id=TraesCS5D02G522700;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,543221611.0,543225716.0,.,+,.,ID=gene:TraesCS5D02G523000;biotype=protein_coding;gene_id=TraesCS5D02G523000;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,543269496.0,543273156.0,.,+,.,ID=gene:TraesCS5D02G523300;biotype=protein_coding;gene_id=TraesCS5D02G523300;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,546820679.0,546825262.0,.,-,.,ID=gene:TraesCS5D02G530900;biotype=protein_coding;gene_id=TraesCS5D02G530900;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,547436060.0,547460160.0,.,+,.,ID=gene:TraesCS5D02G532400;biotype=protein_coding;gene_id=TraesCS5D02G532400;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,549862326.0,549868496.0,.,+,.,ID=gene:TraesCS5D02G536900;biotype=protein_coding;gene_id=TraesCS5D02G536900;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,551073776.0,551075597.0,.,+,.,ID=gene:TraesCS5D02G539700;biotype=protein_coding;gene_id=TraesCS5D02G539700;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,551543850.0,551546279.0,.,-,.,ID=gene:TraesCS5D02G540300;biotype=protein_coding;gene_id=TraesCS5D02G540300;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,552040877.0,552042532.0,.,-,.,ID=gene:TraesCS5D02G541200;biotype=protein_coding;gene_id=TraesCS5D02G541200;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,555068318.0,555071814.0,.,-,.,ID=gene:TraesCS5D02G546600;biotype=protein_coding;gene_id=TraesCS5D02G546600;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,556874874.0,556878041.0,.,-,.,ID=gene:TraesCS5D02G550100;biotype=protein_coding;gene_id=TraesCS5D02G550100;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,557043278.0,557051330.0,.,-,.,ID=gene:TraesCS5D02G550800;biotype=protein_coding;gene_id=TraesCS5D02G550800;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,557140668.0,557145838.0,.,+,.,ID=gene:TraesCS5D02G550900;biotype=protein_coding;gene_id=TraesCS5D02G550900;logic_name=iwgsc_high_conf
+5D,IWGSC,gene,561641038.0,561645489.0,.,-,.,ID=gene:TraesCS5D02G560500;biotype=protein_coding;gene_id=TraesCS5D02G560500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,286171.0,288047.0,.,+,.,ID=gene:TraesCS6A02G000300;biotype=protein_coding;gene_id=TraesCS6A02G000300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,610042.0,615530.0,.,+,.,ID=gene:TraesCS6A02G000600;biotype=protein_coding;description=Protein disulfide-isomerase [Source:UniProtKB/TrEMBL%3BAcc:A0A341WLF3];gene_id=TraesCS6A02G000600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,795316.0,801602.0,.,-,.,ID=gene:TraesCS6A02G001600;biotype=protein_coding;gene_id=TraesCS6A02G001600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,3288495.0,3289339.0,.,+,.,ID=gene:TraesCS6A02G008000;biotype=protein_coding;gene_id=TraesCS6A02G008000;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,9372298.0,9378625.0,.,-,.,ID=gene:TraesCS6A02G020100;biotype=protein_coding;gene_id=TraesCS6A02G020100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,11587722.0,11591011.0,.,-,.,ID=gene:TraesCS6A02G023300;biotype=protein_coding;gene_id=TraesCS6A02G023300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,11784200.0,11788121.0,.,-,.,ID=gene:TraesCS6A02G023600;biotype=protein_coding;gene_id=TraesCS6A02G023600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,12432253.0,12433955.0,.,-,.,ID=gene:TraesCS6A02G025200;biotype=protein_coding;description=3-ketoacyl-CoA synthase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6AJW4];gene_id=TraesCS6A02G025200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,15890246.0,15894750.0,.,-,.,ID=gene:TraesCS6A02G031700;biotype=protein_coding;gene_id=TraesCS6A02G031700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,17028884.0,17031209.0,.,-,.,ID=gene:TraesCS6A02G035300;biotype=protein_coding;gene_id=TraesCS6A02G035300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,17662406.0,17667466.0,.,-,.,ID=gene:TraesCS6A02G036000;biotype=protein_coding;gene_id=TraesCS6A02G036000;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,17826503.0,17830695.0,.,-,.,ID=gene:TraesCS6A02G036200;biotype=protein_coding;gene_id=TraesCS6A02G036200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,18596060.0,18602778.0,.,-,.,ID=gene:TraesCS6A02G037600;biotype=protein_coding;gene_id=TraesCS6A02G037600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,26717837.0,26719705.0,.,+,.,ID=gene:TraesCS6A02G051200;biotype=protein_coding;description=Glycosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:W5GGK1];gene_id=TraesCS6A02G051200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,26930769.0,26933269.0,.,+,.,ID=gene:TraesCS6A02G051600;biotype=protein_coding;gene_id=TraesCS6A02G051600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,26960036.0,26968711.0,.,+,.,ID=gene:TraesCS6A02G051900;biotype=protein_coding;gene_id=TraesCS6A02G051900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,27083829.0,27088618.0,.,-,.,ID=gene:TraesCS6A02G052400;biotype=protein_coding;gene_id=TraesCS6A02G052400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,27099159.0,27109407.0,.,-,.,ID=gene:TraesCS6A02G052500;biotype=protein_coding;gene_id=TraesCS6A02G052500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,28280497.0,28284769.0,.,-,.,ID=gene:TraesCS6A02G054200;biotype=protein_coding;gene_id=TraesCS6A02G054200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,29081896.0,29082554.0,.,+,.,ID=gene:TraesCS6A02G055400;biotype=protein_coding;description=Histone H4 variant TH011 [Source:UniProtKB/Swiss-Prot%3BAcc:P62785];gene_id=TraesCS6A02G055400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,30190380.0,30191252.0,.,-,.,ID=gene:TraesCS6A02G057400;biotype=protein_coding;gene_id=TraesCS6A02G057400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,31750275.0,31755172.0,.,-,.,ID=gene:TraesCS6A02G060300;biotype=protein_coding;gene_id=TraesCS6A02G060300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,32739398.0,32744163.0,.,+,.,ID=gene:TraesCS6A02G060900;biotype=protein_coding;gene_id=TraesCS6A02G060900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,32809546.0,32814230.0,.,-,.,ID=gene:TraesCS6A02G061100;biotype=protein_coding;gene_id=TraesCS6A02G061100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,33949212.0,33949820.0,.,+,.,ID=gene:TraesCS6A02G063100;biotype=protein_coding;description=Histone H4 variant TH011 [Source:UniProtKB/Swiss-Prot%3BAcc:P62785];gene_id=TraesCS6A02G063100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,39143121.0,39145170.0,.,+,.,ID=gene:TraesCS6A02G071400;biotype=protein_coding;gene_id=TraesCS6A02G071400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,46974751.0,46979670.0,.,+,.,ID=gene:TraesCS6A02G076900;biotype=protein_coding;gene_id=TraesCS6A02G076900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,49101751.0,49106602.0,.,-,.,ID=gene:TraesCS6A02G080100;biotype=protein_coding;gene_id=TraesCS6A02G080100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,53910926.0,53911626.0,.,+,.,ID=gene:TraesCS6A02G085700;biotype=protein_coding;gene_id=TraesCS6A02G085700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,58014173.0,58020633.0,.,+,.,ID=gene:TraesCS6A02G090100;biotype=protein_coding;gene_id=TraesCS6A02G090100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,61425718.0,61426504.0,.,+,.,ID=gene:TraesCS6A02G094700;biotype=protein_coding;gene_id=TraesCS6A02G094700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,68116936.0,68132994.0,.,+,.,ID=gene:TraesCS6A02G100500;biotype=protein_coding;gene_id=TraesCS6A02G100500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,72973313.0,72975820.0,.,+,.,ID=gene:TraesCS6A02G103700;biotype=protein_coding;gene_id=TraesCS6A02G103700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,83434956.0,83438087.0,.,+,.,ID=gene:TraesCS6A02G113500;biotype=protein_coding;gene_id=TraesCS6A02G113500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,88598134.0,88606360.0,.,+,.,ID=gene:TraesCS6A02G117800;biotype=protein_coding;gene_id=TraesCS6A02G117800;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,105012199.0,105022853.0,.,+,.,ID=gene:TraesCS6A02G132800;biotype=protein_coding;gene_id=TraesCS6A02G132800;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,105168155.0,105168616.0,.,+,.,ID=gene:TraesCS6A02G132900;biotype=protein_coding;gene_id=TraesCS6A02G132900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,119789430.0,119792147.0,.,-,.,ID=gene:TraesCS6A02G143600;biotype=protein_coding;gene_id=TraesCS6A02G143600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,121666405.0,121666690.0,.,+,.,ID=gene:TraesCS6A02G144300;biotype=protein_coding;gene_id=TraesCS6A02G144300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,121671252.0,121672423.0,.,+,.,ID=gene:TraesCS6A02G144400;biotype=protein_coding;gene_id=TraesCS6A02G144400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,127189408.0,127192649.0,.,-,.,ID=gene:TraesCS6A02G147300;biotype=protein_coding;gene_id=TraesCS6A02G147300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,170011073.0,170014026.0,.,-,.,ID=gene:TraesCS6A02G166900;biotype=protein_coding;gene_id=TraesCS6A02G166900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,217769394.0,217771884.0,.,+,.,ID=gene:TraesCS6A02G185600;biotype=protein_coding;gene_id=TraesCS6A02G185600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,254936294.0,254937809.0,.,+,.,ID=gene:TraesCS6A02G190600;biotype=protein_coding;gene_id=TraesCS6A02G190600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,267015192.0,267017029.0,.,+,.,ID=gene:TraesCS6A02G193200;biotype=protein_coding;gene_id=TraesCS6A02G193200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,364042069.0,364042415.0,.,-,.,ID=gene:TraesCS6A02G206400;biotype=protein_coding;gene_id=TraesCS6A02G206400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,387223693.0,387228618.0,.,+,.,ID=gene:TraesCS6A02G213000;biotype=protein_coding;gene_id=TraesCS6A02G213000;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,389757926.0,389761365.0,.,+,.,ID=gene:TraesCS6A02G213900;biotype=protein_coding;gene_id=TraesCS6A02G213900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,441426836.0,441433685.0,.,-,.,ID=gene:TraesCS6A02G233300;biotype=protein_coding;gene_id=TraesCS6A02G233300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,456762370.0,456767991.0,.,-,.,ID=gene:TraesCS6A02G245400;biotype=protein_coding;gene_id=TraesCS6A02G245400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,459672545.0,459675026.0,.,+,.,ID=gene:TraesCS6A02G247500;biotype=protein_coding;gene_id=TraesCS6A02G247500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,517537512.0,517539714.0,.,-,.,ID=gene:TraesCS6A02G285700;biotype=protein_coding;gene_id=TraesCS6A02G285700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,536575912.0,536576637.0,.,+,.,ID=gene:TraesCS6A02G303400;biotype=protein_coding;gene_id=TraesCS6A02G303400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,556551166.0,556553285.0,.,-,.,ID=gene:TraesCS6A02G322500;biotype=protein_coding;gene_id=TraesCS6A02G322500;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,559729757.0,559735196.0,.,+,.,ID=gene:TraesCS6A02G326300;biotype=protein_coding;gene_id=TraesCS6A02G326300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,563262300.0,563276042.0,.,-,.,ID=gene:TraesCS6A02G330900;biotype=protein_coding;description=COBRA-like protein [Source:UniProtKB/TrEMBL%3BAcc:A0A341WKX0];gene_id=TraesCS6A02G330900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,581982926.0,581983580.0,.,+,.,ID=gene:TraesCS6A02G350100;biotype=protein_coding;gene_id=TraesCS6A02G350100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,582092081.0,582096138.0,.,+,.,ID=gene:TraesCS6A02G350300;biotype=protein_coding;gene_id=TraesCS6A02G350300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,583007332.0,583009764.0,.,+,.,ID=gene:TraesCS6A02G351200;biotype=protein_coding;gene_id=TraesCS6A02G351200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,587550504.0,587551070.0,.,-,.,ID=gene:TraesCS6A02G356100;biotype=protein_coding;gene_id=TraesCS6A02G356100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,596169234.0,596171759.0,.,+,.,ID=gene:TraesCS6A02G372400;biotype=protein_coding;gene_id=TraesCS6A02G372400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,600128268.0,600133679.0,.,-,.,ID=gene:TraesCS6A02G379300;biotype=protein_coding;gene_id=TraesCS6A02G379300;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,608678208.0,608680705.0,.,-,.,ID=gene:TraesCS6A02G396700;biotype=protein_coding;gene_id=TraesCS6A02G396700;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,608900484.0,608902871.0,.,-,.,ID=gene:TraesCS6A02G397400;biotype=protein_coding;gene_id=TraesCS6A02G397400;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,608977925.0,608979914.0,.,+,.,ID=gene:TraesCS6A02G397600;biotype=protein_coding;gene_id=TraesCS6A02G397600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,609019975.0,609024213.0,.,-,.,ID=gene:TraesCS6A02G397800;biotype=protein_coding;gene_id=TraesCS6A02G397800;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,610267294.0,610276559.0,.,+,.,ID=gene:TraesCS6A02G402100;biotype=protein_coding;gene_id=TraesCS6A02G402100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,610406498.0,610412979.0,.,-,.,ID=gene:TraesCS6A02G402600;biotype=protein_coding;gene_id=TraesCS6A02G402600;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,613492445.0,613495848.0,.,+,.,ID=gene:TraesCS6A02G409900;biotype=protein_coding;gene_id=TraesCS6A02G409900;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,613885537.0,613886812.0,.,+,.,ID=gene:TraesCS6A02G411100;biotype=protein_coding;gene_id=TraesCS6A02G411100;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,613891659.0,613896830.0,.,-,.,ID=gene:TraesCS6A02G411200;biotype=protein_coding;gene_id=TraesCS6A02G411200;logic_name=iwgsc_high_conf
+6A,IWGSC,gene,613955742.0,613964788.0,.,+,.,ID=gene:TraesCS6A02G411800;biotype=protein_coding;gene_id=TraesCS6A02G411800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,111505.0,117469.0,.,-,.,ID=gene:TraesCS6B02G000100;biotype=protein_coding;gene_id=TraesCS6B02G000100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,127120.0,139165.0,.,-,.,ID=gene:TraesCS6B02G000200;biotype=protein_coding;gene_id=TraesCS6B02G000200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,4943133.0,4944595.0,.,+,.,ID=gene:TraesCS6B02G007700;biotype=protein_coding;gene_id=TraesCS6B02G007700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,6166197.0,6168942.0,.,-,.,ID=gene:TraesCS6B02G010000;biotype=protein_coding;gene_id=TraesCS6B02G010000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,6785886.0,6786554.0,.,-,.,ID=gene:TraesCS6B02G011300;biotype=protein_coding;gene_id=TraesCS6B02G011300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,11286117.0,11289669.0,.,-,.,ID=gene:TraesCS6B02G017700;biotype=protein_coding;description=Putative RNA-binding protein [Source:UniProtKB/TrEMBL%3BAcc:B8K1U9];gene_id=TraesCS6B02G017700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,14126103.0,14127816.0,.,+,.,ID=gene:TraesCS6B02G022500;biotype=protein_coding;gene_id=TraesCS6B02G022500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,18381079.0,18384455.0,.,+,.,ID=gene:TraesCS6B02G030900;biotype=protein_coding;gene_id=TraesCS6B02G030900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,18935971.0,18936843.0,.,-,.,ID=gene:TraesCS6B02G032400;biotype=protein_coding;gene_id=TraesCS6B02G032400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,20689218.0,20696748.0,.,+,.,ID=gene:TraesCS6B02G034200;biotype=protein_coding;gene_id=TraesCS6B02G034200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,30293702.0,30298101.0,.,-,.,ID=gene:TraesCS6B02G051000;biotype=protein_coding;gene_id=TraesCS6B02G051000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,30323825.0,30324913.0,.,+,.,ID=gene:TraesCS6B02G051100;biotype=protein_coding;gene_id=TraesCS6B02G051100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,35629124.0,35629534.0,.,+,.,ID=gene:TraesCS6B02G055300;biotype=protein_coding;gene_id=TraesCS6B02G055300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,42392965.0,42394544.0,.,+,.,ID=gene:TraesCS6B02G063900;biotype=protein_coding;description=Peroxidase [Source:UniProtKB/TrEMBL%3BAcc:W5GP51];gene_id=TraesCS6B02G063900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,47275370.0,47282575.0,.,-,.,ID=gene:TraesCS6B02G070900;biotype=protein_coding;gene_id=TraesCS6B02G070900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,125408697.0,125410806.0,.,-,.,ID=gene:TraesCS6B02G129300;biotype=protein_coding;gene_id=TraesCS6B02G129300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,130337114.0,130342508.0,.,+,.,ID=gene:TraesCS6B02G133700;biotype=protein_coding;gene_id=TraesCS6B02G133700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,139883785.0,139886327.0,.,+,.,ID=gene:TraesCS6B02G140500;biotype=protein_coding;gene_id=TraesCS6B02G140500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,142449933.0,142454283.0,.,+,.,ID=gene:TraesCS6B02G142600;biotype=protein_coding;gene_id=TraesCS6B02G142600;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,142499162.0,142502367.0,.,+,.,ID=gene:TraesCS6B02G142700;biotype=protein_coding;description=Purple acid phosphatase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6AW67];gene_id=TraesCS6B02G142700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,143785317.0,143787100.0,.,-,.,ID=gene:TraesCS6B02G144400;biotype=protein_coding;description=Glycosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6B020];gene_id=TraesCS6B02G144400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,149456467.0,149471803.0,.,-,.,ID=gene:TraesCS6B02G148400;biotype=protein_coding;gene_id=TraesCS6B02G148400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,159283868.0,159286375.0,.,+,.,ID=gene:TraesCS6B02G156600;biotype=protein_coding;gene_id=TraesCS6B02G156600;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,160660202.0,160683462.0,.,+,.,ID=gene:TraesCS6B02G158100;biotype=protein_coding;gene_id=TraesCS6B02G158100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,165511610.0,165514360.0,.,-,.,ID=gene:TraesCS6B02G161400;biotype=protein_coding;gene_id=TraesCS6B02G161400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,191539156.0,191542444.0,.,-,.,ID=gene:TraesCS6B02G175600;biotype=protein_coding;gene_id=TraesCS6B02G175600;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,208852496.0,208855314.0,.,-,.,ID=gene:TraesCS6B02G185000;biotype=protein_coding;gene_id=TraesCS6B02G185000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,221810195.0,221813491.0,.,-,.,ID=gene:TraesCS6B02G189900;biotype=protein_coding;gene_id=TraesCS6B02G189900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,225860004.0,225866408.0,.,+,.,ID=gene:TraesCS6B02G191400;biotype=protein_coding;gene_id=TraesCS6B02G191400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,234558071.0,234560573.0,.,+,.,ID=gene:TraesCS6B02G197300;biotype=protein_coding;description=S-adenosylmethionine synthase [Source:UniProtKB/TrEMBL%3BAcc:W5GBW4];gene_id=TraesCS6B02G197300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,286711940.0,286713535.0,.,-,.,ID=gene:TraesCS6B02G213000;biotype=protein_coding;gene_id=TraesCS6B02G213000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,361268761.0,361271642.0,.,-,.,ID=gene:TraesCS6B02G228400;biotype=protein_coding;gene_id=TraesCS6B02G228400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,388073295.0,388076757.0,.,-,.,ID=gene:TraesCS6B02G232400;biotype=protein_coding;gene_id=TraesCS6B02G232400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,454023437.0,454029849.0,.,-,.,ID=gene:TraesCS6B02G253000;biotype=protein_coding;gene_id=TraesCS6B02G253000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,456208347.0,456210921.0,.,-,.,ID=gene:TraesCS6B02G253700;biotype=protein_coding;gene_id=TraesCS6B02G253700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,459326678.0,459327712.0,.,+,.,ID=gene:TraesCS6B02G255200;biotype=protein_coding;gene_id=TraesCS6B02G255200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,460206606.0,460209974.0,.,+,.,ID=gene:TraesCS6B02G256200;biotype=protein_coding;gene_id=TraesCS6B02G256200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,476428000.0,476430289.0,.,-,.,ID=gene:TraesCS6B02G265000;biotype=protein_coding;gene_id=TraesCS6B02G265000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,477217134.0,477226063.0,.,+,.,ID=gene:TraesCS6B02G265300;biotype=protein_coding;gene_id=TraesCS6B02G265300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,483330977.0,483333909.0,.,+,.,ID=gene:TraesCS6B02G268700;biotype=protein_coding;gene_id=TraesCS6B02G268700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,514477653.0,514479577.0,.,-,.,ID=gene:TraesCS6B02G285300;biotype=protein_coding;gene_id=TraesCS6B02G285300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,538055770.0,538065134.0,.,-,.,ID=gene:TraesCS6B02G299900;biotype=protein_coding;gene_id=TraesCS6B02G299900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,538065436.0,538068717.0,.,-,.,ID=gene:TraesCS6B02G300100;biotype=protein_coding;description=Probable pinoresinol-lariciresinol reductase 3 [Source:Projected from Arabidopsis thaliana (AT4G34540) UniProtKB/Swiss-Prot%3BAcc:O65679];gene_id=TraesCS6B02G300100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,545835877.0,545841135.0,.,+,.,ID=gene:TraesCS6B02G305000;biotype=protein_coding;gene_id=TraesCS6B02G305000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,560188942.0,560197866.0,.,+,.,ID=gene:TraesCS6B02G312700;biotype=protein_coding;gene_id=TraesCS6B02G312700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,561273671.0,561277195.0,.,-,.,ID=gene:TraesCS6B02G313300;biotype=protein_coding;gene_id=TraesCS6B02G313300;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,561284059.0,561286281.0,.,-,.,ID=gene:TraesCS6B02G313400;biotype=protein_coding;gene_id=TraesCS6B02G313400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,563054491.0,563057543.0,.,+,.,ID=gene:TraesCS6B02G314900;biotype=protein_coding;gene_id=TraesCS6B02G314900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,569367522.0,569370614.0,.,+,.,ID=gene:TraesCS6B02G321400;biotype=protein_coding;gene_id=TraesCS6B02G321400;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,576826073.0,576827367.0,.,-,.,ID=gene:TraesCS6B02G327200;biotype=protein_coding;gene_id=TraesCS6B02G327200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,577417825.0,577424426.0,.,-,.,ID=gene:TraesCS6B02G328000;biotype=protein_coding;gene_id=TraesCS6B02G328000;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,624311966.0,624313762.0,.,-,.,ID=gene:TraesCS6B02G355900;biotype=protein_coding;gene_id=TraesCS6B02G355900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,625241370.0,625244779.0,.,+,.,ID=gene:TraesCS6B02G356800;biotype=protein_coding;description=Nitrate reductase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6S9I8];gene_id=TraesCS6B02G356800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,633858539.0,633859821.0,.,+,.,ID=gene:TraesCS6B02G362100;biotype=protein_coding;gene_id=TraesCS6B02G362100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,664021498.0,664027063.0,.,-,.,ID=gene:TraesCS6B02G388800;biotype=protein_coding;gene_id=TraesCS6B02G388800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,664062456.0,664064312.0,.,-,.,ID=gene:TraesCS6B02G388900;biotype=protein_coding;gene_id=TraesCS6B02G388900;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,672362153.0,672368253.0,.,+,.,ID=gene:TraesCS6B02G396200;biotype=protein_coding;gene_id=TraesCS6B02G396200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,681076120.0,681079610.0,.,+,.,ID=gene:TraesCS6B02G406800;biotype=protein_coding;gene_id=TraesCS6B02G406800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,682119634.0,682123129.0,.,+,.,ID=gene:TraesCS6B02G407600;biotype=protein_coding;description=Anaphase-promoting complex subunit 10 [Source:UniProtKB/TrEMBL%3BAcc:A0A341X6V7];gene_id=TraesCS6B02G407600;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,690973003.0,690978947.0,.,+,.,ID=gene:TraesCS6B02G419200;biotype=protein_coding;gene_id=TraesCS6B02G419200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,693322245.0,693324587.0,.,-,.,ID=gene:TraesCS6B02G423500;biotype=protein_coding;gene_id=TraesCS6B02G423500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,704371657.0,704373985.0,.,+,.,ID=gene:TraesCS6B02G437200;biotype=protein_coding;gene_id=TraesCS6B02G437200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,704738709.0,704742533.0,.,+,.,ID=gene:TraesCS6B02G438500;biotype=protein_coding;gene_id=TraesCS6B02G438500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,704859279.0,704862485.0,.,-,.,ID=gene:TraesCS6B02G439200;biotype=protein_coding;gene_id=TraesCS6B02G439200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,705782800.0,705784729.0,.,-,.,ID=gene:TraesCS6B02G441800;biotype=protein_coding;gene_id=TraesCS6B02G441800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,705885467.0,705886688.0,.,+,.,ID=gene:TraesCS6B02G442200;biotype=protein_coding;gene_id=TraesCS6B02G442200;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,707304295.0,707311067.0,.,-,.,ID=gene:TraesCS6B02G445700;biotype=protein_coding;gene_id=TraesCS6B02G445700;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,708061061.0,708069415.0,.,-,.,ID=gene:TraesCS6B02G447800;biotype=protein_coding;gene_id=TraesCS6B02G447800;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,708720422.0,708724534.0,.,-,.,ID=gene:TraesCS6B02G449500;biotype=protein_coding;gene_id=TraesCS6B02G449500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,710149424.0,710152200.0,.,-,.,ID=gene:TraesCS6B02G451500;biotype=protein_coding;gene_id=TraesCS6B02G451500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,710795550.0,710799389.0,.,+,.,ID=gene:TraesCS6B02G452100;biotype=protein_coding;gene_id=TraesCS6B02G452100;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,711345338.0,711348401.0,.,-,.,ID=gene:TraesCS6B02G452500;biotype=protein_coding;gene_id=TraesCS6B02G452500;logic_name=iwgsc_high_conf
+6B,IWGSC,gene,711419873.0,711421231.0,.,-,.,ID=gene:TraesCS6B02G452800;biotype=protein_coding;gene_id=TraesCS6B02G452800;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,5058868.0,5066947.0,.,+,.,ID=gene:TraesCS6D02G012600;biotype=protein_coding;gene_id=TraesCS6D02G012600;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,7551848.0,7553694.0,.,+,.,ID=gene:TraesCS6D02G018500;biotype=protein_coding;gene_id=TraesCS6D02G018500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,16116164.0,16120406.0,.,+,.,ID=gene:TraesCS6D02G038400;biotype=protein_coding;gene_id=TraesCS6D02G038400;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,21987248.0,21995439.0,.,-,.,ID=gene:TraesCS6D02G047500;biotype=protein_coding;gene_id=TraesCS6D02G047500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,34583067.0,34584056.0,.,-,.,ID=gene:TraesCS6D02G069200;biotype=protein_coding;gene_id=TraesCS6D02G069200;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,35664672.0,35667495.0,.,-,.,ID=gene:TraesCS6D02G070800;biotype=protein_coding;gene_id=TraesCS6D02G070800;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,35715345.0,35718050.0,.,-,.,ID=gene:TraesCS6D02G070900;biotype=protein_coding;gene_id=TraesCS6D02G070900;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,48467111.0,48469042.0,.,-,.,ID=gene:TraesCS6D02G083400;biotype=protein_coding;gene_id=TraesCS6D02G083400;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,55632689.0,55634867.0,.,-,.,ID=gene:TraesCS6D02G089600;biotype=protein_coding;gene_id=TraesCS6D02G089600;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,143641434.0,143647754.0,.,+,.,ID=gene:TraesCS6D02G164500;biotype=protein_coding;gene_id=TraesCS6D02G164500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,148481803.0,148484102.0,.,+,.,ID=gene:TraesCS6D02G166600;biotype=protein_coding;description=3-ketoacyl-CoA synthase [Source:UniProtKB/TrEMBL%3BAcc:A0A341XE55];gene_id=TraesCS6D02G166600;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,159515326.0,159518035.0,.,+,.,ID=gene:TraesCS6D02G172600;biotype=protein_coding;gene_id=TraesCS6D02G172600;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,186976287.0,186976634.0,.,-,.,ID=gene:TraesCS6D02G178500;biotype=protein_coding;gene_id=TraesCS6D02G178500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,210750466.0,210778621.0,.,+,.,ID=gene:TraesCS6D02G182100;biotype=protein_coding;description=Vesicle transport protein [Source:UniProtKB/TrEMBL%3BAcc:A0A341XN57];gene_id=TraesCS6D02G182100;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,264440893.0,264443247.0,.,+,.,ID=gene:TraesCS6D02G191500;biotype=protein_coding;gene_id=TraesCS6D02G191500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,271306025.0,271309131.0,.,-,.,ID=gene:TraesCS6D02G195900;biotype=protein_coding;description=Cytosolic Fe-S cluster assembly factor NBP35 [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6B7M4];gene_id=TraesCS6D02G195900;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,296824053.0,296826571.0,.,-,.,ID=gene:TraesCS6D02G210200;biotype=protein_coding;gene_id=TraesCS6D02G210200;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,298401030.0,298403144.0,.,-,.,ID=gene:TraesCS6D02G211300;biotype=protein_coding;gene_id=TraesCS6D02G211300;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,307414026.0,307418266.0,.,-,.,ID=gene:TraesCS6D02G217700;biotype=protein_coding;gene_id=TraesCS6D02G217700;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,307877218.0,307883365.0,.,+,.,ID=gene:TraesCS6D02G217900;biotype=protein_coding;gene_id=TraesCS6D02G217900;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,312819074.0,312827203.0,.,-,.,ID=gene:TraesCS6D02G222000;biotype=protein_coding;description=Aldehyde dehydrogenase [Source:UniProtKB/TrEMBL%3BAcc:A0A341XDS6];gene_id=TraesCS6D02G222000;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,414622355.0,414625758.0,.,-,.,ID=gene:TraesCS6D02G306000;biotype=protein_coding;description=Nitrate reductase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6B9M1];gene_id=TraesCS6D02G306000;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,434811674.0,434812738.0,.,+,.,ID=gene:TraesCS6D02G332500;biotype=protein_coding;gene_id=TraesCS6D02G332500;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,454586688.0,454589288.0,.,+,.,ID=gene:TraesCS6D02G365100;biotype=protein_coding;gene_id=TraesCS6D02G365100;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,464058403.0,464064465.0,.,-,.,ID=gene:TraesCS6D02G386700;biotype=protein_coding;gene_id=TraesCS6D02G386700;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,464173108.0,464177628.0,.,-,.,ID=gene:TraesCS6D02G386900;biotype=protein_coding;gene_id=TraesCS6D02G386900;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,464402362.0,464404857.0,.,-,.,ID=gene:TraesCS6D02G387400;biotype=protein_coding;gene_id=TraesCS6D02G387400;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,465953626.0,465960147.0,.,+,.,ID=gene:TraesCS6D02G390700;biotype=protein_coding;gene_id=TraesCS6D02G390700;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,465982457.0,465983421.0,.,-,.,ID=gene:TraesCS6D02G390900;biotype=protein_coding;gene_id=TraesCS6D02G390900;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,466734600.0,466739606.0,.,-,.,ID=gene:TraesCS6D02G392000;biotype=protein_coding;gene_id=TraesCS6D02G392000;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,469784939.0,469792305.0,.,-,.,ID=gene:TraesCS6D02G398700;biotype=protein_coding;gene_id=TraesCS6D02G398700;logic_name=iwgsc_high_conf
+6D,IWGSC,gene,471566937.0,471569136.0,.,-,.,ID=gene:TraesCS6D02G403400;biotype=protein_coding;gene_id=TraesCS6D02G403400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,760723.0,764116.0,.,-,.,ID=gene:TraesCS7A02G001100;biotype=protein_coding;gene_id=TraesCS7A02G001100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,1695250.0,1700497.0,.,+,.,ID=gene:TraesCS7A02G002800;biotype=protein_coding;gene_id=TraesCS7A02G002800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,1992593.0,2002774.0,.,-,.,ID=gene:TraesCS7A02G004100;biotype=protein_coding;gene_id=TraesCS7A02G004100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,3204072.0,3209269.0,.,-,.,ID=gene:TraesCS7A02G006600;biotype=protein_coding;gene_id=TraesCS7A02G006600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,5365931.0,5367761.0,.,-,.,ID=gene:TraesCS7A02G012300;biotype=protein_coding;gene_id=TraesCS7A02G012300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,6650955.0,6658521.0,.,+,.,ID=gene:TraesCS7A02G015200;biotype=protein_coding;gene_id=TraesCS7A02G015200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,16603591.0,16604064.0,.,+,.,ID=gene:TraesCS7A02G036800;biotype=protein_coding;gene_id=TraesCS7A02G036800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,17327692.0,17331722.0,.,+,.,ID=gene:TraesCS7A02G038400;biotype=protein_coding;gene_id=TraesCS7A02G038400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,25689173.0,25692932.0,.,+,.,ID=gene:TraesCS7A02G052700;biotype=protein_coding;gene_id=TraesCS7A02G052700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,25750428.0,25755674.0,.,-,.,ID=gene:TraesCS7A02G053100;biotype=protein_coding;gene_id=TraesCS7A02G053100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,26822034.0,26824056.0,.,-,.,ID=gene:TraesCS7A02G055800;biotype=protein_coding;description=Glycosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6C0T3];gene_id=TraesCS7A02G055800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,27355393.0,27359467.0,.,-,.,ID=gene:TraesCS7A02G056800;biotype=protein_coding;gene_id=TraesCS7A02G056800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,54961506.0,54962325.0,.,-,.,ID=gene:TraesCS7A02G090100;biotype=protein_coding;gene_id=TraesCS7A02G090100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,57871935.0,57874635.0,.,+,.,ID=gene:TraesCS7A02G094800;biotype=protein_coding;gene_id=TraesCS7A02G094800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,82506261.0,82516939.0,.,-,.,ID=gene:TraesCS7A02G128600;biotype=protein_coding;description=Histone-lysine N-methyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6BWL1];gene_id=TraesCS7A02G128600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,106678644.0,106680034.0,.,+,.,ID=gene:TraesCS7A02G153300;biotype=protein_coding;gene_id=TraesCS7A02G153300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,114348686.0,114356360.0,.,+,.,ID=gene:TraesCS7A02G158700;biotype=protein_coding;gene_id=TraesCS7A02G158700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,126908611.0,126909704.0,.,+,.,ID=gene:TraesCS7A02G171300;biotype=protein_coding;gene_id=TraesCS7A02G171300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,132410433.0,132411718.0,.,-,.,ID=gene:TraesCS7A02G178400;biotype=protein_coding;gene_id=TraesCS7A02G178400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,142128916.0,142131281.0,.,+,.,ID=gene:TraesCS7A02G186800;biotype=protein_coding;gene_id=TraesCS7A02G186800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,143039795.0,143040256.0,.,+,.,ID=gene:TraesCS7A02G187400;biotype=protein_coding;gene_id=TraesCS7A02G187400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,155259038.0,155260351.0,.,+,.,ID=gene:TraesCS7A02G195300;biotype=protein_coding;gene_id=TraesCS7A02G195300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,259572828.0,259574581.0,.,-,.,ID=gene:TraesCS7A02G262900;biotype=protein_coding;gene_id=TraesCS7A02G262900;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,263729372.0,263733450.0,.,+,.,ID=gene:TraesCS7A02G264500;biotype=protein_coding;gene_id=TraesCS7A02G264500;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,287216873.0,287217662.0,.,-,.,ID=gene:TraesCS7A02G273500;biotype=protein_coding;gene_id=TraesCS7A02G273500;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,305708542.0,305709232.0,.,-,.,ID=gene:TraesCS7A02G281600;biotype=protein_coding;gene_id=TraesCS7A02G281600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,342305388.0,342305838.0,.,-,.,ID=gene:TraesCS7A02G287300;biotype=protein_coding;gene_id=TraesCS7A02G287300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,427287048.0,427289609.0,.,+,.,ID=gene:TraesCS7A02G303600;biotype=protein_coding;gene_id=TraesCS7A02G303600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,450362478.0,450363423.0,.,-,.,ID=gene:TraesCS7A02G315900;biotype=protein_coding;gene_id=TraesCS7A02G315900;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,468300666.0,468301361.0,.,+,.,ID=gene:TraesCS7A02G322700;biotype=protein_coding;gene_id=TraesCS7A02G322700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,485689513.0,485689776.0,.,-,.,ID=gene:TraesCS7A02G332300;biotype=protein_coding;gene_id=TraesCS7A02G332300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,546025321.0,546026700.0,.,+,.,ID=gene:TraesCS7A02G372700;biotype=protein_coding;gene_id=TraesCS7A02G372700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,550309648.0,550313128.0,.,+,.,ID=gene:TraesCS7A02G377200;biotype=protein_coding;gene_id=TraesCS7A02G377200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,558753230.0,558758062.0,.,-,.,ID=gene:TraesCS7A02G383700;biotype=protein_coding;gene_id=TraesCS7A02G383700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,565438722.0,565440096.0,.,-,.,ID=gene:TraesCS7A02G389200;biotype=protein_coding;gene_id=TraesCS7A02G389200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,578985127.0,578996802.0,.,+,.,ID=gene:TraesCS7A02G399000;biotype=protein_coding;gene_id=TraesCS7A02G399000;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,579341084.0,579342730.0,.,-,.,ID=gene:TraesCS7A02G399300;biotype=protein_coding;gene_id=TraesCS7A02G399300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,580468391.0,580472560.0,.,+,.,ID=gene:TraesCS7A02G400200;biotype=protein_coding;gene_id=TraesCS7A02G400200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,581344595.0,581345444.0,.,+,.,ID=gene:TraesCS7A02G401900;biotype=protein_coding;gene_id=TraesCS7A02G401900;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,611801000.0,611805312.0,.,-,.,ID=gene:TraesCS7A02G420400;biotype=protein_coding;gene_id=TraesCS7A02G420400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,618681007.0,618684442.0,.,-,.,ID=gene:TraesCS7A02G425700;biotype=protein_coding;gene_id=TraesCS7A02G425700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,619252393.0,619255771.0,.,-,.,ID=gene:TraesCS7A02G426200;biotype=protein_coding;gene_id=TraesCS7A02G426200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,625532633.0,625535350.0,.,-,.,ID=gene:TraesCS7A02G431000;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6BNC4];gene_id=TraesCS7A02G431000;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,625537377.0,625539886.0,.,-,.,ID=gene:TraesCS7A02G431100;biotype=protein_coding;gene_id=TraesCS7A02G431100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,625601253.0,625604019.0,.,-,.,ID=gene:TraesCS7A02G431200;biotype=protein_coding;gene_id=TraesCS7A02G431200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,626612629.0,626614376.0,.,+,.,ID=gene:TraesCS7A02G432500;biotype=protein_coding;gene_id=TraesCS7A02G432500;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,634976600.0,634977033.0,.,+,.,ID=gene:TraesCS7A02G440600;biotype=protein_coding;gene_id=TraesCS7A02G440600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,636228999.0,636231286.0,.,-,.,ID=gene:TraesCS7A02G442200;biotype=protein_coding;gene_id=TraesCS7A02G442200;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,637948557.0,637949522.0,.,-,.,ID=gene:TraesCS7A02G443500;biotype=protein_coding;gene_id=TraesCS7A02G443500;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,642731873.0,642735937.0,.,-,.,ID=gene:TraesCS7A02G448300;biotype=protein_coding;gene_id=TraesCS7A02G448300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,652718174.0,652722085.0,.,-,.,ID=gene:TraesCS7A02G457300;biotype=protein_coding;gene_id=TraesCS7A02G457300;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,663591816.0,663594048.0,.,+,.,ID=gene:TraesCS7A02G467100;biotype=protein_coding;gene_id=TraesCS7A02G467100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,663956091.0,663958939.0,.,+,.,ID=gene:TraesCS7A02G467700;biotype=protein_coding;gene_id=TraesCS7A02G467700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,668568571.0,668570149.0,.,+,.,ID=gene:TraesCS7A02G472700;biotype=protein_coding;gene_id=TraesCS7A02G472700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,668733068.0,668734819.0,.,-,.,ID=gene:TraesCS7A02G472800;biotype=protein_coding;gene_id=TraesCS7A02G472800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,669403952.0,669406606.0,.,+,.,ID=gene:TraesCS7A02G473800;biotype=protein_coding;gene_id=TraesCS7A02G473800;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,670821522.0,670825200.0,.,-,.,ID=gene:TraesCS7A02G476700;biotype=protein_coding;gene_id=TraesCS7A02G476700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,688993023.0,688999806.0,.,-,.,ID=gene:TraesCS7A02G498600;biotype=protein_coding;gene_id=TraesCS7A02G498600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,705293678.0,705296799.0,.,+,.,ID=gene:TraesCS7A02G521600;biotype=protein_coding;gene_id=TraesCS7A02G521600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,708361477.0,708365723.0,.,+,.,ID=gene:TraesCS7A02G526700;biotype=protein_coding;gene_id=TraesCS7A02G526700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,721064202.0,721075033.0,.,+,.,ID=gene:TraesCS7A02G544600;biotype=protein_coding;gene_id=TraesCS7A02G544600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,724240506.0,724251628.0,.,-,.,ID=gene:TraesCS7A02G550400;biotype=protein_coding;gene_id=TraesCS7A02G550400;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,724257706.0,724262982.0,.,-,.,ID=gene:TraesCS7A02G550500;biotype=protein_coding;gene_id=TraesCS7A02G550500;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,724369812.0,724375166.0,.,+,.,ID=gene:TraesCS7A02G550700;biotype=protein_coding;gene_id=TraesCS7A02G550700;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,725455888.0,725462105.0,.,+,.,ID=gene:TraesCS7A02G552600;biotype=protein_coding;gene_id=TraesCS7A02G552600;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,731882428.0,731883023.0,.,+,.,ID=gene:TraesCS7A02G560000;biotype=protein_coding;description=Group2 late embryogenesis abundant protein [Source:UniProtKB/TrEMBL%3BAcc:Q8LP43];gene_id=TraesCS7A02G560000;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,732933658.0,732936411.0,.,-,.,ID=gene:TraesCS7A02G562000;biotype=protein_coding;gene_id=TraesCS7A02G562000;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,733362526.0,733368237.0,.,-,.,ID=gene:TraesCS7A02G562900;biotype=protein_coding;gene_id=TraesCS7A02G562900;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,733780951.0,733783521.0,.,+,.,ID=gene:TraesCS7A02G564100;biotype=protein_coding;gene_id=TraesCS7A02G564100;logic_name=iwgsc_high_conf
+7A,IWGSC,gene,736522837.0,736528208.0,.,-,.,ID=gene:TraesCS7A02G569400;biotype=protein_coding;gene_id=TraesCS7A02G569400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,1304370.0,1309391.0,.,+,.,ID=gene:TraesCS7B02G003300;biotype=protein_coding;gene_id=TraesCS7B02G003300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,3795056.0,3797564.0,.,-,.,ID=gene:TraesCS7B02G006800;biotype=protein_coding;description=Transcription elongation factor 1 homolog [Source:UniProtKB/TrEMBL%3BAcc:W5HIH8];gene_id=TraesCS7B02G006800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,5215473.0,5220053.0,.,+,.,ID=gene:TraesCS7B02G008600;biotype=protein_coding;gene_id=TraesCS7B02G008600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,5281079.0,5285868.0,.,+,.,ID=gene:TraesCS7B02G008800;biotype=protein_coding;gene_id=TraesCS7B02G008800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,25653300.0,25655234.0,.,-,.,ID=gene:TraesCS7B02G026700;biotype=protein_coding;gene_id=TraesCS7B02G026700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,37077456.0,37091336.0,.,+,.,ID=gene:TraesCS7B02G038100;biotype=protein_coding;gene_id=TraesCS7B02G038100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,44871583.0,44872261.0,.,+,.,ID=gene:TraesCS7B02G045700;biotype=protein_coding;gene_id=TraesCS7B02G045700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,44938366.0,44941071.0,.,-,.,ID=gene:TraesCS7B02G045900;biotype=protein_coding;gene_id=TraesCS7B02G045900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,44941586.0,44945006.0,.,-,.,ID=gene:TraesCS7B02G046000;biotype=protein_coding;description=Hydroxyproline O-arabinosyltransferase 1 [Source:Projected from Arabidopsis thaliana (AT5G25265) UniProtKB/Swiss-Prot%3BAcc:Q8W4E6];gene_id=TraesCS7B02G046000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,45175301.0,45177003.0,.,-,.,ID=gene:TraesCS7B02G046400;biotype=protein_coding;gene_id=TraesCS7B02G046400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,58537659.0,58545248.0,.,+,.,ID=gene:TraesCS7B02G055100;biotype=protein_coding;gene_id=TraesCS7B02G055100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,58716593.0,58718501.0,.,+,.,ID=gene:TraesCS7B02G055200;biotype=protein_coding;gene_id=TraesCS7B02G055200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,59742450.0,59743808.0,.,+,.,ID=gene:TraesCS7B02G057300;biotype=protein_coding;gene_id=TraesCS7B02G057300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,79076474.0,79086394.0,.,+,.,ID=gene:TraesCS7B02G071700;biotype=protein_coding;description=Kinesin-like protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6CGK9];gene_id=TraesCS7B02G071700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,107915903.0,107932369.0,.,+,.,ID=gene:TraesCS7B02G094100;biotype=protein_coding;gene_id=TraesCS7B02G094100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,112890876.0,112891785.0,.,+,.,ID=gene:TraesCS7B02G097800;biotype=protein_coding;gene_id=TraesCS7B02G097800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,114393984.0,114395700.0,.,+,.,ID=gene:TraesCS7B02G100100;biotype=protein_coding;gene_id=TraesCS7B02G100100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,119203107.0,119211146.0,.,-,.,ID=gene:TraesCS7B02G103700;biotype=protein_coding;gene_id=TraesCS7B02G103700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,133482798.0,133492588.0,.,-,.,ID=gene:TraesCS7B02G114900;biotype=protein_coding;gene_id=TraesCS7B02G114900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,133704932.0,133705387.0,.,+,.,ID=gene:TraesCS7B02G115100;biotype=protein_coding;gene_id=TraesCS7B02G115100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,135040902.0,135045260.0,.,-,.,ID=gene:TraesCS7B02G116500;biotype=protein_coding;gene_id=TraesCS7B02G116500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,144703902.0,144708362.0,.,-,.,ID=gene:TraesCS7B02G123500;biotype=protein_coding;gene_id=TraesCS7B02G123500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,144864766.0,144868140.0,.,-,.,ID=gene:TraesCS7B02G123800;biotype=protein_coding;gene_id=TraesCS7B02G123800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,162136182.0,162148596.0,.,-,.,ID=gene:TraesCS7B02G133500;biotype=protein_coding;gene_id=TraesCS7B02G133500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,205714870.0,205716465.0,.,+,.,ID=gene:TraesCS7B02G154300;biotype=protein_coding;gene_id=TraesCS7B02G154300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,222312989.0,222315114.0,.,+,.,ID=gene:TraesCS7B02G162100;biotype=protein_coding;gene_id=TraesCS7B02G162100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,224725607.0,224727314.0,.,-,.,ID=gene:TraesCS7B02G163200;biotype=protein_coding;gene_id=TraesCS7B02G163200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,228811566.0,228812430.0,.,-,.,ID=gene:TraesCS7B02G165900;biotype=protein_coding;gene_id=TraesCS7B02G165900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,231698067.0,231709352.0,.,+,.,ID=gene:TraesCS7B02G167100;biotype=protein_coding;gene_id=TraesCS7B02G167100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,244635087.0,244643092.0,.,+,.,ID=gene:TraesCS7B02G172600;biotype=protein_coding;gene_id=TraesCS7B02G172600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,253687432.0,253688487.0,.,+,.,ID=gene:TraesCS7B02G177400;biotype=protein_coding;gene_id=TraesCS7B02G177400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,272718298.0,272720800.0,.,+,.,ID=gene:TraesCS7B02G181100;biotype=protein_coding;description=Vesicle-associated membrane protein 727 [Source:Projected from Arabidopsis thaliana (AT3G54300) UniProtKB/Swiss-Prot%3BAcc:Q9M376];gene_id=TraesCS7B02G181100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,325467345.0,325467665.0,.,+,.,ID=gene:TraesCS7B02G189700;biotype=protein_coding;gene_id=TraesCS7B02G189700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,336256851.0,336260908.0,.,+,.,ID=gene:TraesCS7B02G195400;biotype=protein_coding;gene_id=TraesCS7B02G195400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,337922310.0,337936240.0,.,-,.,ID=gene:TraesCS7B02G196600;biotype=protein_coding;gene_id=TraesCS7B02G196600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,339022372.0,339028720.0,.,-,.,ID=gene:TraesCS7B02G196700;biotype=protein_coding;gene_id=TraesCS7B02G196700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,339208337.0,339238733.0,.,+,.,ID=gene:TraesCS7B02G196800;biotype=protein_coding;gene_id=TraesCS7B02G196800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,360406111.0,360407359.0,.,-,.,ID=gene:TraesCS7B02G199600;biotype=protein_coding;gene_id=TraesCS7B02G199600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,364046508.0,364046962.0,.,-,.,ID=gene:TraesCS7B02G200500;biotype=protein_coding;gene_id=TraesCS7B02G200500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,391954272.0,391959002.0,.,-,.,ID=gene:TraesCS7B02G213400;biotype=protein_coding;gene_id=TraesCS7B02G213400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,403561674.0,403566589.0,.,-,.,ID=gene:TraesCS7B02G218300;biotype=protein_coding;gene_id=TraesCS7B02G218300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,403727694.0,403729037.0,.,-,.,ID=gene:TraesCS7B02G218400;biotype=protein_coding;gene_id=TraesCS7B02G218400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,405049408.0,405068391.0,.,-,.,ID=gene:TraesCS7B02G218500;biotype=protein_coding;gene_id=TraesCS7B02G218500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,405968932.0,405971421.0,.,-,.,ID=gene:TraesCS7B02G218600;biotype=protein_coding;gene_id=TraesCS7B02G218600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,429187107.0,429195226.0,.,-,.,ID=gene:TraesCS7B02G229000;biotype=protein_coding;gene_id=TraesCS7B02G229000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,431306606.0,431309026.0,.,-,.,ID=gene:TraesCS7B02G229300;biotype=protein_coding;description=Pre-mRNA cleavage factor Im 25 kDa subunit 1 [Source:Projected from Arabidopsis thaliana (AT4G29820) UniProtKB/Swiss-Prot%3BAcc:Q94AF0];gene_id=TraesCS7B02G229300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,437367152.0,437371654.0,.,-,.,ID=gene:TraesCS7B02G233600;biotype=protein_coding;gene_id=TraesCS7B02G233600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,467528002.0,467535268.0,.,-,.,ID=gene:TraesCS7B02G253600;biotype=protein_coding;gene_id=TraesCS7B02G253600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,468953140.0,468954212.0,.,-,.,ID=gene:TraesCS7B02G254500;biotype=protein_coding;gene_id=TraesCS7B02G254500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,472394694.0,472397238.0,.,-,.,ID=gene:TraesCS7B02G255200;biotype=protein_coding;gene_id=TraesCS7B02G255200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,480429361.0,480434393.0,.,+,.,ID=gene:TraesCS7B02G260300;biotype=protein_coding;gene_id=TraesCS7B02G260300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,494581311.0,494587732.0,.,-,.,ID=gene:TraesCS7B02G269700;biotype=protein_coding;gene_id=TraesCS7B02G269700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,509573965.0,509577289.0,.,+,.,ID=gene:TraesCS7B02G278500;biotype=protein_coding;gene_id=TraesCS7B02G278500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,517323264.0,517328832.0,.,-,.,ID=gene:TraesCS7B02G283200;biotype=protein_coding;gene_id=TraesCS7B02G283200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,535697430.0,535699110.0,.,+,.,ID=gene:TraesCS7B02G298900;biotype=protein_coding;gene_id=TraesCS7B02G298900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,536988561.0,536994530.0,.,+,.,ID=gene:TraesCS7B02G299800;biotype=protein_coding;gene_id=TraesCS7B02G299800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,553440524.0,553446910.0,.,+,.,ID=gene:TraesCS7B02G309200;biotype=protein_coding;gene_id=TraesCS7B02G309200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,580132699.0,580136538.0,.,+,.,ID=gene:TraesCS7B02G326500;biotype=protein_coding;gene_id=TraesCS7B02G326500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,582652918.0,582655966.0,.,+,.,ID=gene:TraesCS7B02G327900;biotype=protein_coding;gene_id=TraesCS7B02G327900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,584313387.0,584314844.0,.,-,.,ID=gene:TraesCS7B02G329600;biotype=protein_coding;gene_id=TraesCS7B02G329600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,586965618.0,586969437.0,.,-,.,ID=gene:TraesCS7B02G331800;biotype=protein_coding;gene_id=TraesCS7B02G331800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,588239025.0,588245267.0,.,+,.,ID=gene:TraesCS7B02G332700;biotype=protein_coding;gene_id=TraesCS7B02G332700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,591949437.0,591950284.0,.,+,.,ID=gene:TraesCS7B02G336900;biotype=protein_coding;description=Histone H2A [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6C5Y5];gene_id=TraesCS7B02G336900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,592187688.0,592188635.0,.,-,.,ID=gene:TraesCS7B02G337100;biotype=protein_coding;gene_id=TraesCS7B02G337100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,594319165.0,594322556.0,.,-,.,ID=gene:TraesCS7B02G340000;biotype=protein_coding;gene_id=TraesCS7B02G340000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,601115143.0,601117242.0,.,+,.,ID=gene:TraesCS7B02G345300;biotype=protein_coding;gene_id=TraesCS7B02G345300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,602075087.0,602082417.0,.,-,.,ID=gene:TraesCS7B02G346000;biotype=protein_coding;description=Mitochondrial intermediate peptidase%2C mitochondrial [Source:Projected from Arabidopsis thaliana (AT5G51540) UniProtKB/Swiss-Prot%3BAcc:F4KDA5];gene_id=TraesCS7B02G346000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,603585437.0,603596838.0,.,-,.,ID=gene:TraesCS7B02G347000;biotype=protein_coding;description=Synaptotagmin-3 [Source:Projected from Arabidopsis thaliana (AT5G04220) UniProtKB/Swiss-Prot%3BAcc:Q7XA06];gene_id=TraesCS7B02G347000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,604327383.0,604332236.0,.,+,.,ID=gene:TraesCS7B02G348100;biotype=protein_coding;gene_id=TraesCS7B02G348100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,607909048.0,607911188.0,.,+,.,ID=gene:TraesCS7B02G350600;biotype=protein_coding;gene_id=TraesCS7B02G350600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,607927593.0,607938218.0,.,+,.,ID=gene:TraesCS7B02G350700;biotype=protein_coding;gene_id=TraesCS7B02G350700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,618759101.0,618763018.0,.,-,.,ID=gene:TraesCS7B02G357500;biotype=protein_coding;gene_id=TraesCS7B02G357500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,618848243.0,618852343.0,.,-,.,ID=gene:TraesCS7B02G357600;biotype=protein_coding;gene_id=TraesCS7B02G357600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,619159152.0,619169573.0,.,+,.,ID=gene:TraesCS7B02G357700;biotype=protein_coding;gene_id=TraesCS7B02G357700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,619169863.0,619174329.0,.,+,.,ID=gene:TraesCS7B02G357800;biotype=protein_coding;gene_id=TraesCS7B02G357800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,622411196.0,622411540.0,.,-,.,ID=gene:TraesCS7B02G359900;biotype=protein_coding;gene_id=TraesCS7B02G359900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,622670095.0,622673128.0,.,+,.,ID=gene:TraesCS7B02G360400;biotype=protein_coding;gene_id=TraesCS7B02G360400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,634567046.0,634568598.0,.,-,.,ID=gene:TraesCS7B02G369800;biotype=protein_coding;gene_id=TraesCS7B02G369800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,643500478.0,643503335.0,.,+,.,ID=gene:TraesCS7B02G379200;biotype=protein_coding;gene_id=TraesCS7B02G379200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,645400592.0,645403325.0,.,-,.,ID=gene:TraesCS7B02G380900;biotype=protein_coding;gene_id=TraesCS7B02G380900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,647132483.0,647134229.0,.,+,.,ID=gene:TraesCS7B02G381900;biotype=protein_coding;gene_id=TraesCS7B02G381900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,648719578.0,648720863.0,.,-,.,ID=gene:TraesCS7B02G383000;biotype=protein_coding;gene_id=TraesCS7B02G383000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,667759697.0,667774134.0,.,+,.,ID=gene:TraesCS7B02G401500;biotype=protein_coding;gene_id=TraesCS7B02G401500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,672547010.0,672549351.0,.,-,.,ID=gene:TraesCS7B02G404300;biotype=protein_coding;description=Glycosyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6C9G3];gene_id=TraesCS7B02G404300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,674110948.0,674142820.0,.,+,.,ID=gene:TraesCS7B02G405700;biotype=protein_coding;gene_id=TraesCS7B02G405700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,675308455.0,675310777.0,.,+,.,ID=gene:TraesCS7B02G406600;biotype=protein_coding;gene_id=TraesCS7B02G406600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,678124719.0,678128411.0,.,-,.,ID=gene:TraesCS7B02G408900;biotype=protein_coding;gene_id=TraesCS7B02G408900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,686141549.0,686157029.0,.,+,.,ID=gene:TraesCS7B02G417900;biotype=protein_coding;gene_id=TraesCS7B02G417900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,690012782.0,690017154.0,.,+,.,ID=gene:TraesCS7B02G420700;biotype=protein_coding;gene_id=TraesCS7B02G420700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,712071097.0,712074766.0,.,+,.,ID=gene:TraesCS7B02G449900;biotype=protein_coding;gene_id=TraesCS7B02G449900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,712077430.0,712080418.0,.,-,.,ID=gene:TraesCS7B02G450000;biotype=protein_coding;gene_id=TraesCS7B02G450000;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,717546935.0,717565376.0,.,-,.,ID=gene:TraesCS7B02G459700;biotype=protein_coding;gene_id=TraesCS7B02G459700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,718081680.0,718102204.0,.,-,.,ID=gene:TraesCS7B02G460600;biotype=protein_coding;gene_id=TraesCS7B02G460600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,718833974.0,718840134.0,.,-,.,ID=gene:TraesCS7B02G461500;biotype=protein_coding;gene_id=TraesCS7B02G461500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,723900282.0,723903056.0,.,-,.,ID=gene:TraesCS7B02G466300;biotype=protein_coding;description=Serine/threonine-protein kinase [Source:UniProtKB/TrEMBL%3BAcc:W5HL15];gene_id=TraesCS7B02G466300;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,724168415.0,724170251.0,.,+,.,ID=gene:TraesCS7B02G466700;biotype=protein_coding;gene_id=TraesCS7B02G466700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,724841577.0,724843827.0,.,-,.,ID=gene:TraesCS7B02G467200;biotype=protein_coding;gene_id=TraesCS7B02G467200;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,726151815.0,726157331.0,.,-,.,ID=gene:TraesCS7B02G469600;biotype=protein_coding;gene_id=TraesCS7B02G469600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,730160027.0,730164035.0,.,+,.,ID=gene:TraesCS7B02G473500;biotype=protein_coding;gene_id=TraesCS7B02G473500;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,730907564.0,730911541.0,.,-,.,ID=gene:TraesCS7B02G474800;biotype=protein_coding;gene_id=TraesCS7B02G474800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,732567014.0,732572899.0,.,+,.,ID=gene:TraesCS7B02G476400;biotype=protein_coding;gene_id=TraesCS7B02G476400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,736134862.0,736142475.0,.,+,.,ID=gene:TraesCS7B02G481600;biotype=protein_coding;gene_id=TraesCS7B02G481600;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,739382418.0,739386701.0,.,-,.,ID=gene:TraesCS7B02G481800;biotype=protein_coding;description=Chloroplastic group IIA intron splicing facilitator CRS1%2C chloroplastic [Source:Projected from Arabidopsis thaliana (AT5G16180) UniProtKB/Swiss-Prot%3BAcc:Q9LF10];gene_id=TraesCS7B02G481800;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,739390587.0,739392458.0,.,+,.,ID=gene:TraesCS7B02G481900;biotype=protein_coding;gene_id=TraesCS7B02G481900;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,741352830.0,741353351.0,.,-,.,ID=gene:TraesCS7B02G483400;biotype=protein_coding;gene_id=TraesCS7B02G483400;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,741482111.0,741484846.0,.,+,.,ID=gene:TraesCS7B02G483700;biotype=protein_coding;gene_id=TraesCS7B02G483700;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,744176617.0,744179524.0,.,+,.,ID=gene:TraesCS7B02G491100;biotype=protein_coding;gene_id=TraesCS7B02G491100;logic_name=iwgsc_high_conf
+7B,IWGSC,gene,746439564.0,746440769.0,.,-,.,ID=gene:TraesCS7B02G495300;biotype=protein_coding;gene_id=TraesCS7B02G495300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,5330809.0,5337313.0,.,+,.,ID=gene:TraesCS7D02G012400;biotype=protein_coding;gene_id=TraesCS7D02G012400;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,5425484.0,5427286.0,.,+,.,ID=gene:TraesCS7D02G012800;biotype=protein_coding;gene_id=TraesCS7D02G012800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,5634184.0,5636799.0,.,-,.,ID=gene:TraesCS7D02G013300;biotype=protein_coding;gene_id=TraesCS7D02G013300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,6376366.0,6379191.0,.,-,.,ID=gene:TraesCS7D02G014200;biotype=protein_coding;description=Protein DETOXIFICATION [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6D3J8];gene_id=TraesCS7D02G014200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,8432580.0,8433523.0,.,-,.,ID=gene:TraesCS7D02G019400;biotype=protein_coding;gene_id=TraesCS7D02G019400;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,8699079.0,8700251.0,.,-,.,ID=gene:TraesCS7D02G020100;biotype=protein_coding;gene_id=TraesCS7D02G020100;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,10035556.0,10038204.0,.,+,.,ID=gene:TraesCS7D02G021200;biotype=protein_coding;gene_id=TraesCS7D02G021200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,10463789.0,10465857.0,.,-,.,ID=gene:TraesCS7D02G021800;biotype=protein_coding;gene_id=TraesCS7D02G021800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,13453729.0,13460843.0,.,+,.,ID=gene:TraesCS7D02G027400;biotype=protein_coding;description=MLO-like protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6D1T9];gene_id=TraesCS7D02G027400;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,25037104.0,25040692.0,.,-,.,ID=gene:TraesCS7D02G048600;biotype=protein_coding;gene_id=TraesCS7D02G048600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,34137278.0,34143850.0,.,+,.,ID=gene:TraesCS7D02G062500;biotype=protein_coding;gene_id=TraesCS7D02G062500;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,38730163.0,38735319.0,.,-,.,ID=gene:TraesCS7D02G068400;biotype=protein_coding;gene_id=TraesCS7D02G068400;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,52829591.0,52832227.0,.,+,.,ID=gene:TraesCS7D02G085900;biotype=protein_coding;gene_id=TraesCS7D02G085900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,63929748.0,63933652.0,.,-,.,ID=gene:TraesCS7D02G105300;biotype=protein_coding;gene_id=TraesCS7D02G105300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,63940572.0,63943730.0,.,-,.,ID=gene:TraesCS7D02G105600;biotype=protein_coding;gene_id=TraesCS7D02G105600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,65599420.0,65601414.0,.,-,.,ID=gene:TraesCS7D02G108900;biotype=protein_coding;gene_id=TraesCS7D02G108900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,70735509.0,70736755.0,.,-,.,ID=gene:TraesCS7D02G115000;biotype=protein_coding;gene_id=TraesCS7D02G115000;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,83434574.0,83436963.0,.,+,.,ID=gene:TraesCS7D02G131500;biotype=protein_coding;gene_id=TraesCS7D02G131500;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,83455283.0,83456324.0,.,-,.,ID=gene:TraesCS7D02G131600;biotype=protein_coding;gene_id=TraesCS7D02G131600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,92568812.0,92575801.0,.,-,.,ID=gene:TraesCS7D02G144900;biotype=protein_coding;gene_id=TraesCS7D02G144900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,112117089.0,112132696.0,.,-,.,ID=gene:TraesCS7D02G162100;biotype=protein_coding;gene_id=TraesCS7D02G162100;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,133827124.0,133828490.0,.,+,.,ID=gene:TraesCS7D02G180600;biotype=protein_coding;gene_id=TraesCS7D02G180600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,139308232.0,139310481.0,.,-,.,ID=gene:TraesCS7D02G186800;biotype=protein_coding;gene_id=TraesCS7D02G186800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,150757459.0,150759833.0,.,+,.,ID=gene:TraesCS7D02G193700;biotype=protein_coding;gene_id=TraesCS7D02G193700;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,163253022.0,163255394.0,.,+,.,ID=gene:TraesCS7D02G205900;biotype=protein_coding;gene_id=TraesCS7D02G205900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,178937199.0,178942435.0,.,-,.,ID=gene:TraesCS7D02G218300;biotype=protein_coding;gene_id=TraesCS7D02G218300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,194469349.0,194498346.0,.,-,.,ID=gene:TraesCS7D02G233100;biotype=protein_coding;description=Terpene cyclase/mutase family member [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6D1Y1];gene_id=TraesCS7D02G233100;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,205547583.0,205554255.0,.,-,.,ID=gene:TraesCS7D02G241200;biotype=protein_coding;description=Sodium/hydrogen exchanger [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6D1Q2];gene_id=TraesCS7D02G241200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,215153988.0,215154407.0,.,-,.,ID=gene:TraesCS7D02G246200;biotype=protein_coding;gene_id=TraesCS7D02G246200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,254373538.0,254384619.0,.,+,.,ID=gene:TraesCS7D02G269400;biotype=protein_coding;gene_id=TraesCS7D02G269400;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,265165030.0,265173079.0,.,-,.,ID=gene:TraesCS7D02G276800;biotype=protein_coding;gene_id=TraesCS7D02G276800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,266390457.0,266397119.0,.,-,.,ID=gene:TraesCS7D02G277600;biotype=protein_coding;description=Peptidyl-prolyl cis-trans isomerase CYP71 [Source:Projected from Arabidopsis thaliana (AT3G44600) UniProtKB/Swiss-Prot%3BAcc:Q8W4D0];gene_id=TraesCS7D02G277600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,289242381.0,289264865.0,.,+,.,ID=gene:TraesCS7D02G282700;biotype=protein_coding;gene_id=TraesCS7D02G282700;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,380188944.0,380194181.0,.,-,.,ID=gene:TraesCS7D02G300100;biotype=protein_coding;gene_id=TraesCS7D02G300100;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,407238214.0,407268761.0,.,-,.,ID=gene:TraesCS7D02G318800;biotype=protein_coding;gene_id=TraesCS7D02G318800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,486104671.0,486105753.0,.,+,.,ID=gene:TraesCS7D02G375800;biotype=protein_coding;gene_id=TraesCS7D02G375800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,489673028.0,489675409.0,.,-,.,ID=gene:TraesCS7D02G378300;biotype=protein_coding;gene_id=TraesCS7D02G378300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,523392535.0,523392951.0,.,+,.,ID=gene:TraesCS7D02G406300;biotype=protein_coding;gene_id=TraesCS7D02G406300;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,575361920.0,575363262.0,.,-,.,ID=gene:TraesCS7D02G456600;biotype=protein_coding;gene_id=TraesCS7D02G456600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,575679950.0,575686042.0,.,-,.,ID=gene:TraesCS7D02G457200;biotype=protein_coding;gene_id=TraesCS7D02G457200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,575865501.0,575871583.0,.,-,.,ID=gene:TraesCS7D02G457800;biotype=protein_coding;description=Molybdenum cofactor sulfurase [Source:UniProtKB/TrEMBL%3BAcc:A0A1D6CLD6];gene_id=TraesCS7D02G457800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,575945655.0,575955076.0,.,-,.,ID=gene:TraesCS7D02G458000;biotype=protein_coding;gene_id=TraesCS7D02G458000;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,588787750.0,588790163.0,.,-,.,ID=gene:TraesCS7D02G478000;biotype=protein_coding;gene_id=TraesCS7D02G478000;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,622163875.0,622177172.0,.,+,.,ID=gene:TraesCS7D02G527000;biotype=protein_coding;gene_id=TraesCS7D02G527000;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,623556883.0,623560890.0,.,+,.,ID=gene:TraesCS7D02G528900;biotype=protein_coding;gene_id=TraesCS7D02G528900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631684915.0,631686729.0,.,+,.,ID=gene:TraesCS7D02G542600;biotype=protein_coding;gene_id=TraesCS7D02G542600;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631686753.0,631688750.0,.,+,.,ID=gene:TraesCS7D02G542700;biotype=protein_coding;gene_id=TraesCS7D02G542700;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631757010.0,631762108.0,.,+,.,ID=gene:TraesCS7D02G542800;biotype=protein_coding;gene_id=TraesCS7D02G542800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631796473.0,631798528.0,.,+,.,ID=gene:TraesCS7D02G542900;biotype=protein_coding;gene_id=TraesCS7D02G542900;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631802574.0,631808696.0,.,+,.,ID=gene:TraesCS7D02G543000;biotype=protein_coding;gene_id=TraesCS7D02G543000;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631845112.0,631850115.0,.,+,.,ID=gene:TraesCS7D02G543200;biotype=protein_coding;gene_id=TraesCS7D02G543200;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,631997738.0,632001812.0,.,+,.,ID=gene:TraesCS7D02G543700;biotype=protein_coding;gene_id=TraesCS7D02G543700;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,632319967.0,632334013.0,.,+,.,ID=gene:TraesCS7D02G544800;biotype=protein_coding;gene_id=TraesCS7D02G544800;logic_name=iwgsc_high_conf
+7D,IWGSC,gene,633250657.0,633253494.0,.,-,.,ID=gene:TraesCS7D02G546600;biotype=protein_coding;gene_id=TraesCS7D02G546600;logic_name=iwgsc_high_conf
