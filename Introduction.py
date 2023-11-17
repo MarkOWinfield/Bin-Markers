@@ -124,8 +124,8 @@ with col2:
 
 
     with st.expander("Alien species and their genome designation"):
-        st.write("The table below lists the alien species that are available to be checked against the reference species for potential introgressions.")
-        st.table(dfWildSpeciesList)
+        st.write("The table below lists the alien species that are available to be checked against the reference species for potential introgressions.")#
+#        st.table(dfWildSpeciesList)
 
 
 st.markdown('---')
