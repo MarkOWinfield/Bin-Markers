@@ -81,6 +81,8 @@ st.markdown("""
 col1, col2 = st.columns(2, gap='medium')
 
 with col1:
+
+    st.write('Temporary place holder')
         
 #    st.image('./images/gene_pools.png')
         
