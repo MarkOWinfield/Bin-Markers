@@ -76,13 +76,13 @@ st.markdown("""
             )
 
 # Load the table from a csv file
-dfWildSpeciesList = pd.read_csv('./data/wild_relatives_introduction.csv')
+#dfWildSpeciesList = pd.read_csv('./data/wild_relatives_introduction.csv')
 
 col1, col2 = st.columns(2, gap='medium')
 
 with col1:
         
-    st.image('./images/gene_pools.png')
+#    st.image('./images/gene_pools.png')
         
         
 with col2:
