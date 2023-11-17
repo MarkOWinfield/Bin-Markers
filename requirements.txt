@@ -1,8 +1,1 @@
-streamlit
-streamlit-aggrid==0.3.3
-altair
-matplotlib
-numpy
-pandas
-scipy==1.9.3
-seaborn
+streamlit==1.24.1
