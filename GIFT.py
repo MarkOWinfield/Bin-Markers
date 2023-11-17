@@ -7,7 +7,6 @@ Created on Fri Aug  4 11:34:14 2023
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 
 st.set_page_config(page_title="Gene Positions Along Chromosomes", layout="wide")
 #st.write(os.getcwd())
